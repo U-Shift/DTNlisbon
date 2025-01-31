@@ -1,2 +1,3 @@
-# dtn25
-Repo for the DTN Annual Forum Lisbon 2025 website and other info
+# DTN Annual Forum 2025
+
+EIT Urban Mobility Doctoral Training Network Annual Forum
