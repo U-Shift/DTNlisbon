@@ -43,8 +43,8 @@ vignettes/*.pdf
 docs/
 
 # quarto
-_site/
-
+/.quarto/
+/_site/
 
 # translation temp files
 po/*~
@@ -53,3 +53,4 @@ po/*~
 rsconnect/
 
 /.quarto/
+dtn25.Rproj
