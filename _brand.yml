@@ -1,0 +1,9 @@
+
+typography:
+  fonts:
+    - family: Titillium Web
+      source: google
+    - family: Space Mono
+      source: google
+  base: Titillium Web
+  headings: Titillium Web
