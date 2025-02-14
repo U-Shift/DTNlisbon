@@ -1,11 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://U-Shift.github.io/dtn25/about.html</loc>
-    <lastmod>2025-01-31T19:51:12.153Z</lastmod>
+    <loc>https://U-Shift.github.io/DTNlisbon/index.html</loc>
+    <lastmod>2025-02-14T16:33:44.604Z</lastmod>
   </url>
   <url>
-    <loc>https://U-Shift.github.io/dtn25/index.html</loc>
-    <lastmod>2025-01-31T19:51:12.633Z</lastmod>
+    <loc>https://U-Shift.github.io/DTNlisbon/program/day2.html</loc>
+    <lastmod>2025-02-14T16:33:45.243Z</lastmod>
+  </url>
+  <url>
+    <loc>https://U-Shift.github.io/DTNlisbon/program/day3.html</loc>
+    <lastmod>2025-02-14T16:33:45.561Z</lastmod>
+  </url>
+  <url>
+    <loc>https://U-Shift.github.io/DTNlisbon/program/day1.html</loc>
+    <lastmod>2025-02-14T16:33:45.874Z</lastmod>
   </url>
 </urlset>

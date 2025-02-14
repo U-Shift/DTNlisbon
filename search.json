@@ -1,16 +1,23 @@
 [
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
+    "objectID": "program/day2.html",
+    "href": "program/day2.html",
+    "title": "11th September 2025",
     "section": "",
-    "text": "It will be awesome!"
+    "text": "Soon available…"
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "EIT Urban Mobility DTN Annual Forum 2025",
+    "objectID": "program/day3.html",
+    "href": "program/day3.html",
+    "title": "12th September 2025",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+    "text": "Soon available…"
+  },
+  {
+    "objectID": "program/day1.html",
+    "href": "program/day1.html",
+    "title": "10th September 2025",
+    "section": "",
+    "text": "Soon available…"
   }
 ]
