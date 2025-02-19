@@ -1,12 +1,14 @@
 project:
   type: website
+  resources:
+    - images/
 
 website:
   title: "DTN Annual Forum 2025"
   search: false
   navbar:
-    pinned: true
-    background: transparent
+    pinned: false
+    background: white
     left:
       - href: index.qmd
         text: Home
@@ -15,16 +17,17 @@ website:
 
   sidebar:
     - id: program
-      title: "Program"
+      title: "Forum"
       collapse-level: 2
       contents: 
-        - program/day1.qmd
-        - program/day2.qmd
-        - program/day3.qmd
+        - forum/day1.qmd
+        - forum/day2.qmd
+        - forum/day3.qmd
 
   page-footer: 
     left: "
       <img src='/images/logos/ulisboa.png' style='width:10%; margin-right: 1rem;' />
+
       <img src='/images/logos/eit.png' style='width:50%;' />
     " 
     right: 
@@ -36,9 +39,13 @@ website:
 
 format:
   html:
-    theme: cosmo
+    theme: 
+    - default
+    - styles/theme.scss
+    mainfont: Titillium web
     css: styles.css
-    toc: true
+    toc: false
+
 
 editor: visual
 
