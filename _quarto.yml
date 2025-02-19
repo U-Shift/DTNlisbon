@@ -14,6 +14,7 @@ website:
         text: Home
       - about.qmd
       - sidebar:program
+      - sidebar:courses
 
   sidebar:
     - id: program
@@ -23,6 +24,14 @@ website:
         - forum/day1.qmd
         - forum/day2.qmd
         - forum/day3.qmd
+    - id: courses
+      title: "Courses"
+      collapse-level: 2
+      contents:
+        - courses/course1.qmd
+        - courses/course2.qmd
+        - courses/course3.qmd
+        - courses/course4.qmd
 
   page-footer: 
     left: "

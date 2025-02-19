@@ -32,6 +32,7 @@ table {
     td:has(.event-filled-green) {background-color: #00662F!important; color: #ffffff;}
     td:has(.event-filled-orange) {background-color: #ED6F00!important; color: #ffffff;}
     td:has(.event-filled-blue) {background-color: #73C4EE!important; }
+    td:has(.event-filled-red) {background-color: #CD154F!important; color: #ffffff; }
 
     td:has(.size-2) {
         padding-top: 3rem!important; 

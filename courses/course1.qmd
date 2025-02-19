@@ -1,0 +1,18 @@
+---
+title: Course 1 | 8th September 2025
+format:
+  html:
+    css: ../styles/schedule.scss
+---
+
+## About
+Available soon...
+
+
+## Schedule
+| |  |
+| --- | ---- |
+| 9:00 - 12:30 | <span class="event-filled-orange"></span> Course    |
+| 12:30 - 13:30       | <span class="event-outline-blue"></span> Free time                     |
+| 13:30 - 17:00 | <span class="event-filled-orange"></span> Course    |
+| 17:00       | <span class="event-outline-blue"></span> Informal social event                     |
