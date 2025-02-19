@@ -24,6 +24,7 @@ ul.task-list li input[type="checkbox"] {
 
 
 <script src="../site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="../site_libs/quarto-nav/headroom.min.js"></script>
 <script src="../site_libs/clipboard/clipboard.min.js"></script>
 <script src="../site_libs/quarto-html/quarto.js"></script>
 <script src="../site_libs/quarto-html/popper.min.js"></script>
@@ -50,9 +51,10 @@ ul.task-list li input[type="checkbox"] {
 
 
 <link rel="stylesheet" href="../styles.css">
+<link rel="stylesheet" href="../styles/schedule.scss">
 </head>
 
-<body class="nav-sidebar floating nav-fixed">
+<body class="nav-sidebar floating nav-fixed fullcontent">
 
 <div id="quarto-search-results"></div>
   <header id="quarto-header" class="headroom fixed-top">
@@ -72,26 +74,60 @@ ul.task-list li input[type="checkbox"] {
     <a class="nav-link" href="../index.html" rel="" target="">
  <span class="menu-text">Home</span></a>
   </li>  
-  <li class="nav-item">
-    <a class="nav-link" href="../about.html" rel="" target="">
- <span class="menu-text">About</span></a>
-  </li>  
   <li class="nav-item dropdown ">
-    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-program" role="button" data-bs-toggle="dropdown" aria-expanded="false" rel="" target="">
- <span class="menu-text">Program</span>
+    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-info" role="button" data-bs-toggle="dropdown" aria-expanded="false" rel="" target="">
+ <span class="menu-text">Info</span>
     </a>
-    <ul class="dropdown-menu" aria-labelledby="nav-menu-program">    
+    <ul class="dropdown-menu" aria-labelledby="nav-menu-info">    
         <li>
-    <a class="dropdown-item" href="../program/day1.html" rel="" target="">
+    <a class="dropdown-item" href="../info/gettingHere.html" rel="" target="">
+ <span class="dropdown-text">Getting here</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="../info/gettingAround.html" rel="" target="">
+ <span class="dropdown-text">Getting around</span></a>
+  </li>  
+    </ul>
+  </li>
+  <li class="nav-item dropdown ">
+    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-forum" role="button" data-bs-toggle="dropdown" aria-expanded="false" rel="" target="">
+ <span class="menu-text">Forum</span>
+    </a>
+    <ul class="dropdown-menu" aria-labelledby="nav-menu-forum">    
+        <li>
+    <a class="dropdown-item" href="../forum/day1.html" rel="" target="">
  <span class="dropdown-text">10th September 2025</span></a>
   </li>  
         <li>
-    <a class="dropdown-item" href="../program/day2.html" rel="" target="">
+    <a class="dropdown-item" href="../forum/day2.html" rel="" target="">
  <span class="dropdown-text">11th September 2025</span></a>
   </li>  
         <li>
-    <a class="dropdown-item" href="../program/day3.html" rel="" target="">
+    <a class="dropdown-item" href="../forum/day3.html" rel="" target="">
  <span class="dropdown-text">12th September 2025</span></a>
+  </li>  
+    </ul>
+  </li>
+  <li class="nav-item dropdown ">
+    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-courses" role="button" data-bs-toggle="dropdown" aria-expanded="false" rel="" target="">
+ <span class="menu-text">Courses</span>
+    </a>
+    <ul class="dropdown-menu" aria-labelledby="nav-menu-courses">    
+        <li>
+    <a class="dropdown-item" href="../courses/course1.html" rel="" target="">
+ <span class="dropdown-text">Course 1 | 8th September 2025</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="../courses/course2.html" rel="" target="">
+ <span class="dropdown-text">Course 2 | 9th September 2025</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="../courses/course3.html" rel="" target="">
+ <span class="dropdown-text">Course 3 | 13th September 2025</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="../courses/course4.html" rel="" target="">
+ <span class="dropdown-text">Course 4 | 14th September 2025</span></a>
   </li>  
     </ul>
   </li>
@@ -106,7 +142,7 @@ ul.task-list li input[type="checkbox"] {
       <button type="button" class="quarto-btn-toggle btn" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar,#quarto-sidebar-glass" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
         <i class="bi bi-layout-text-sidebar-reverse"></i>
       </button>
-      <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="../program/day2.html">11th September 2025</a></li></ol></nav>
+      <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="../forum/day2.html">11th September 2025</a></li></ol></nav>
       <a class="flex-grow-1" role="button" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar,#quarto-sidebar-glass" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">      
       </a>
     </div>
@@ -120,19 +156,19 @@ ul.task-list li input[type="checkbox"] {
     <ul class="list-unstyled mt-1">
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../program/day1.html" class="sidebar-item-text sidebar-link">
+  <a href="../forum/day1.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">10th September 2025</span></a>
   </div>
 </li>
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../program/day2.html" class="sidebar-item-text sidebar-link active">
+  <a href="../forum/day2.html" class="sidebar-item-text sidebar-link active">
  <span class="menu-text">11th September 2025</span></a>
   </div>
 </li>
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../program/day3.html" class="sidebar-item-text sidebar-link">
+  <a href="../forum/day3.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">12th September 2025</span></a>
   </div>
 </li>
@@ -141,9 +177,7 @@ ul.task-list li input[type="checkbox"] {
 </nav>
 <div id="quarto-sidebar-glass" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar,#quarto-sidebar-glass"></div>
 <!-- margin-sidebar -->
-    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
-        
-    </div>
+    
 <!-- main -->
 <main class="content" id="quarto-document-content">
 
@@ -164,7 +198,57 @@ ul.task-list li input[type="checkbox"] {
 
 </header>
 
-<p>Soon available…</p>
+<div class="alert alert-info">
+<p><strong><i class="bi bi-info-circle-fill"></i> Preliminary schedule</strong> This schedule is only indicative and might be subject to changes.</p>
+</div>
+<table class="table">
+<colgroup>
+<col style="width: 42%">
+<col style="width: 57%">
+</colgroup>
+<tbody>
+<tr class="odd">
+<td>9:00 - 9:30</td>
+<td><span class="event-outline-blue"></span> Registration / coffee</td>
+</tr>
+<tr class="even">
+<td>9:30</td>
+<td><span class="event-outline-blue"></span> Welcome</td>
+</tr>
+<tr class="odd">
+<td>9:45</td>
+<td><span class="event-filled-green"></span> Keynote</td>
+</tr>
+<tr class="even">
+<td>10:30</td>
+<td><span class="event-filled-green"></span> Allumni talks</td>
+</tr>
+<tr class="odd">
+<td>11:15</td>
+<td><span class="event-outline-blue"></span> Coffee break</td>
+</tr>
+<tr class="even">
+<td>11:40</td>
+<td><span class="event-filled-green size-2"></span> Parallel discussions</td>
+</tr>
+<tr class="odd">
+<td>12:30</td>
+<td><span class="event-outline-blue"></span> Lunch</td>
+</tr>
+<tr class="even">
+<td>13:30</td>
+<td><span class="event-filled-blue size-3"></span> Technical Visit</td>
+</tr>
+<tr class="odd">
+<td>17:00</td>
+<td><span class="event-outline-blue"></span> Free time on the bus or walking</td>
+</tr>
+<tr class="even">
+<td>18:00</td>
+<td><span class="event-filled-red size-3"></span> Samba party</td>
+</tr>
+</tbody>
+</table>
 
 
 

@@ -1,23 +1,163 @@
 [
   {
-    "objectID": "program/day2.html",
-    "href": "program/day2.html",
+    "objectID": "forum/day2.html",
+    "href": "forum/day2.html",
     "title": "11th September 2025",
     "section": "",
-    "text": "Soon available…"
+    "text": "Preliminary schedule This schedule is only indicative and might be subject to changes.\n\n\n\n\n\n\n\n\n9:00 - 9:30\n Registration / coffee\n\n\n9:30\n Welcome\n\n\n9:45\n Keynote\n\n\n10:30\n Allumni talks\n\n\n11:15\n Coffee break\n\n\n11:40\n Parallel discussions\n\n\n12:30\n Lunch\n\n\n13:30\n Technical Visit\n\n\n17:00\n Free time on the bus or walking\n\n\n18:00\n Samba party"
   },
   {
-    "objectID": "program/day3.html",
-    "href": "program/day3.html",
+    "objectID": "forum/day3.html",
+    "href": "forum/day3.html",
     "title": "12th September 2025",
     "section": "",
-    "text": "Soon available…"
+    "text": "Preliminary schedule This schedule is only indicative and might be subject to changes.\n\n\n\n\n\n\n\n\n9:00 - 9:30\n Coffee\n\n\n9:30\n Keynote 1\n\n\n10:15\n Workshop\n\n\n11:15\n Coffee break\n\n\n11:40\n Keynote 2\n\n\n12:30\n Lunch\n\n\n13:30\n Keynote 3\n\n\n14:15\n Graduation Ceromony & Closing (prizes)\n\n\n16:00\n Allumni meeting + free time\n\n\n17:00\n Castelo São Jorge"
   },
   {
-    "objectID": "program/day1.html",
-    "href": "program/day1.html",
+    "objectID": "forum/day1.html",
+    "href": "forum/day1.html",
     "title": "10th September 2025",
     "section": "",
-    "text": "Soon available…"
+    "text": "Preliminary schedule This schedule is only indicative and might be subject to changes.\n\n\n\n\n\n\n\n\n8:30 - 9:30\n Registration / coffee\n\n\n9:30\n Welcome\n\n\n10:00\n Keynote\n\n\n10:45\n Coffee break\n\n\n11:15\n Pitches\n\n\n12:30\n Lunch\n\n\n13:30\n Belem\n\n\n16:30\n Boat tour\n\n\n19:30\n Free time\n\n\n20:00\n Dinner"
+  },
+  {
+    "objectID": "courses/course4.html",
+    "href": "courses/course4.html",
+    "title": "Course 4 | 14th September 2025",
+    "section": "",
+    "text": "Available soon…"
+  },
+  {
+    "objectID": "courses/course4.html#about",
+    "href": "courses/course4.html#about",
+    "title": "Course 4 | 14th September 2025",
+    "section": "",
+    "text": "Available soon…"
+  },
+  {
+    "objectID": "courses/course4.html#schedule",
+    "href": "courses/course4.html#schedule",
+    "title": "Course 4 | 14th September 2025",
+    "section": "Schedule",
+    "text": "Schedule\n\n\n\n\n\n\n\n9:00 - 12:30\n Course\n\n\n12:30 - 13:30\n Free time\n\n\n13:30 - 17:00\n Course\n\n\n17:00\n Informal social event"
+  },
+  {
+    "objectID": "courses/course2.html",
+    "href": "courses/course2.html",
+    "title": "Course 2 | 9th September 2025",
+    "section": "",
+    "text": "Available soon…"
+  },
+  {
+    "objectID": "courses/course2.html#about",
+    "href": "courses/course2.html#about",
+    "title": "Course 2 | 9th September 2025",
+    "section": "",
+    "text": "Available soon…"
+  },
+  {
+    "objectID": "courses/course2.html#schedule",
+    "href": "courses/course2.html#schedule",
+    "title": "Course 2 | 9th September 2025",
+    "section": "Schedule",
+    "text": "Schedule\n\n\n\n\n\n\n\n9:00 - 12:30\n Course\n\n\n12:30 - 13:30\n Free time\n\n\n13:30 - 17:00\n Course\n\n\n17:00\n Informal social event"
+  },
+  {
+    "objectID": "courses/course1.html",
+    "href": "courses/course1.html",
+    "title": "Course 1 | 8th September 2025",
+    "section": "",
+    "text": "Available soon…"
+  },
+  {
+    "objectID": "courses/course1.html#about",
+    "href": "courses/course1.html#about",
+    "title": "Course 1 | 8th September 2025",
+    "section": "",
+    "text": "Available soon…"
+  },
+  {
+    "objectID": "courses/course1.html#schedule",
+    "href": "courses/course1.html#schedule",
+    "title": "Course 1 | 8th September 2025",
+    "section": "Schedule",
+    "text": "Schedule\n\n\n\n\n\n\n\n9:00 - 12:30\n Course\n\n\n12:30 - 13:30\n Free time\n\n\n13:30 - 17:00\n Course\n\n\n17:00\n Informal social event"
+  },
+  {
+    "objectID": "courses/course3.html",
+    "href": "courses/course3.html",
+    "title": "Course 3 | 13th September 2025",
+    "section": "",
+    "text": "Available soon…"
+  },
+  {
+    "objectID": "courses/course3.html#about",
+    "href": "courses/course3.html#about",
+    "title": "Course 3 | 13th September 2025",
+    "section": "",
+    "text": "Available soon…"
+  },
+  {
+    "objectID": "courses/course3.html#schedule",
+    "href": "courses/course3.html#schedule",
+    "title": "Course 3 | 13th September 2025",
+    "section": "Schedule",
+    "text": "Schedule\n\n\n\n\n\n\n\n9:00 - 12:30\n Course\n\n\n12:30 - 13:30\n Free time\n\n\n13:30 - 17:00\n Course\n\n\n17:00\n Informal social event"
+  },
+  {
+    "objectID": "info/gettingHere.html",
+    "href": "info/gettingHere.html",
+    "title": "Getting here",
+    "section": "",
+    "text": "Location to be disclosed The location where the events will take place is still to be disclosed. This guide will be updated accordingly."
+  },
+  {
+    "objectID": "info/gettingHere.html#by-air",
+    "href": "info/gettingHere.html#by-air",
+    "title": "Getting here",
+    "section": " By air",
+    "text": "By air\nLisbon international airport connects the world with the city and has a direct connection to its transportation system, through the metro red line.\n\n\nLisbon airport"
+  },
+  {
+    "objectID": "info/gettingHere.html#by-train",
+    "href": "info/gettingHere.html#by-train",
+    "title": "Getting here",
+    "section": " By train",
+    "text": "By train\nLisbon has two main stations for long distance services. Despite not having direct connections with foreign countries, if you come from anywhere in Portugal you can get here by picking a train with destination Lisboa Santa Apolónia if you come from the north or Lisboa Oriente if you come from the south. Both stations are connected to the metro network.\n\n\nGare do Oriente station"
+  },
+  {
+    "objectID": "info/gettingHere.html#by-bus",
+    "href": "info/gettingHere.html#by-bus",
+    "title": "Getting here",
+    "section": " By bus",
+    "text": "By bus\nAn alternative to get to Lisbon are the long distance buses, covering Portugal mainland, Spain and even France. At Lisbon, they get to Sete Rios or Gare do Oriente. Both stations are connected to the metro network.\n\n\nSete Rios station"
+  },
+  {
+    "objectID": "info/gettingAround.html",
+    "href": "info/gettingAround.html",
+    "title": "Getting around",
+    "section": "",
+    "text": "Lisbon is serviced by a robust transportation system, build up on metro, bus, trams and urban trains. Here we list the main means of transportation and how you can use them."
+  },
+  {
+    "objectID": "info/gettingAround.html#means-of-transportation",
+    "href": "info/gettingAround.html#means-of-transportation",
+    "title": "Getting around",
+    "section": "Means of transportation",
+    "text": "Means of transportation\n\n\n\n\nWalking\nThe best way to get around the city. Get on your feet and explore!\n\n\n\nCycling\nLisbon has 128km of dedicated cycle lanes. Discover the network at ciclovias.pt!  You can ride them using the public bike system, GIRA. It has a fee of only 2€/day, including unlimited trips up to 30 minutes (+2€ per 45-90’). Download the app and get a bike here!\n\n\n\nMetro\nMetro is the quickest way to cover distances inside the city. Find out more at Metro de Lisboa website.\n\n\n\nBus/tram/lift\nBuses cover the entire city, complementing the metro network for less dense areas accessibility. Trams and lifts allow you to discover the city hills and Belém. Discover the network at Carris website."
+  },
+  {
+    "objectID": "info/gettingAround.html#tickets",
+    "href": "info/gettingAround.html#tickets",
+    "title": "Getting around",
+    "section": "Tickets",
+    "text": "Tickets\nTrips can be payed with contactless cards, being charged the same amount as for the board ticket. However, you can buy a Zapping card (0,50€ per card, one card per person) at the Metro machines and top it up with 3, 5 or 10€. Using this card, the individual trips are cheaper on buses and trams.\n\n\n\n\nContactless/board ticket\nZapping\n\n\nMetro\n1,85€\n1,66€\n\n\nBus\n2,20€\n1,85 €\n\n\nTram\n3,20€\n1,85 €\n\n\nLifts\n4,20€\n1,85€\n\n\n\nAs an alternative, you can buy a 24 hour card (at the Metro machines) valid for the whole network (metro+bus+tram+lifts), for only 7,00€."
+  },
+  {
+    "objectID": "info/gettingAround.html#apps",
+    "href": "info/gettingAround.html#apps",
+    "title": "Getting around",
+    "section": "Apps",
+    "text": "Apps\nBelow you can find some apps that integrate information about Lisbon transportation system, allowing you to find the best route and track vehicles in real time!"
   }
 ]
