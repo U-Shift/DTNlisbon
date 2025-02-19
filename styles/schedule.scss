@@ -1,20 +1,5 @@
 @import "styles/theme.scss";
 
-.sidebar-item {
-    border: 1px solid #D2DF83;
-    border-radius: 32px;
-    padding: 6px;
-    padding-left: 12px;
-
-    &:has(a.active) {background-color: #D2DF83;}
-    &:hover{text-decoration: underline;}
-
-    .active {font-weight: bold;}
-
-    .sidebar-item-text {
-        span {color: black!important;}
-    }
-}
 
 table {
     border-collapse:separate; 
@@ -46,3 +31,5 @@ table {
     
     
 }
+
+p {margin-bottom: 0;}

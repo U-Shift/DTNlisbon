@@ -1,0 +1,45 @@
+---
+title: "Getting around"
+format:
+  html:
+    css: ../styles/info.scss
+
+---
+
+Lisbon is serviced by a robust transportation system, build up on metro, bus, trams and urban trains. Here we list the main means of transportation and how you can use them.
+
+![](https://pt.lisbonmap360.com/img/0/mapa-aeroportos-de-lisboa.jpg)
+
+## Means of transportation
+ 
+|  |  |  |
+| -- | -- | -- |
+| <i class="bi bi-person-heart"></i> | Walking | The best way to get around the city. Get on your feet and explore! |
+| <i class="bi bi-bicycle"></i> | Cycling | Lisbon has 128km of dedicated cycle lanes. Discover the network at [ciclovias.pt](https://www.ciclovias.pt)! <br/><br/> You can ride them using the public bike system, GIRA. It has a fee of only 2€/day, including unlimited trips up to 30 minutes (+2€ per 45-90'). Download the app and get a bike [here](https://www.gira-bicicletasdelisboa.pt/en/how-it-works/)! |
+| <i class="bi bi-train-front"></i> | Metro | Metro is the quickest way to cover distances inside the city. Find out more at [Metro de Lisboa website](https://www.metrolisboa.pt/en/). |
+| <i class="bi bi-bus-front"></i> | Bus/tram/lift | Buses cover the entire city, complementing the metro network for less dense areas accessibility. Trams and lifts allow you to discover the city hills and Belém. Discover the network at [Carris website](https://carris.pt/en/).  |     
+
+## Tickets
+
+
+Trips can be payed with **contactless** cards, being charged the same amount as for the board ticket. However, you can buy a **Zapping card** (0,50€ per card, one card per person) at the Metro machines and top it up with 3, 5 or 10€. Using this card, the individual trips are cheaper on buses and trams.
+
+|  |  |  |
+| -- | -- | -- |
+| | Contactless/board ticket | Zapping | 
+| Metro | 1,85€ | 1,66€ | 
+| Bus | 2,20€ | 1,85 € |
+| Tram | 3,20€ | 1,85 € | 
+| Lifts | 4,20€ | 1,85€ |
+
+
+As an alternative, you can buy a **24 hour card** (at the Metro machines) valid for the whole network (metro+bus+tram+lifts), for only 7,00€.
+
+## Apps
+
+Below you can find some apps that integrate information about Lisbon transportation system, allowing you to find the best route and track vehicles in real time!
+
+| | | | | 
+| -- | -- | -- | -- |
+| [![](https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Google_Maps_Logo.svg/1200px-Google_Maps_Logo.svg.png)](https://maps.google.com/) | [![](https://logos-download.com/wp-content/uploads/2024/03/Citymapper_Logo.png)](https://citymapper.com/?lang=en) |  [![Moovit](https://upload.wikimedia.org/wikipedia/commons/e/eb/Moovit_Logo-primary.png)](https://m.moovitapp.com/)  | [![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/58e5529add8c8e5c5731278e/images/5d32242704286347867526bb/file-NjWtFSLjN4.png)](https://transitapp.com/) |
+

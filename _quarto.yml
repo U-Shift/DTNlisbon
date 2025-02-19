@@ -12,7 +12,7 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
+      - sidebar:info
       - sidebar:program
       - sidebar:courses
 
@@ -32,6 +32,12 @@ website:
         - courses/course2.qmd
         - courses/course3.qmd
         - courses/course4.qmd
+    - id: info
+      title: "Info"
+      collapse-level: 2
+      contents:
+        - info/gettingHere.qmd
+        - info/gettingAround.qmd
 
   page-footer: 
     left: "
