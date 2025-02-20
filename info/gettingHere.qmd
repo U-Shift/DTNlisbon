@@ -7,10 +7,10 @@ format:
 ---
 
 <div class="alert alert-info">
-  <strong><i class="bi bi-info-circle-fill"></i> Location to be disclosed</strong> The location where the events will take place is still to be disclosed. This guide will be updated accordingly.
+  <strong>{{< fa circle-info >}} Location to be disclosed</strong> The location where the events will take place is still to be disclosed. This guide will be updated accordingly.
 </div>
 
-## <i class="bi bi-airplane"></i> By air 
+## {{< fa plane-arrival >}} By air 
 
 Lisbon international airport connects the world with the city and has a direct connection to its transportation system, through the metro red line.
 
@@ -18,7 +18,7 @@ Lisbon international airport connects the world with the city and has a direct c
 
 > Lisbon airport
 
-## <i class="bi bi-train-front"></i> By train
+## {{< fa train >}} By train
 
 Lisbon has two main stations for long distance services. Despite not having direct connections with foreign countries, if you come from anywhere in Portugal you can get here by picking a train with destination **Lisboa Santa Apolónia** if you come from the north or **Lisboa Oriente** if you come from the south. Both stations are connected to the metro network.
 
@@ -26,7 +26,7 @@ Lisbon has two main stations for long distance services. Despite not having dire
 
 > Gare do Oriente station
 
-## <i class="bi bi-bus-front"></i> By bus
+## {{< fa bus-simple >}} By bus
 
 An alternative to get to Lisbon are the long distance buses, covering Portugal mainland, Spain and even France. At Lisbon, they get to **Sete Rios** or **Gare do Oriente**. Both stations are connected to the metro network.
 
