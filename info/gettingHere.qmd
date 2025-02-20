@@ -2,7 +2,7 @@
 title: "Getting here"
 format:
   html:
-    css: ../styles/info.scss
+    css: ../styles/info.css
 
 ---
 

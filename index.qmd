@@ -4,7 +4,7 @@ sidebar: false
 format:
   html:
     page-layout: custom
-    css: styles/home.scss
+    css: styles/home.css
     include-before-body: html/home/header.html
 ---
 

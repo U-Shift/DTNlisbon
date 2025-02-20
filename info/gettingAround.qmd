@@ -2,7 +2,7 @@
 title: "Getting around"
 format:
   html:
-    css: ../styles/info.scss
+    css: ../styles/info.css
 
 ---
 

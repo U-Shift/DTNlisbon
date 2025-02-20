@@ -2,7 +2,7 @@
 title: 11th September 2025
 format:
   html:
-    css: ../styles/schedule.scss
+    css: ../styles/schedule.css
 ---
 <div class="alert alert-info">
   <strong><i class="bi bi-info-circle-fill"></i> Preliminary schedule</strong> This schedule is only indicative and might be subject to changes.

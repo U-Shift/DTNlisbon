@@ -2,7 +2,7 @@
 title: Course 2 | 9th September 2025
 format:
   html:
-    css: ../styles/schedule.scss
+    css: ../styles/schedule.css
 ---
 
 ## About
