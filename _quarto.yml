@@ -38,6 +38,7 @@ website:
       contents:
         - info/gettingHere.qmd
         - info/gettingAround.qmd
+        - info/team.qmd
 
   page-footer: 
     left: "

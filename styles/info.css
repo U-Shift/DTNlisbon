@@ -7,3 +7,37 @@ td i, h2 i {font-size: 1.8rem; color: #00662F;}
 a {color: #034EA2; text-decoration: none;}
 
 #apps table td {width: 25%;}
+
+/** Table team **/
+table:has(.table-team), table:has(.table-team) {
+    border: none;
+}
+table:has(.table-team) td, table:has(.table-team) th, table:has(.table-team) tbody, table:has(.table-team) thead {
+    border-width: 0 !important;
+}
+
+table:has(.table-team) tbody {
+    display: flex!important;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+table:has(.table-team) tbody tr {
+    width: 33%;
+    display: flex!important;
+    flex-direction: column;
+    flex-wrap: nowrap;
+
+    text-align: center;
+}
+table:has(.table-team) tbody tr td:not(:first-of-type) {
+    padding: 0;
+}
+table:has(.table-team) tbody tr td:last-of-type {
+    font-size: .9rem;
+    color: #878787;
+}
+
+
+table:has(.table-team-secondary) tbody tr {
+    width: 25%;
+}
