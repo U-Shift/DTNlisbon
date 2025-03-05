@@ -29,6 +29,11 @@ table:has(.table-team) tbody tr {
 
     text-align: center;
 }
+@media (max-width: 576px) {
+    table:has(.table-team) tbody tr {
+        width: 50%;
+    }
+}
 table:has(.table-team) tbody tr td:not(:first-of-type) {
     padding: 0;
 }
@@ -40,4 +45,9 @@ table:has(.table-team) tbody tr td:last-of-type {
 
 table:has(.table-team-secondary) tbody tr {
     width: 25%;
+}
+@media (max-width: 576px) {
+    table:has(.table-team-secondary) tbody tr {
+        width: 33%;
+    }
 }

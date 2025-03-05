@@ -29,3 +29,24 @@ $success: #96C247 !default;
         span {color: black!important;}
     }
 }
+
+.nav-footer-center {
+    display: none!important;
+}
+
+.nav-footer-left {
+    flex-grow: 10!important;
+}
+.footer-ulisboa {
+    width: 5rem!important;
+    margin-right: 1rem;
+    @media (max-width: 576px) {
+        width: 2.5rem!important;
+    }
+}
+.footer-eit {
+    width:18rem!important;    
+    @media (max-width: 576px) {
+        width: 9rem!important;
+    }
+}
