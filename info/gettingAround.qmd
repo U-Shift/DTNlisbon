@@ -15,9 +15,9 @@ Lisbon is serviced by a robust transportation system, build up on metro, bus, tr
 |  |  |  |
 | -- | -- | -- |
 | {{< fa person-walking >}}  | Walking | The best way to get around the city. Get on your feet and explore! |
-| {{< fa bicycle >}} | Cycling | Lisbon has 128km of dedicated cycle lanes. Discover the network at [ciclovias.pt](https://www.ciclovias.pt)! <br/><br/> You can ride them using the public bike system, GIRA. It has a fee of only 2€/day, including unlimited trips up to 30 minutes (+2€ per 45-90'). Download the app and get a bike [here](https://www.gira-bicicletasdelisboa.pt/en/how-it-works/)! |
-| {{< fa train-subway >}} | Metro | Metro is the quickest way to cover distances inside the city. Find out more at [Metro de Lisboa website](https://www.metrolisboa.pt/en/). |
-| {{< fa bus >}} | Bus/tram/lift | Buses cover the entire city, complementing the metro network for less dense areas accessibility. Trams and lifts allow you to discover the city hills and Belém. Discover the network at [Carris website](https://carris.pt/en/).  |     
+| {{< fa bicycle >}} | Cycling | Lisbon has 128km of dedicated cycle lanes. Discover the network at [ciclovias.pt](https://www.ciclovias.pt){target="_blank"}! <br/><br/> You can ride them using the public bike system, GIRA. It has a fee of only 2€/day, including unlimited trips up to 30 minutes (+2€ per 45-90'). Download the app and get a bike [here](https://www.gira-bicicletasdelisboa.pt/en/how-it-works/){target="_blank"}! |
+| {{< fa train-subway >}} | Metro | Metro is the quickest way to cover distances inside the city. Find out more at [Metro de Lisboa website](https://www.metrolisboa.pt/en/){target="_blank"}. |
+| {{< fa bus >}} | Bus/tram/lift | Buses cover the entire city, complementing the metro network for less dense areas accessibility. Trams and lifts allow you to discover the city hills and Belém. Discover the network at [Carris website](https://carris.pt/en/){target="_blank"}.  |     
 
 ## Tickets
 
@@ -41,5 +41,5 @@ Below you can find some apps that integrate information about Lisbon transportat
 
 | | | | | 
 | -- | -- | -- | -- |
-| [![](https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Google_Maps_Logo.svg/1200px-Google_Maps_Logo.svg.png)](https://maps.google.com/) | [![](https://logos-download.com/wp-content/uploads/2024/03/Citymapper_Logo.png)](https://citymapper.com/?lang=en) |  [![Moovit](https://upload.wikimedia.org/wikipedia/commons/e/eb/Moovit_Logo-primary.png)](https://m.moovitapp.com/)  | [![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/58e5529add8c8e5c5731278e/images/5d32242704286347867526bb/file-NjWtFSLjN4.png)](https://transitapp.com/) |
+| [![](https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Google_Maps_Logo.svg/1200px-Google_Maps_Logo.svg.png)](https://maps.google.com/){target="_blank"} | [![](https://logos-download.com/wp-content/uploads/2024/03/Citymapper_Logo.png)](https://citymapper.com/?lang=en){target="_blank"} |  [![Moovit](https://upload.wikimedia.org/wikipedia/commons/e/eb/Moovit_Logo-primary.png)](https://m.moovitapp.com/){target="_blank"}  | [![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/58e5529add8c8e5c5731278e/images/5d32242704286347867526bb/file-NjWtFSLjN4.png)](https://transitapp.com/){target="_blank"} |
 
