@@ -112,25 +112,39 @@
     "text": "Location to be disclosed The location where the events will take place is still to be disclosed. This guide will be updated accordingly."
   },
   {
-    "objectID": "info/gettingHere.html#by-air",
-    "href": "info/gettingHere.html#by-air",
+    "objectID": "info/gettingHere.html#fa-plane-arrival-by-air",
+    "href": "info/gettingHere.html#fa-plane-arrival-by-air",
     "title": "Getting here",
     "section": " By air",
     "text": "By air\nLisbon international airport connects the world with the city and has a direct connection to its transportation system, through the metro red line.\n\n\nLisbon airport"
   },
   {
-    "objectID": "info/gettingHere.html#by-train",
-    "href": "info/gettingHere.html#by-train",
+    "objectID": "info/gettingHere.html#fa-train-by-train",
+    "href": "info/gettingHere.html#fa-train-by-train",
     "title": "Getting here",
     "section": " By train",
     "text": "By train\nLisbon has two main stations for long distance services. Despite not having direct connections with foreign countries, if you come from anywhere in Portugal you can get here by picking a train with destination Lisboa Santa Apolónia if you come from the north or Lisboa Oriente if you come from the south. Both stations are connected to the metro network.\n\n\nGare do Oriente station"
   },
   {
-    "objectID": "info/gettingHere.html#by-bus",
-    "href": "info/gettingHere.html#by-bus",
+    "objectID": "info/gettingHere.html#fa-bus-simple-by-bus",
+    "href": "info/gettingHere.html#fa-bus-simple-by-bus",
     "title": "Getting here",
     "section": " By bus",
     "text": "By bus\nAn alternative to get to Lisbon are the long distance buses, covering Portugal mainland, Spain and even France. At Lisbon, they get to Sete Rios or Gare do Oriente. Both stations are connected to the metro network.\n\n\nSete Rios station"
+  },
+  {
+    "objectID": "info/team.html",
+    "href": "info/team.html",
+    "title": "Our team",
+    "section": "",
+    "text": "Filipe Moura\nCoordinator\n\n\n\nAna Christ\n4th DTN Intake\n\n\n\nMauricio Fontalvo\n4th DTN Intake\n\n\n\nTeresa Afonso\nStaff\n\n\n\nRosa Félix\nSenior Researcher\n\n\n\nGabriel Valença\n1st DTN Intake\n\n\n\nMariza Queiroz\nFormer PhD\n\n\n\nMiguel Costa\nPhD Student"
+  },
+  {
+    "objectID": "info/team.html#we-also-rely-on-dtns-team-experience-and-support",
+    "href": "info/team.html#we-also-rely-on-dtns-team-experience-and-support",
+    "title": "Our team",
+    "section": "We also rely on DTN’s team experience and support!",
+    "text": "We also rely on DTN’s team experience and support!\n\n\n\n\n\n\n\n\n\n\nBenjamin\n\n\n\nCorinna\n\n\n\nLidya\n\n\n\nAaron"
   },
   {
     "objectID": "info/gettingAround.html",
