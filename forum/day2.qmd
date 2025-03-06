@@ -19,4 +19,4 @@ format:
 | 12:30       | <span class="event-outline-blue"></span> Lunch                                |
 | 13:30       | <span class="event-filled-blue size-3"></span> Technical Visit |
 | 17:00       | <span class="event-outline-blue"></span> Free time on the bus or walking      |
-| 18:00       | <span class="event-filled-red size-3"></span> Samba party             |
+| 18:00       | <span class="event-filled-red size-3"></span> Social event             |
