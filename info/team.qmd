@@ -6,15 +6,17 @@ format:
 ---
 
 | <span class="table-team"></span> | | |
-| -- | -- | -- |
+| -- | -- | --------- |
 | ![](/images/team/fmoura.png) | Filipe Moura | Coordinator |
-| ![](/images/team/achrist.png) | Ana Christ | 4th DTN Intake |
-| ![](/images/team/mfontalvo.png) | Mauricio Fontalvo | 4th DTN Intake |
+| ![](/images/team/achrist.png) | Ana Christ | Communication |
+| ![](/images/team/mfontalvo.png) | Mauricio Fontalvo | Visits |
 | ![](/images/team/tafonso.png) | Teresa Afonso | Staff |
-| ![](/images/team/rfelix.png) | Rosa Félix | Senior Researcher |
-| ![](/images/team/gvalenca.png) | Gabriel Valença | 1st DTN Intake |
-| ![](/images/team/mqueiroz.png) | Mariza Queiroz | Former PhD |
-| ![](/images/team/mcosta.png) | Miguel Costa | PhD Student |
+| ![](/images/team/rfelix.png) | Rosa Félix | Social events |
+| ![](/images/team/gvalenca.png) | Gabriel Valença | Program |
+| ![](/images/team/fnogueira.png) | Freddy Nogueira | Catering |
+| ![](/images/team/jlucena.png) | Jéssica Lucena | Catering |
+| ![](/images/team/gmatos.png) | Gonçalo Matos | Website |
+
 
 ## We also rely on DTN’s team experience and support!
 | <span class="table-team table-team-secondary"></span> | |
