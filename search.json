@@ -4,21 +4,21 @@
     "href": "forum/day2.html",
     "title": "11th September 2025",
     "section": "",
-    "text": "Preliminary schedule This schedule is only indicative and might be subject to changes.\n\n\n\n\n\n\n\n\n9:00 - 9:30\n Registration / coffee\n\n\n9:30\n Welcome\n\n\n9:45\n Keynote\n\n\n10:30\n Allumni talks\n\n\n11:15\n Coffee break\n\n\n11:40\n Parallel discussions\n\n\n12:30\n Lunch\n\n\n13:30\n Technical Visit\n\n\n17:00\n Free time on the bus or walking\n\n\n18:00\n Social event"
+    "text": "Preliminary schedule This schedule is only indicative and might be subject to changes.\n\n\n\n\n\n\n\n\n9:00 - 9:30\n Registration / coffee\n\n\n9:30\n Welcome\n\n\n9:45\n Keynote\n\n\n10:30\n Allumni talks\n\n\n11:15\n Coffee break\n\n\n11:40\n Parallel discussions\n\n\n12:30\n Lunch\n\n\n13:30\n Technical visits\n\n\n18:00\n Social event"
   },
   {
     "objectID": "forum/day3.html",
     "href": "forum/day3.html",
     "title": "12th September 2025",
     "section": "",
-    "text": "Preliminary schedule This schedule is only indicative and might be subject to changes.\n\n\n\n\n\n\n\n\n9:00 - 9:30\n Coffee\n\n\n9:30\n Keynote 1\n\n\n10:15\n Workshop\n\n\n11:15\n Coffee break\n\n\n11:40\n Keynote 2\n\n\n12:30\n Lunch\n\n\n13:30\n Keynote 3\n\n\n14:15\n Graduation Ceromony & Closing (prizes)\n\n\n16:00\n Allumni meeting + free time\n\n\n17:00\n Castelo São Jorge"
+    "text": "Preliminary schedule This schedule is only indicative and might be subject to changes.\n\n\n\n\n\n\n\n\n9:00 - 9:30\n Coffee\n\n\n9:30\n Keynote 1\n\n\n10:15\n Workshop\n\n\n11:15\n Coffee break\n\n\n11:40\n Keynote 2\n\n\n12:30\n Lunch\n\n\n13:30\n Keynote 3\n\n\n14:15\n Graduation Ceromony\n\n\n16:00\n Allumni meeting\n\n\n17:00\n São Jorge’s Castle"
   },
   {
     "objectID": "forum/day1.html",
     "href": "forum/day1.html",
     "title": "10th September 2025",
     "section": "",
-    "text": "Preliminary schedule This schedule is only indicative and might be subject to changes.\n\n\n\n\n\n\n\n\n8:30 - 9:30\n Registration / coffee\n\n\n9:30\n Welcome\n\n\n10:00\n Keynote\n\n\n10:45\n Coffee break\n\n\n11:15\n Pitches\n\n\n12:30\n Lunch\n\n\n13:30\n Belem\n\n\n16:30\n Boat tour\n\n\n19:30\n Free time\n\n\n20:00\n Dinner"
+    "text": "Preliminary schedule This schedule is only indicative and might be subject to changes.\n\n\n\n\n\n\n\n\n8:30 - 9:30\n Registration / coffee\n\n\n9:30\n Welcome\n\n\n10:00\n Keynote\n\n\n10:45\n Coffee break\n\n\n11:15\n PhD poster pitching\n\n\n12:30\n Lunch\n\n\n13:30\n Outdoor activity\n\n\n20:00\n Dinner"
   },
   {
     "objectID": "courses/course4.html",
@@ -133,32 +133,67 @@
     "text": "Schedule Day 2\n\n\n\n\n\n\n\n9:00 - 12:30\n Course\n\n\n12:30 - 13:30\n Free time\n\n\n13:30 - 17:00\n Course\n\n\n17:00\n Informal social event"
   },
   {
+    "objectID": "info/accommodation.html",
+    "href": "info/accommodation.html",
+    "title": "Accommodation",
+    "section": "",
+    "text": "The venue of DTN Annual Forum 2025 is right at the heart of Lisbon, with plenty of accomodations around! In this page we share with you some reccomendations on where to stay.\n\n Soon available We are still preparing our reccomendations list. Stay tuned!"
+  },
+  {
+    "objectID": "info/gettingToLisbon.html",
+    "href": "info/gettingToLisbon.html",
+    "title": "Getting to Lisbon",
+    "section": "",
+    "text": "Lisbon international airport (Humberto Delgado Airport) connects the world with the city and has a direct connection to its transportation system, through the metro red line.\n\n\n\nLisbon airport"
+  },
+  {
+    "objectID": "info/gettingToLisbon.html#fa-plane-arrival-by-air",
+    "href": "info/gettingToLisbon.html#fa-plane-arrival-by-air",
+    "title": "Getting to Lisbon",
+    "section": "",
+    "text": "Lisbon international airport (Humberto Delgado Airport) connects the world with the city and has a direct connection to its transportation system, through the metro red line.\n\n\n\nLisbon airport"
+  },
+  {
+    "objectID": "info/gettingToLisbon.html#fa-train-by-train",
+    "href": "info/gettingToLisbon.html#fa-train-by-train",
+    "title": "Getting to Lisbon",
+    "section": " By train",
+    "text": "By train\nLisbon has two main stations for long distance services. Despite not having direct connections with foreign countries, if you come from anywhere in Portugal you can get here by picking a train with destination Lisboa Santa Apolónia if you come from the north or Lisboa Oriente if you come from the south. Both stations are connected to the metro network and urban railway services.\n\n\n\nGare do Oriente Station"
+  },
+  {
+    "objectID": "info/gettingToLisbon.html#fa-bus-simple-by-bus",
+    "href": "info/gettingToLisbon.html#fa-bus-simple-by-bus",
+    "title": "Getting to Lisbon",
+    "section": " By bus",
+    "text": "By bus\nAn alternative to get to Lisbon are the long distance buses, covering Portugal mainland, Spain and even France. At Lisbon, they get to Sete Rios or Gare do Oriente. Both stations are connected to the metro network.\n\n\n\nSete Rios station"
+  },
+  {
     "objectID": "info/gettingHere.html",
     "href": "info/gettingHere.html",
-    "title": "Getting here",
+    "title": "Getting to the venue",
     "section": "",
-    "text": "Location to be disclosed The location where the events will take place is still to be disclosed. This guide will be updated accordingly."
+    "text": "The DTN Annual Forum 2025 will be hosted at Institute of Geography and Spatial Planning (IGOT). It is located in the University of Lisbon campus in heart of Lisbon city, accessible by several transport modes.\nThis page specifies the transport interfaces that are closest to the DTN venue. For more details on Lisbon transportation system network, apps and prices, refer to Getting around."
   },
   {
-    "objectID": "info/gettingHere.html#fa-plane-arrival-by-air",
-    "href": "info/gettingHere.html#fa-plane-arrival-by-air",
-    "title": "Getting here",
-    "section": " By air",
-    "text": "By air\nLisbon international airport connects the world with the city and has a direct connection to its transportation system, through the metro red line.\n\n\nLisbon airport"
+    "objectID": "info/gettingHere.html#fa-bicycle-by-bike",
+    "href": "info/gettingHere.html#fa-bicycle-by-bike",
+    "title": "Getting to the venue",
+    "section": " By bike",
+    "text": "By bike\nIGOT is accessible through the city cycle lane infrastructure.\nThere is a station from the public bike system right outside the venue. Its number is 461. Find the stations map at GIRA website.\nYou can also park an e-scooter or any other shared mobility vehicle right outside. They are allowed inside the campus."
   },
   {
-    "objectID": "info/gettingHere.html#fa-train-by-train",
-    "href": "info/gettingHere.html#fa-train-by-train",
-    "title": "Getting here",
-    "section": " By train",
-    "text": "By train\nLisbon has two main stations for long distance services. Despite not having direct connections with foreign countries, if you come from anywhere in Portugal you can get here by picking a train with destination Lisboa Santa Apolónia if you come from the north or Lisboa Oriente if you come from the south. Both stations are connected to the metro network.\n\n\nGare do Oriente station"
+    "objectID": "info/gettingHere.html#fa-train-by-trainmetro",
+    "href": "info/gettingHere.html#fa-train-by-trainmetro",
+    "title": "Getting to the venue",
+    "section": " By train/metro",
+    "text": "By train/metro\nIGOT is just a 15 minutes walk from Entrecampos interface. There you can catch an urban train to almost anywhere in Lisbon metropolitan area.\nThis interface also connects to metro. There you can catch the yellow line and easily connect to the others (2 stations away from green and red lines, 4 from the blue line)."
   },
   {
     "objectID": "info/gettingHere.html#fa-bus-simple-by-bus",
     "href": "info/gettingHere.html#fa-bus-simple-by-bus",
-    "title": "Getting here",
+    "title": "Getting to the venue",
     "section": " By bus",
-    "text": "By bus\nAn alternative to get to Lisbon are the long distance buses, covering Portugal mainland, Spain and even France. At Lisbon, they get to Sete Rios or Gare do Oriente. Both stations are connected to the metro network.\n\n\nSete Rios station"
+    "text": "By bus\nIGOT is served by several lines of the urban bus operator, Carris, connecting to almost anywhere in the city: 701, 731, 732, 735, 738, 754, 755, 764 and 768.\nThere is also a suburban bus that serves it, 3702 from operator Carris Metropolitana, connecting to Almada, in the south bank of Lisbon metro area.\n\n\n\n\n\n\nIGOT building is served by the Lisbon cycling network\n\n\n\n\n\n\n\nEntrecampos train/metro interface is 15 minutes walk from the venue"
   },
   {
     "objectID": "info/team.html",
@@ -173,6 +208,13 @@
     "title": "Our team",
     "section": "We also rely on DTN’s team experience and support!",
     "text": "We also rely on DTN’s team experience and support!\n\n\n\n\n\n\n\n\n\n\nBenjamin\n\n\n\nCorinna\n\n\n\nLidya\n\n\n\nAaron"
+  },
+  {
+    "objectID": "info/contacts.html",
+    "href": "info/contacts.html",
+    "title": "Contacts",
+    "section": "",
+    "text": "We are happy to hear from you! Please reach our if you have any doubts or suggestions.\nCorinna Niederreiter (EIT) niederreiter@zv.tum.de\nFilipe Moura (IST, University of Lisbon) ushift@tecnico.ulisboa.pt"
   },
   {
     "objectID": "info/gettingAround.html",
@@ -201,5 +243,12 @@
     "title": "Getting around",
     "section": "Apps",
     "text": "Apps\nBelow you can find some apps that integrate information about Lisbon transportation system, allowing you to find the best route and track vehicles in real time!"
+  },
+  {
+    "objectID": "info/venue.html",
+    "href": "info/venue.html",
+    "title": "Venue",
+    "section": "",
+    "text": "The DTN Annual Forum 2025 will be hosted at Institute of Geography and Spatial Planning (IGOT). It is located in the heart of Lisbon city and inside University of Lisbon campus, accessible by several transport modes. For more details on how to get to Lisbon, to the venue and around the city, check the respective pages.\n\nIGOT has a prominent and consolidated position in geography teaching and researching in Portugal, focusing on areas such as social and earth sciences, planning, spatial planning and management.\nTheir facilities will host DTN Annual Forum 2025, specifically, the Orlando Ribeiro auditorium.\n\n\n\nOrlando Ribeiro auditorium"
   }
 ]
