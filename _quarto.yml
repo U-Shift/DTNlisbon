@@ -36,6 +36,8 @@ website:
       title: "Info"
       collapse-level: 2
       contents:
+        - info/venue.qmd
+        - info/gettingToLisbon.qmd
         - info/gettingHere.qmd
         - info/gettingAround.qmd
         - info/team.qmd

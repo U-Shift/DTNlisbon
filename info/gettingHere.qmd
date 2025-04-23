@@ -1,36 +1,34 @@
 ---
-title: "Getting here"
+title: "Getting to the venue"
 format:
   html:
     css: ../styles/info.css
-
 ---
 
-<div class="alert alert-info">
-  <strong>{{< fa circle-info >}} Location to be disclosed</strong> The location where the events will take place is still to be disclosed. This guide will be updated accordingly.
-</div>
+The DTN Annual Forum 2025 will be hosted at Institute of Geography and Spatial Planning (IGOT). It is located in the University of Lisbon campus in heart of Lisbon city, accessible by several transport modes.
 
-## {{< fa plane-arrival >}} By air 
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d251.52091484784614!2d-9.155205999999762!3d38.7472744887205!2m3!1f0!2f39.42153360065658!3f0!3m2!1i1024!2i768!4f35!3m3!1m2!1s0xd19331d1f80c5c5%3A0x909d74a4642f8ec5!2sIGOT-ULisboa%20-%20Instituto%20de%20Geografia%20e%20Ordenamento%20do%20Territ%C3%B3rio%20da%20Universidade%20de%20Lisboa!5e1!3m2!1spt-PT!2sus!4v1745418086018!5m2!1spt-PT!2sus" width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
-Lisbon international airport connects the world with the city and has a direct connection to its transportation system, through the metro red line.
+This page specifies the transport interfaces that are closest to the DTN venue. For more details on Lisbon transportation system network, apps and prices, refer to [Getting around](/info/gettingAround.html).
 
-![](https://upload.wikimedia.org/wikipedia/commons/2/20/Aeroporto_Humberto_Delgado_%28Portela_Airport_Aeroporto_de_Lisboa%29%2C_Lisbon%2C_Portugal_%2851323558287%29.jpg)
+## {{< fa bicycle >}} By bike
 
-> Lisbon airport
+IGOT is accessible through the [city cycle lane infrastructure](https://www.ciclovias.pt/?f=CV3306&m=d&l=3){target="_blank"}.
 
-## {{< fa train >}} By train
+There is a station from the public bike system right outside the venue. Its number is 461. Find the stations map at [GIRA website](https://www.gira-bicicletasdelisboa.pt/en/system-mao/){target="_blank"}.
 
-Lisbon has two main stations for long distance services. Despite not having direct connections with foreign countries, if you come from anywhere in Portugal you can get here by picking a train with destination **Lisboa Santa Apolónia** if you come from the north or **Lisboa Oriente** if you come from the south. Both stations are connected to the metro network.
+You can also park an e-scooter right outside. They are allowed inside the campus.
 
-![](https://lisboaparapessoas.pt/wp-content/uploads/2022/02/garedooriente_01-1024x683.jpg)
 
-> Gare do Oriente station
+## {{< fa train >}} By train/metro
+
+IGOT is just a 15 minutes walk from [Entrecampos interface](https://maps.app.goo.gl/aoPp8MiW7DH1hibP9){target="_blank"}. There you can catch an urban train to almost anywhere in Lisbon metropolitan area.
+
+This interface also connects to [metro](https://maps.app.goo.gl/6s1nBWtyVUzZyhay9){target="_blank"}. There you can catch the yellow line and easily connect to the others (2 stations away from green and red lines, 4 from the blue line).
 
 ## {{< fa bus-simple >}} By bus
 
-An alternative to get to Lisbon are the long distance buses, covering Portugal mainland, Spain and even France. At Lisbon, they get to **Sete Rios** or **Gare do Oriente**. Both stations are connected to the metro network.
+IGOT is served by several lines of the urban bus operator, [Carris](https://carris.pt/en/travel/carreiras/){target="_blank"}, connecting to almost anywhere in the city: 701, 731, 732, 735, 738, 754, 755, 764, 768
 
-![](https://i0.wp.com/amensagem.pt/wp-content/uploads/2022/06/RestartInterfaceSeteRios-4024.jpg?fit=1500%2C1000&quality=89&ssl=1)
+There is also a suburban bus that serves it, [3702 from  operator Carris Metropolitana](https://www.carrismetropolitana.pt/lines/3702){target="_blank"}, connecting to Almada, in the south bank of Lisbon metro area.
 
-
-> Sete Rios station

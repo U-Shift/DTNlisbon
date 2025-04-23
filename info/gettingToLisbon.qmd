@@ -1,0 +1,27 @@
+---
+title: "Getting to Lisbon"
+format:
+  html:
+    css: ../styles/info.css
+
+---
+
+## {{< fa plane-arrival >}} By air 
+
+Lisbon international airport (Humberto Delgado Airport) connects the world with the city and has a direct connection to its transportation system, through the metro red line.
+
+![Lisbon airport](https://upload.wikimedia.org/wikipedia/commons/2/20/Aeroporto_Humberto_Delgado_%28Portela_Airport_Aeroporto_de_Lisboa%29%2C_Lisbon%2C_Portugal_%2851323558287%29.jpg)
+
+## {{< fa train >}} By train
+
+Lisbon has two main stations for long distance services. Despite not having direct connections with foreign countries, if you come from anywhere in Portugal you can get here by picking a train with destination **Lisboa Santa Apolónia** if you come from the north or **Lisboa Oriente** if you come from the south. Both stations are connected to the metro network and urban railway services.
+
+![Gare do Oriente Station](https://lisboaparapessoas.pt/wp-content/uploads/2022/02/garedooriente_01-1024x683.jpg)
+
+## {{< fa bus-simple >}} By bus
+
+An alternative to get to Lisbon are the long distance buses, covering Portugal mainland, Spain and even France. At Lisbon, they get to **Sete Rios** or **Gare do Oriente**. Both stations are connected to the metro network.
+
+![Sete Rios station](https://i0.wp.com/amensagem.pt/wp-content/uploads/2022/06/RestartInterfaceSeteRios-4024.jpg?fit=1500%2C1000&quality=89&ssl=1)
+
+
