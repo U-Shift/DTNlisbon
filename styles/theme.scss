@@ -36,12 +36,21 @@ $success: #96C247 !default;
 
 .nav-footer-left {
     flex-grow: 10!important;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    gap: 1rem;
 }
 .footer-ulisboa {
     width: 5rem!important;
-    margin-right: 1rem;
     @media (max-width: 576px) {
         width: 2.5rem!important;
+    }
+}
+.footer-igot {
+    width: 7rem!important;
+    @media (max-width: 576px) {
+        width: 3rem!important;
     }
 }
 .footer-eit {

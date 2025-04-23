@@ -43,6 +43,8 @@ website:
   page-footer: 
     left: "
       <img class='footer-ulisboa' src='/images/logos/ulisboa.png' />
+      <img class='footer-ulisboa' src='/images/logos/ist.png' />
+      <img class='footer-igot' src='/images/logos/igot.png' />
 
       <img class='footer-eit'src='/images/logos/eit.png' />
     " 
