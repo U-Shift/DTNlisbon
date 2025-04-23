@@ -1,0 +1,13 @@
+---
+title: "Accommodation"
+format:
+  html:
+    css: ../styles/info.css
+---
+
+The venue of DTN Annual Forum 2025 is right at the heart of Lisbon, with plenty of accomodations around! In  this page we share with you some reccomendations on where to stay. 
+
+<div class="alert alert-info">
+  <strong>{{< fa circle-info >}} Soon available</strong> We are still preparing our reccomendations list. Stay tuned!
+</div>
+

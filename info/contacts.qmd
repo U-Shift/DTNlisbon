@@ -1,0 +1,12 @@
+---
+title: "Contacts"
+format:
+  html:
+    css: ../styles/info.css
+---
+
+We are happy to hear from you! Please reach our if you have any doubts or suggestions.
+
+**Corinna Niederreiter** (EIT) [niederreiter@zv.tum.de](mailto:niederreiter@zv.tum.de)
+
+**Filipe Moura** (IST, University of Lisbon) [ushift@tecnico.ulisboa.pt](mailto:ushift@tecnico.ulisboa.pt)

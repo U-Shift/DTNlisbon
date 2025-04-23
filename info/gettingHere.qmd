@@ -18,7 +18,7 @@ IGOT is accessible through the [city cycle lane infrastructure](https://www.cicl
 
 There is a station from the public bike system right outside the venue. Its number is 461. Find the stations map at [GIRA website](https://www.gira-bicicletasdelisboa.pt/en/system-mao/){target="_blank"}.
 
-You can also park an e-scooter right outside. They are allowed inside the campus.
+You can also park an e-scooter or any other shared mobility vehicle right outside. They are allowed inside the campus.
 
 
 ## {{< fa train >}} By train/metro
