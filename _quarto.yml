@@ -13,6 +13,7 @@ website:
       - href: index.qmd
         text: Home
       - sidebar:info
+      - sidebar:contacts
       - sidebar:program
       - sidebar:courses
 
@@ -33,14 +34,20 @@ website:
         - courses/course3.qmd
         - courses/course4.qmd
     - id: info
-      title: "Info"
+      title: "Practical info"
       collapse-level: 2
       contents:
         - info/venue.qmd
-        - info/gettingToLisbon.qmd
         - info/gettingHere.qmd
         - info/gettingAround.qmd
+        - info/gettingToLisbon.qmd
+        - info/accommodation.qmd
+    - id: contacts
+      title: "Contacts"
+      collapse-level: 2
+      contents:
         - info/team.qmd
+        - info/contacts.qmd
 
   page-footer: 
     left: "
