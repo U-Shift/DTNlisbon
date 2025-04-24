@@ -16,7 +16,7 @@ This page specifies the transport interfaces that are closest to the DTN venue. 
 
 IGOT is accessible through the [city cycle lane infrastructure](https://www.ciclovias.pt/?f=CV3306&m=d&l=3){target="_blank"}.
 
-There is a station from the public bike system right outside the venue. Its number is 461. Find the stations map at [GIRA website](https://www.gira-bicicletasdelisboa.pt/en/system-mao/){target="_blank"}.
+There is a station from the public bike system right outside the venue. Its number is **461 - Rua Professor Teresa Ambrósio**. Find the stations map at [GIRA website](https://www.gira-bicicletasdelisboa.pt/en/system-mao/){target="_blank"}.
 
 You can also park an e-scooter or any other shared mobility vehicle right outside. They are allowed inside the campus.
 
@@ -27,15 +27,19 @@ IGOT is just a 15 minutes walk from [Entrecampos interface](https://maps.app.goo
 
 This interface also connects to [metro](https://maps.app.goo.gl/6s1nBWtyVUzZyhay9){target="_blank"}. There you can catch the yellow line and easily connect to the others (2 stations away from green and red lines, 4 from the blue line).
 
+Regarding metro, the stippness of the terrain in this area makes Entrecampos a better option to leave the venue. To get there, [Cidade Universitária](https://maps.app.goo.gl/PsFrSzGB94HD62k19){target="_blank"} metro station is a better option. 
+
 ## {{< fa bus-simple >}} By bus
 
 IGOT is served by several lines of the urban bus operator, [Carris](https://carris.pt/en/travel/carreiras/){target="_blank"}, connecting to almost anywhere in the city: 701, 731, 732, 735, 738, 754, 755, 764 and 768.
 
 There is also a suburban bus that serves it, [3702 from  operator Carris Metropolitana](https://www.carrismetropolitana.pt/lines/3702){target="_blank"}, connecting to Almada, in the south bank of Lisbon metro area.
 
-::: {layout-ncol=2}
+::: {layout="[[1,1], [1]]"}
 
-![IGOT building is served by the Lisbon cycling network](https://perspetivaatual.pt/wp-content/uploads/2022/05/05_igot-scaled.jpg)
+![IGOT building has a GIRA (public bike system) station next to it](/images/info/igot_gira.jpg)
 
-![Entrecampos train/metro interface is 15 minutes walk from the venue](https://offloadmedia.feverup.com/lisboasecreta.co/wp-content/uploads/2021/01/20043727/esta%C3%A7%C3%A3o-entrecampos-%40Nuno-Mor%C3%A3o-scaled.jpg)
+![You can also park any shared mobility vehicle right outside](/images/info/igot_bikePark.jpg)
+
+![Entrecampos train/metro interface is a 15 minutes walk from the venue](/images/info/entrecampos.jpg)
 :::
