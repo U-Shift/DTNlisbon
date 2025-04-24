@@ -51,11 +51,11 @@ website:
 
   page-footer: 
     left: "
-      <img class='footer-ulisboa' src='/images/logos/ulisboa.png' />
-      <img class='footer-ulisboa' src='/images/logos/ist.png' />
-      <img class='footer-igot' src='/images/logos/igot.png' />
+      <a href='https://www.ulisboa.pt/en' target='_blank'><img class='footer-ulisboa' src='/images/logos/ulisboa.png' /></a>
+      <a href='https://tecnico.ulisboa.pt/en/' target='_blank'><img class='footer-ulisboa' src='/images/logos/ist.png' /></a>
+      <a href='https://www.igot.ulisboa.pt/' target='_blank'><img class='footer-igot' src='/images/logos/igot.png' /></a>
 
-      <img class='footer-eit'src='/images/logos/eit.png' />
+      <a href='https://www.eiturbanmobility.eu/' target='_blank'><img class='footer-eit'src='/images/logos/eit.png' /></a>
     " 
     right: 
       - icon: github
