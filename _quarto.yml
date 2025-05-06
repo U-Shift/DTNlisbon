@@ -4,7 +4,7 @@ project:
     - images/
 
 website:
-  title: "DTN Annual Forum 2025"
+  title: "<img class='header-logo' src='/images/logos/dtn_lisbon.png' alt='EIT Urban Mobility DTN Annual Forum 2025' />"
   search: false
   navbar:
     pinned: false
@@ -72,6 +72,7 @@ format:
     mainfont: Titillium web
     css: styles.css
     toc: false
+    include-after-body: scripts/global.html
 
 
 editor: visual

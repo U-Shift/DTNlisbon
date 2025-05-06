@@ -1,5 +1,5 @@
 ---
-title: "EIT Urban Mobility DTN Annual Forum 2025"
+title: "<span class='text-hidden'>EIT Urban Mobility DTN Annual Forum 2025</span><img class='home-logo' src='/images/logos/dtn_lisbon.png' alt='EIT Urban Mobility DTN Annual Forum 2025' />"
 sidebar: false
 format:
   html:
