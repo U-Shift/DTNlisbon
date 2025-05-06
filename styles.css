@@ -20,6 +20,9 @@
     background-position: 100% 0%;
     background-repeat: no-repeat;
 }
+.quarto-title h1 {
+    padding-right: 5rem;
+}
  
 /** Bootstrap color override */
 .navbar-dark .navbar-nav .show > .nav-link, .navbar-dark .navbar-nav .active > .nav-link, .navbar-dark .navbar-nav .nav-link.active {
