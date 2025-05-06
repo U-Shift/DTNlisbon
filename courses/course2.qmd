@@ -1,27 +1,40 @@
 ---
-title: Course 2 | 8-9th September 2025
+title: 8-9th Sept. | Tools and Skills for Reproducible Transport Research
 format:
   html:
     css: ../styles/schedule.css
 ---
 
-## About
-Available soon...
+## Instructor
+Robin Lovelace (University of Leeds) & Juan Fonseca-Zamora (University of Leeds)
+
+## Learning objectives
+1. Be able to share reproducible code for more scientific and transparent transport research
+2. To be confident reproducing your own work and that of others
+3. To become skilled at using Git and GitHub to manage versions of your code and collaborate with others
+4. To be able to write reproducible content that can be exported to a variety of formats with the Quarto system for scientific publishing
+5. To understand how Quarto extensions can be used as a basis for creating publication-ready papers
+6. To be aware of ‘continuous integration’ and ‘GitHub Actions’ and how they can be used to ensure reproducibility, share your work, and save time
+7. Understanding of best practices around code sharing and collaboration for reproducible research in transport planning
 
 
-## Schedule Day 1
-| |  |
-| --- | ---- |
-| 9:00 - 12:30 | <span class="event-filled-orange"></span> Course    |
-| 12:30 - 13:30       | <span class="event-outline-blue"></span> Free time                     |
-| 13:30 - 17:00 | <span class="event-filled-orange"></span> Course    |
-| 17:00       | <span class="event-outline-blue"></span> Informal social event                     |
+## Preliminary Schedule Day 1 (8 Sept.)
+|  |
+| ---- |
+| <span class="event-outline-blue"></span> Introduction |
+| <span class="event-filled-green"></span> Development environments, system commands, and version control |
+| <span class="event-filled-green"></span> Sharing code and data |
+| <span class="event-outline-blue"></span> Lunch |
+| <span class="event-filled-green"></span> Reproducible papers and documentation with Quarto |
+| <span class="event-filled-green"></span> Cross-references and citations with Quarto |
 
 
-## Schedule Day 2
-| |  |
-| --- | ---- |
-| 9:00 - 12:30 | <span class="event-filled-orange"></span> Course    |
-| 12:30 - 13:30       | <span class="event-outline-blue"></span> Free time                     |
-| 13:30 - 17:00 | <span class="event-filled-orange"></span> Course    |
-| 17:00       | <span class="event-outline-blue"></span> Informal social event                     |
+## Preliminary Schedule Day 2 (9 Sept.)
+|  |
+| ---- |
+| <span class="event-filled-green"></span> Drafting a reproducible paper |
+| <span class="event-filled-green"></span> Generating reproducible publication-quality visualisations |
+| <span class="event-outline-blue"></span> Lunch |
+| <span class="event-filled-green"></span> Editing other people’s work |
+| <span class="event-filled-green"></span> Working on papers |
+| <span class="event-filled-green"></span> Presentations and wrap-up |

@@ -1,27 +1,39 @@
 ---
-title: Course 1 | 8-9th September 2025
+title: 8-9th Sept. | Shared Mobility - Policy challenges and multimodal solutions
 format:
   html:
     css: ../styles/schedule.css
 ---
 
-## About
-Available soon...
+## Instructor
+Andres Monzon (Prof. Transportation Eng., Urban and Regional Planning, Universidad Politecnica de Madrid)
+
+## Content
+1. State of the practice
+2. Research activities & results
+3. Governance models and experience
+4. Future trends and research opportunities
 
 
-## Schedule Day 1
-| |  |
-| --- | ---- |
-| 9:00 - 12:30 | <span class="event-filled-orange"></span> Course    |
-| 12:30 - 13:30       | <span class="event-outline-blue"></span> Free time                     |
-| 13:30 - 17:00 | <span class="event-filled-orange"></span> Course    |
-| 17:00       | <span class="event-outline-blue"></span> Informal social event                     |
+## Preliminary Schedule Day 1 (8 Sept.)
+|  |
+| ---- |
+| <span class="event-outline-blue"></span> Welcome & Presentation |
+| <span class="event-filled-green"></span> Lecture 1 (Introduction): Sharing economy and shared mobility     |
+| <span class="event-filled-green"></span> Lecture 2: Shared mobility solutions - Review international experiences    |
+| <span class="event-filled-orange"></span> Workshop: Analysis of barriers, challenges, negative and positive impacts of shared mobility  |
+| <span class="event-outline-blue"></span> Lunch |
+| <span class="event-filled-green"></span> Lecture 3: Sharing in Practice: car sharing  |
+| <span class="event-filled-orange"></span> Workshop 2: Different solutions in different cities |
 
 
-## Schedule Day 2
-| |  |
-| --- | ---- |
-| 9:00 - 12:30 | <span class="event-filled-orange"></span> Course    |
-| 12:30 - 13:30       | <span class="event-outline-blue"></span> Free time                     |
-| 13:30 - 17:00 | <span class="event-filled-orange"></span> Course    |
-| 17:00       | <span class="event-outline-blue"></span> Informal social event                     |
+## Preliminary Schedule Day 2 (9 Sept.)
+|  |
+| ---- |
+| <span class="event-filled-green"></span> Lecture 4: Sharing in Practice - scooters and mopeds  |
+| <span class="event-filled-green"></span> Lecture 5: Sharing in Practice - bike-sharing |
+| <span class="event-filled-green"></span> Discussed Survey: Different solutions for different contexts |
+| <span class="event-outline-blue"></span> Lunch |
+| <span class="event-filled-green"></span> Lecture 6: Research gaps and policy trends |
+| <span class="event-filled-orange"></span> Workshop 3: Public Transport and sharing - SWOT Analysis |
+| <span class="event-filled-blue"></span> Closing: Shared-Mobility Roadmap - research and policy challenges |

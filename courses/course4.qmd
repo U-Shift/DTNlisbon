@@ -1,27 +1,15 @@
 ---
-title: Course 4 | 13-14th September 2025
+title: 13-14th Sept. | Urban Transformation in Medellin (Colombia)
 format:
   html:
     css: ../styles/schedule.css
 ---
 
-## About
-Available soon...
+## Instructor
+Carlos Cadena Gaitán Ph.D. (Associate Professor at EAFIT University in Medellin (Colombia))
 
+## Learning objectives
+1. Understanding the principles of integrated urban planning and its importance in sustainable urban development from a transport and policy perspective.
+2. Gaining knowledge of the specific experiences and strategies employed by Medellin, Colombia in the context of its recent urban transformation.
+3. Acquiring practical intercultural tools and competencies for implementing sustainable urban development initiatives.
 
-## Schedule Day 1
-| |  |
-| --- | ---- |
-| 9:00 - 12:30 | <span class="event-filled-orange"></span> Course    |
-| 12:30 - 13:30       | <span class="event-outline-blue"></span> Free time                     |
-| 13:30 - 17:00 | <span class="event-filled-orange"></span> Course    |
-| 17:00       | <span class="event-outline-blue"></span> Informal social event                     |
-
-
-## Schedule Day 2
-| |  |
-| --- | ---- |
-| 9:00 - 12:30 | <span class="event-filled-orange"></span> Course    |
-| 12:30 - 13:30       | <span class="event-outline-blue"></span> Free time                     |
-| 13:30 - 17:00 | <span class="event-filled-orange"></span> Course    |
-| 17:00       | <span class="event-outline-blue"></span> Informal social event                     |

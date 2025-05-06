@@ -1,27 +1,35 @@
 ---
-title: Course 3 | 13-14th September 2025
+title: 13-14th Sept. | Qualitative Methods in Urban Mobility Research
 format:
   html:
     css: ../styles/schedule.css
 ---
 
-## About
-Available soon...
+## Instructor
+Hannah Hook (Ghent University, Department of Geography)
+
+## Learning objectives
+1. Introduce doctoral researchers to the basic techniques of qualitative methods and provide knowledge on how to perform reproducible research.
+2. Provide doctoral researchers with the skills to design research and data collection protocols.
+3. Explain how technological transitions, such as the invention of GenAI, can affect qualitative research, and the implications for biases and ethics.
 
 
-## Schedule Day 1
-| |  |
-| --- | ---- |
-| 9:00 - 12:30 | <span class="event-filled-orange"></span> Course    |
-| 12:30 - 13:30       | <span class="event-outline-blue"></span> Free time                     |
-| 13:30 - 17:00 | <span class="event-filled-orange"></span> Course    |
-| 17:00       | <span class="event-outline-blue"></span> Informal social event                     |
+## Preliminary Schedule Day 1 (13 Sept.)
+|  |
+| ---- |
+| <span class="event-filled-green"></span> Lecture: Introduction to Qualitative Research  |
+| <span class="event-filled-orange"></span> Workshop: Designing a Qualitative Study Using Case-Based Methods |
+| <span class="event-outline-blue"></span> Lunch |
+| <span class="event-filled-green"></span> Lecture: Practical Guidelines for Analyzing Textual Data |
+| <span class="event-filled-orange"></span> Workshop: Developing Data Collection Protocols |
+| <span class="event-filled-orange"></span> Presentation: Research Plans and Protocols |
 
 
-## Schedule Day 2
-| |  |
-| --- | ---- |
-| 9:00 - 12:30 | <span class="event-filled-orange"></span> Course    |
-| 12:30 - 13:30       | <span class="event-outline-blue"></span> Free time                     |
-| 13:30 - 17:00 | <span class="event-filled-orange"></span> Course    |
-| 17:00       | <span class="event-outline-blue"></span> Informal social event                     |
+## Preliminary Schedule Day 2 (14 Sept.)
+|  |
+| ---- |
+| <span class="event-filled-green"></span> Lecture: Integrating AI into Qualitative Research |
+| <span class="event-filled-orange"></span> Workshop: Manual coding of textual data |
+| <span class="event-outline-blue"></span> Lunch |
+| <span class="event-filled-orange"></span> Workshop: Coding with ChatGPT: |
+| <span class="event-filled-orange"></span> Presentation: Demonstrating insights from qualitative research |
