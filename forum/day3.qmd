@@ -1,5 +1,5 @@
 ---
-title: 12th September 2025
+title: 12th Sept. (Friday)
 format:
   html:
     css: ../styles/schedule.css
