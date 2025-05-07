@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title> - 13-14th Sept.&nbsp;| Qualitative Methods in Urban Mobility Research</title>
+<title> - Guides</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -25,6 +25,8 @@ ul.task-list li input[type="checkbox"] {
 
 <script src="../site_libs/quarto-nav/quarto-nav.js"></script>
 <script src="../site_libs/quarto-nav/headroom.min.js"></script>
+<script src="../site_libs/quarto-listing/list.min.js"></script>
+<script src="../site_libs/quarto-listing/quarto-listing.js"></script>
 <script src="../site_libs/clipboard/clipboard.min.js"></script>
 <script src="../site_libs/quarto-html/quarto.js"></script>
 <script src="../site_libs/quarto-html/popper.min.js"></script>
@@ -48,13 +50,44 @@ ul.task-list li input[type="checkbox"] {
     "search-submit-button-title": "Submit"
   }
 }</script>
+<script>
 
+  window.document.addEventListener("DOMContentLoaded", function (_event) {
+    const listingTargetEl = window.document.querySelector('#listing-listing .list');
+    if (!listingTargetEl) {
+      // No listing discovered, do not attach.
+      return; 
+    }
+
+    const options = {
+      valueNames: ['listing-path','listing-image','listing-title','listing-description','listing-categories',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
+      
+      searchColumns: ["listing-path","listing-image","listing-title","listing-description","listing-categories"],
+    };
+
+    window['quarto-listings'] = window['quarto-listings'] || {};
+    window['quarto-listings']['listing-listing'] = new List('listing-listing', options);
+
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  });
+
+  window.addEventListener('hashchange',() => {
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  })
+  </script>
+
+  <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
 
 <link rel="stylesheet" href="../styles.css">
-<link rel="stylesheet" href="../styles/schedule.css">
+<link rel="stylesheet" href="../styles/info.css">
 </head>
 
-<body class="nav-sidebar floating nav-fixed fullcontent">
+<body class="nav-sidebar floating nav-fixed">
 
 <div id="quarto-search-results"></div>
   <header id="quarto-header" class="headroom fixed-top">
@@ -177,7 +210,7 @@ ul.task-list li input[type="checkbox"] {
       <button type="button" class="quarto-btn-toggle btn" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar,#quarto-sidebar-glass" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
         <i class="bi bi-layout-text-sidebar-reverse"></i>
       </button>
-      <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="../courses/course3.html">13-14th Sept.&nbsp;| Qualitative Methods in Urban Mobility Research</a></li></ol></nav>
+      <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="../info/guides.html">Guides</a></li></ol></nav>
       <a class="flex-grow-1" role="button" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar,#quarto-sidebar-glass" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">      
       </a>
     </div>
@@ -191,26 +224,38 @@ ul.task-list li input[type="checkbox"] {
     <ul class="list-unstyled mt-1">
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../courses/course1.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text">8-9th Sept.&nbsp;| Shared Mobility - Policy challenges and multimodal solutions</span></a>
+  <a href="../info/venue.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Venue</span></a>
   </div>
 </li>
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../courses/course2.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text">8-9th Sept.&nbsp;| Tools and Skills for Reproducible Transport Research</span></a>
+  <a href="../info/gettingHere.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Getting to the venue</span></a>
   </div>
 </li>
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../courses/course3.html" class="sidebar-item-text sidebar-link active">
- <span class="menu-text">13-14th Sept.&nbsp;| Qualitative Methods in Urban Mobility Research</span></a>
+  <a href="../info/gettingAround.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Getting around</span></a>
   </div>
 </li>
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../courses/course4.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text">13-14th Sept.&nbsp;| Urban Transformation in Medellin (Colombia)</span></a>
+  <a href="../info/gettingToLisbon.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Getting to Lisbon</span></a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../info/accommodation.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Accommodation</span></a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../info/guides.html" class="sidebar-item-text sidebar-link active">
+ <span class="menu-text">Guides</span></a>
   </div>
 </li>
     </ul>
@@ -218,13 +263,14 @@ ul.task-list li input[type="checkbox"] {
 </nav>
 <div id="quarto-sidebar-glass" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar,#quarto-sidebar-glass"></div>
 <!-- margin-sidebar -->
-    
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+    <h5 class="quarto-listing-category-title">Categories</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">All <span class="quarto-category-count">(3)</span></div><div class="category" data-category="App">App <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Website">Website <span class="quarto-category-count">(2)</span></div></div></div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">13-14th Sept.&nbsp;| Qualitative Methods in Urban Mobility Research</h1>
+<h1 class="title">Guides</h1>
 </div>
 
 
@@ -239,75 +285,126 @@ ul.task-list li input[type="checkbox"] {
 
 </header>
 
-<section id="instructor" class="level2">
-<h2 class="anchored" data-anchor-id="instructor">Instructor</h2>
-<p>Hannah Hook (Ghent University, Department of Geography)</p>
-</section>
-<section id="learning-objectives" class="level2">
-<h2 class="anchored" data-anchor-id="learning-objectives">Learning objectives</h2>
-<ol type="1">
-<li>Introduce doctoral researchers to the basic techniques of qualitative methods and provide knowledge on how to perform reproducible research.</li>
-<li>Provide doctoral researchers with the skills to design research and data collection protocols.</li>
-<li>Explain how technological transitions, such as the invention of GenAI, can affect qualitative research, and the implications for biases and ethics.</li>
-</ol>
-</section>
-<section id="preliminary-schedule-day-1-13-sept." class="level2">
-<h2 class="anchored" data-anchor-id="preliminary-schedule-day-1-13-sept.">Preliminary Schedule Day 1 (13 Sept.)</h2>
-<table class="table">
-<colgroup>
-<col style="width: 100%">
-</colgroup>
-<tbody>
-<tr class="odd">
-<td><span class="event-filled-green"></span> Lecture: Introduction to Qualitative Research</td>
-</tr>
-<tr class="even">
-<td><span class="event-filled-orange"></span> Workshop: Designing a Qualitative Study Using Case-Based Methods</td>
-</tr>
-<tr class="odd">
-<td><span class="event-outline-blue"></span> Lunch</td>
-</tr>
-<tr class="even">
-<td><span class="event-filled-green"></span> Lecture: Practical Guidelines for Analyzing Textual Data</td>
-</tr>
-<tr class="odd">
-<td><span class="event-filled-orange"></span> Workshop: Developing Data Collection Protocols</td>
-</tr>
-<tr class="even">
-<td><span class="event-filled-orange"></span> Presentation: Research Plans and Protocols</td>
-</tr>
-</tbody>
-</table>
-</section>
-<section id="preliminary-schedule-day-2-14-sept." class="level2">
-<h2 class="anchored" data-anchor-id="preliminary-schedule-day-2-14-sept.">Preliminary Schedule Day 2 (14 Sept.)</h2>
-<table class="table">
-<colgroup>
-<col style="width: 100%">
-</colgroup>
-<tbody>
-<tr class="odd">
-<td><span class="event-filled-green"></span> Lecture: Integrating AI into Qualitative Research</td>
-</tr>
-<tr class="even">
-<td><span class="event-filled-orange"></span> Workshop: Manual coding of textual data</td>
-</tr>
-<tr class="odd">
-<td><span class="event-outline-blue"></span> Lunch</td>
-</tr>
-<tr class="even">
-<td><span class="event-filled-orange"></span> Workshop: Coding with ChatGPT:</td>
-</tr>
-<tr class="odd">
-<td><span class="event-filled-orange"></span> Presentation: Demonstrating insights from qualitative research</td>
-</tr>
-</tbody>
-</table>
+<script>
+  // Script to override listing hyperlinks behaviour, forcing to open them on new tab
+  document.addEventListener('DOMContentLoaded', function () {
+    const container = document.querySelector('#listing-listing');
+    if (container) {
+      const links = container.querySelectorAll('a');
+      links.forEach(link => {
+        link.setAttribute('target', '_blank');
+      });
+    }
+  });
+</script>
+<p>Lisbon is more than a city. It is a broad and whole territory waiting to be explored. In this page we share with you some touristic guides that may be of your interest.</p>
 
 
-</section>
 
-</main> <!-- /main -->
+
+<div class="quarto-listing quarto-listing-container-default" id="listing-listing">
+<div class="list quarto-listing-default">
+<div class="quarto-post image-right" data-index="0" data-categories="Website">
+<div class="thumbnail">
+<p><a href="https://www.visitlisboa.com/en"> <img src="https://www.visitlisboa.com/assets/logo-8220233f4afbb2a29289a20b751b1b78c3bb11d48cb83404e7174c6e2faf77b7.png" class="thumbnail-image"> </a></p>
+</div>
+<div class="body">
+<a href="https://www.visitlisboa.com/en">
+<h3 class="no-anchor listing-title">
+Turismo de Lisboa
+</h3>
+<div class="listing-subtitle">
+
+</div>
+</a>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('Website'); return false;">
+Website
+</div>
+</div>
+<a href="https://www.visitlisboa.com/en">
+<div class="listing-description">
+<p>The institutional page for Lisboa tourism association. Here you can find several informations about the main attractions, events and practical tips.</p>
+</div>
+</a>
+</div>
+<div class="metadata">
+<a href="https://www.visitlisboa.com/en">
+<div class="metadata-value listing-path">
+https://www.visitlisboa.com/en
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="1" data-categories="App">
+<div class="thumbnail">
+<p><a href="https://www.visitacity.com/en/lisbon"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0kqmaXAJCuutQhHkItrJHGR1_o6Na8F6R3Q&amp;s" class="thumbnail-image"> </a></p>
+</div>
+<div class="body">
+<a href="https://www.visitacity.com/en/lisbon">
+<h3 class="no-anchor listing-title">
+Visit a city
+</h3>
+<div class="listing-subtitle">
+
+</div>
+</a>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('App'); return false;">
+App
+</div>
+</div>
+<a href="https://www.visitacity.com/en/lisbon">
+<div class="listing-description">
+<p>This app provides several itineraries addapted to diverse preferences and durations.</p>
+</div>
+</a>
+</div>
+<div class="metadata">
+<a href="https://www.visitacity.com/en/lisbon">
+<div class="metadata-value listing-path">
+https://www.visitacity.com/en/lisbon
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="2" data-categories="Website">
+<div class="thumbnail">
+<p><a href="https://www.timeout.com/lisbon/things-to-do"> <img src="https://upload.wikimedia.org/wikipedia/en/5/5b/Time_Out_logo.jpg" class="thumbnail-image"> </a></p>
+</div>
+<div class="body">
+<a href="https://www.timeout.com/lisbon/things-to-do">
+<h3 class="no-anchor listing-title">
+TimeOut
+</h3>
+<div class="listing-subtitle">
+
+</div>
+</a>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('Website'); return false;">
+Website
+</div>
+</div>
+<a href="https://www.timeout.com/lisbon/things-to-do">
+<div class="listing-description">
+<p>This magazine compiles several guides that can help you find the best viewpoints, museums or beaches.</p>
+</div>
+</a>
+</div>
+<div class="metadata">
+<a href="https://www.timeout.com/lisbon/things-to-do">
+<div class="metadata-value listing-path">
+https://www.timeout.com/lisbon/things-to-do
+</div>
+</a>
+</div>
+</div>
+</div>
+<div class="listing-no-matching d-none">
+No matching items
+</div>
+</div></main> <!-- /main -->
 <script>
     const IMAGES = [
         "torre_belem",
