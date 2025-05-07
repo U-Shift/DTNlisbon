@@ -1,0 +1,42 @@
+---
+title: "Guides"
+format:
+  html:
+    css: ../styles/info.css
+
+listing:
+  categories: true
+  contents:
+    - path: https://www.visitlisboa.com/en
+      image: https://www.visitlisboa.com/assets/logo-8220233f4afbb2a29289a20b751b1b78c3bb11d48cb83404e7174c6e2faf77b7.png
+      title: "Turismo de Lisboa"
+      description: "The institutional page for Lisboa tourism association. Here you can find several informations about the main attractions, events and practical tips."
+      categories: [Website]
+    - path: https://www.visitacity.com/en/lisbon
+      image: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0kqmaXAJCuutQhHkItrJHGR1_o6Na8F6R3Q&s
+      title: "Visit a city"
+      description: "This app provides several itineraries addapted to diverse preferences and durations."
+      categories: [App]
+    - path: https://www.timeout.com/lisbon/things-to-do
+      image: https://upload.wikimedia.org/wikipedia/en/5/5b/Time_Out_logo.jpg
+      title: "TimeOut"
+      description: "This magazine compiles several guides that can help you find the best viewpoints, museums or beaches."
+      categories: [Website]
+
+---
+
+<script>
+  // Script to override listing hyperlinks behaviour, forcing to open them on new tab
+  document.addEventListener('DOMContentLoaded', function () {
+    const container = document.querySelector('#listing-listing');
+    if (container) {
+      const links = container.querySelectorAll('a');
+      links.forEach(link => {
+        link.setAttribute('target', '_blank');
+      });
+    }
+  });
+</script>
+
+Lisbon is more than a city. It is a broad and whole territory waiting to be explored. In this page we share with you some touristic guides that may be of your interest.
+

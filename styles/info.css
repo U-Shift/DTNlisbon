@@ -51,3 +51,5 @@ table:has(.table-team-secondary) tbody tr {
         width: 33%;
     }
 }
+
+.metadata {display: none!important;}

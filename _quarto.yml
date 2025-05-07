@@ -43,6 +43,7 @@ website:
         - info/gettingAround.qmd
         - info/gettingToLisbon.qmd
         - info/accommodation.qmd
+        - info/guides.qmd
     - id: contacts
       title: "Contacts"
       collapse-level: 2
