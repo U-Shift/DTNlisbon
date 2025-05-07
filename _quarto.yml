@@ -25,6 +25,7 @@ website:
         - forum/day1.qmd
         - forum/day2.qmd
         - forum/day3.qmd
+        - forum/technical.qmd
     - id: courses
       title: "Courses"
       collapse-level: 2

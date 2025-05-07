@@ -14,6 +14,9 @@ table td {
 table colgroup>col:first-of-type {
     width: 20%!important;
 }
+table tbody tr>td:first-of-type {
+    width: 20%!important;
+}
 @media (max-width: 576px) {
     table tr > td:first-of-type {
         word-spacing: 100vw; 
@@ -36,6 +39,9 @@ table td:has(.event-filled-orange) {
 }
 table td:has(.event-filled-blue) {
     background-color: #73c4ee !important;
+}
+table td:has(.event-filled-blue) a {
+    color: #fff!important;
 }
 table td:has(.event-filled-red) {
     background-color: #cd154f !important;
