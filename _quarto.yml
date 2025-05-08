@@ -4,8 +4,11 @@ project:
     - images/
 
 website:
-  title: "<img class='header-logo' src='/images/logos/dtn_lisbon.png' alt='EIT Urban Mobility DTN Annual Forum 2025' />"
-  search: false
+  title: "
+    <img class='header-logo' src='/images/logos/dtn_lisbon.png' alt='EIT Urban Mobility DTN Annual Forum 2025' />
+    <img class='footer-eit'src='/images/logos/eit.png' />
+    "
+  search: true
   navbar:
     pinned: false
     background: white
@@ -56,9 +59,8 @@ website:
       <a href='https://www.ulisboa.pt/en' target='_blank'><img class='footer-ulisboa' src='/images/logos/ulisboa.png' /></a>
       <a href='https://tecnico.ulisboa.pt/en/' target='_blank'><img class='footer-ulisboa' src='/images/logos/ist.png' /></a>
       <a href='https://www.igot.ulisboa.pt/' target='_blank'><img class='footer-igot' src='/images/logos/igot.png' /></a>
-
       <a href='https://www.eiturbanmobility.eu/' target='_blank'><img class='footer-eit'src='/images/logos/eit.png' /></a>
-    " 
+      " 
     right: 
       - icon: github
         href: https://github.com/U-Shift/dtn25
