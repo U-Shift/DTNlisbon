@@ -6,6 +6,7 @@
     flex-direction: row;
     flex-wrap: wrap;
     align-items: center;
+    gap: .5rem;
 }
 .navbar-brand-container {
     padding-right: 0rem;
