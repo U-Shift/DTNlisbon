@@ -1,14 +1,28 @@
 @import url('https://fonts.googleapis.com/css2?family=Titillium+Web:ital,wght@0,200;0,300;0,400;0,600;0,700;0,900;1,200;1,300;1,400;1,600;1,700&display=swap');
 
 /* css styles */
-
-.header-logo {
-    height: calc(var(--bs-body-font-size)*1.5);
+.navbar-title {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-items: center;
+    gap: .5rem;
 }
-
 .navbar-brand-container {
+    padding-right: 0rem;
     border-right: 1px solid #545555;
 }
+.navbar-collapse {
+    margin-left: 1rem;
+}
+.navbar-title img {
+    max-height: calc(var(--bs-body-font-size)*1.5);
+    height: auto!important;
+    width: auto!important;
+    margin-right: 1rem;
+    max-width: 100%!important;
+}
+
 @media (max-width: 992px) { 
     .navbar-brand-container {
         border-right: none;

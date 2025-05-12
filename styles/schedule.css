@@ -27,24 +27,25 @@ table tr > td:last-of-type {
     padding: 1rem;
 }
 table td:has(.event-outline-blue) {
-    border: 1px solid #034ea2 !important;
+    border: 1px solid #0798C6 !important;
 }
 table td:has(.event-filled-green) {
-    background-color: #00662f !important;
+    background-color: #9Cb380 !important;
     color: #fff;
 }
 table td:has(.event-filled-orange) {
-    background-color: #ed6f00 !important;
+    background-color: #FF7F51 !important;
     color: #fff;
 }
 table td:has(.event-filled-blue) {
-    background-color: #73c4ee !important;
+    color: #fff!important;
+    background-color: #0798C6 !important;
 }
 table td:has(.event-filled-blue) a {
     color: #fff!important;
 }
 table td:has(.event-filled-red) {
-    background-color: #cd154f !important;
+    background-color: #CE4257 !important;
     color: #fff;
 }
 table td:has(.size-2) {
