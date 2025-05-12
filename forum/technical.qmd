@@ -28,7 +28,7 @@ In this visit, the participants will have the opportunity to get to know the Lis
 ## <img style="height: calc(1.29rem + 0.48vw)" src="https://www.gira-bicicletasdelisboa.pt/wp-content/themes/gira/resources/assets/images/logo_gira.svg"/>
 
 GIRA is Lisbon's public bike system. Operating since 2017, it already counts with 188 dock stations, that provide more than 2000 bicycles to live and explore the city.
-
+<br/><br/>
 The visit will allow the participants to explore the system control center and the bicycles workshop.
 <br/><br/>
 **Schedule**: 15:00 to 17:00 | 
