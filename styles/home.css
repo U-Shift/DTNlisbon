@@ -60,5 +60,7 @@
     display: none;
 }
 .home-logo {
-    height: calc(var(--bs-body-font-size)*3);
+    max-width: 100%;
+    height: auto;
+    max-height: calc(var(--bs-body-font-size)*5);
 }

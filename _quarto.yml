@@ -6,7 +6,6 @@ project:
 website:
   title: "
     <img class='header-logo' src='/images/logos/dtn_lisbon.png' alt='EIT Urban Mobility DTN Annual Forum 2025' />
-    <img class='footer-eit'src='/images/logos/eit.png' />
     "
   search: true
   navbar:
