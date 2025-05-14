@@ -7,6 +7,8 @@ format:
 
 On the [2nd day afternoon](/forum/day2.html), there will be technical visits to some mobility companies that operate in Potugal.
 
+<br/>
+
 ## <img style="height: calc(1.29rem + 0.48vw)" src="https://carris.pt/media/q04iikx3/logosvg.svg"/>
 
 Carris is the public operator of Lisbon urban bus, tram and funicular services. Founded in 1872, it transports more than 130 million passengers every year.
