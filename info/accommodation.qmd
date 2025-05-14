@@ -5,9 +5,25 @@ format:
     css: ../styles/info.css
 ---
 
-The venue of DTN Annual Forum 2025 is right at the heart of Lisbon, with plenty of accomodations around! In  this page we share with you some reccomendations on where to stay. 
+For the accommodation options we have partnered with two hotels offering 15% discount using the code `DTN2025`.
 
-<div class="alert alert-info">
-  <strong>{{< fa circle-info >}} Soon available</strong> We are still preparing our reccomendations list. Stay tuned!
-</div>
+<br/>
 
+## <img style="height: calc(1.29rem + 0.48vw)" src="https://www.hotelwhitelisboa.com/wp-content/uploads/sites/190/2024/12/horizontal-logo-200x50.png"/>
+
+For stays between 08/09/2025 to 14/09/2025
+
+
+[https://turim-hotels.com/](https://turim-hotels.com/){target="_blank"}
+
+
+
+## <img style="height: calc(1.29rem + 0.48vw)" src="https://turim-hotels.com/wp-content/uploads/Turim-Hotels-Gold.png"/>
+
+Code valid until 12/09/2025 
+
+
+For stays from 5/09/2025 to 19/09/2025
+
+
+[https://www.hotelwhitelisboa.com/](https://www.hotelwhitelisboa.com/){target="_blank"}
