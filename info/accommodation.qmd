@@ -5,7 +5,7 @@ format:
     css: ../styles/info.css
 ---
 
-For the accommodation options we have partnered with two hotels offering 15% discount using the code `DTN2025`.
+For the accommodation options we have partnered with two hotels offering 15% discount. Refer to Slack for the code you should use during your reservation.
 
 <br/>
 
