@@ -37,7 +37,7 @@ There is also a suburban bus that serves it, [3702 from  operator Carris Metropo
 
 ::: {layout="[[1,1], [1]]"}
 
-![IGOT building has a GIRA (public bike system) station next to it](/images/info/igot_gira.jpg)
+![IGOT building has a GIRA (public bike system) station next to it](/images/info/igot_gira.jpg){.preview-image}
 
 ![You can also park any shared mobility vehicle right outside](/images/info/igot_bikePark.jpg)
 

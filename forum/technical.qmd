@@ -40,7 +40,7 @@ The visit will allow the participants to explore the system control center and t
 
 ::: {layout="[[35,30,35]]" layout-valign="center"}
 
-![Carris bus and tram](https://carris.pt/media/hctfu2l1/t_paco_carris.jpg?crop=0,0.28361204013377928,0,0.10916623003961472&cropmode=percentage&width=1366&height=525&rnd=133536028435800000)
+![Carris bus and tram](https://carris.pt/media/hctfu2l1/t_paco_carris.jpg?crop=0,0.28361204013377928,0,0.10916623003961472&cropmode=percentage&width=1366&height=525&rnd=133536028435800000){.preview-image}
 
 ![Rail control center](https://www.infraestruturasdeportugal.pt/sites/default/files/2023-11/1150x550%20%284%29.jpg)
 

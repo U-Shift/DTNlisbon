@@ -16,7 +16,7 @@ Lisbon international airport (Humberto Delgado Airport) connects the world with 
 
 Lisbon has two main stations for long distance services. Despite not having direct connections with foreign countries, if you come from anywhere in Portugal you can get here by picking a train with destination **Lisboa Santa Apolónia** if you come from the north or **Lisboa Oriente** if you come from the south. Both stations are connected to the metro network and urban railway services.
 
-![Gare do Oriente Station](https://lisboaparapessoas.pt/wp-content/uploads/2022/02/garedooriente_01-1024x683.jpg)
+![Gare do Oriente Station](https://lisboaparapessoas.pt/wp-content/uploads/2022/02/garedooriente_01-1024x683.jpg){.preview-image}
 
 ## {{< fa bus-simple >}} By bus
 

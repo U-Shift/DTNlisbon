@@ -8,7 +8,7 @@ format:
 
 Lisbon is serviced by a robust transportation system, build up on metro, bus, trams and urban trains. Here we list the main means of transportation and how you can use them.
 
-![](https://www.metrolisboa.pt/wp-content/uploads/2024/07/DiagramadaRede_julho2024.png)
+![](https://www.metrolisboa.pt/wp-content/uploads/2024/07/DiagramadaRede_julho2024.png){.preview-image}
 
 ## Means of transportation
  
