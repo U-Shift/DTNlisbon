@@ -10,7 +10,7 @@ website:
     <span class='hidden'>DTN Lisbon 2025</span>
     <img class='header-logo' src='/images/logos/dtn_lisbon.png' alt='EIT Urban Mobility DTN Annual Forum 2025' />
     "
-  image: "images/backgrounds/dtn.png"
+  image: "/images/backgrounds/dtn.png"
   search: true
   navbar:
     pinned: false
