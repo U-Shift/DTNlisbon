@@ -13,12 +13,15 @@ $primary: #034EA2 !default;
 $success: #96C247 !default;
 
 // Global styles
-
+.quarto-sidebar {
+    max-width: 100%!important;
+}
 .sidebar-item {
     border: 1px solid #cd7eabff;
     border-radius: 32px;
     padding: 6px;
     padding-left: 12px;
+    text-wrap: wrap;
 
     &:has(a.active) {background-color: #cd7eabff;}
     &:has(a.active) .sidebar-item-text span {color: #ffffff!important;}
@@ -29,6 +32,9 @@ $success: #96C247 !default;
     .sidebar-item-text {
         span {color: black!important;}
     }
+}
+.dropdown-menu .dropdown-item {
+    text-wrap: wrap;
 }
 
 .nav-footer-center {
