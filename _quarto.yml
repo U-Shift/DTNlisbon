@@ -6,6 +6,7 @@ project:
 website:
   favicon: /images/favicon.png
   title: "
+    <span class='hidden'>DTN Lisbon 2025</span>
     <img class='header-logo' src='/images/logos/dtn_lisbon.png' alt='EIT Urban Mobility DTN Annual Forum 2025' />
     "
   search: true
