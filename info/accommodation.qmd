@@ -1,5 +1,6 @@
 ---
 title: "Accommodation"
+image: "/images/backgrounds/dtn.png"
 format:
   html:
     css: ../styles/info.css

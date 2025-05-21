@@ -1,5 +1,6 @@
 ---
 title: "Our team"
+image: "/images/backgrounds/dtn.png"
 format:
   html:
     css: ../styles/info.css

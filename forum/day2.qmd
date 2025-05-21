@@ -1,5 +1,6 @@
 ---
 title: 11th Sept. (Thursday)
+image: "/images/backgrounds/dtn.png"
 format:
   html:
     css: ../styles/schedule.css

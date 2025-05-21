@@ -1,5 +1,6 @@
 ---
 title: 13-14th Sept. | Qualitative Methods in Urban Mobility Research
+image: "/images/backgrounds/dtn.png"
 format:
   html:
     css: ../styles/schedule.css

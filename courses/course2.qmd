@@ -1,5 +1,6 @@
 ---
 title: 8-9th Sept. | Tools and Skills for Reproducible Transport Research
+image: "/images/backgrounds/dtn.png"
 format:
   html:
     css: ../styles/schedule.css

@@ -1,5 +1,6 @@
 ---
 title: 13-14th Sept. | Urban Transformation in Medellin (Colombia)
+image: "/images/backgrounds/dtn.png"
 format:
   html:
     css: ../styles/schedule.css

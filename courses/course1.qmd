@@ -1,5 +1,6 @@
 ---
 title: 8-9th Sept. | Shared Mobility - Policy challenges and multimodal solutions
+image: "/images/backgrounds/dtn.png"
 format:
   html:
     css: ../styles/schedule.css
