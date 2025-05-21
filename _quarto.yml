@@ -11,7 +11,7 @@ website:
     <img class='header-logo' src='/images/logos/dtn_lisbon.png' alt='EIT Urban Mobility DTN Annual Forum 2025' />
     "
   site-url: https://u-shift.github.io/DTNlisbon
-  image: "/images/backgrounds/dtn.png"
+  image: https://u-shift.github.io/DTNlisbon/images/backgrounds/dtn.png
   search: true
   navbar:
     pinned: false
