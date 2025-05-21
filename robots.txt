@@ -1,1 +1,1 @@
-Sitemap: https://U-Shift.github.io/DTNlisbon/sitemap.xml
+Sitemap: https://u-shift.github.io/DTNlisbon/sitemap.xml
