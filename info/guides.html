@@ -2,12 +2,12 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.6.42">
+<meta name="generator" content="quarto-1.3.313">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>Guides – DTN Lisbon 2025 </title>
+<title>DTN Lisbon 2025  - Guides</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -38,23 +38,17 @@ ul.task-list li input[type="checkbox"] {
 <script src="../site_libs/quarto-html/tippy.umd.min.js"></script>
 <script src="../site_libs/quarto-html/anchor.min.js"></script>
 <link href="../site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="../site_libs/quarto-html/quarto-syntax-highlighting-2f5df379a58b258e96c21c0638c20c03.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<link href="../site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="../site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="../site_libs/bootstrap/bootstrap-79e2cf246963b1381757878529ed21d4.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<link href="../site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
   "collapse-after": 3,
   "panel-placement": "end",
   "type": "overlay",
-  "limit": 50,
-  "keyboard-shortcut": [
-    "f",
-    "/",
-    "s"
-  ],
-  "show-item-context": false,
+  "limit": 20,
   "language": {
     "search-no-results-text": "No results",
     "search-matching-documents-text": "matching documents",
@@ -63,10 +57,8 @@ ul.task-list li input[type="checkbox"] {
     "search-more-match-text": "more match in this document",
     "search-more-matches-text": "more matches in this document",
     "search-clear-button-title": "Clear",
-    "search-text-placeholder": "",
     "search-detached-cancel-button-title": "Cancel",
-    "search-submit-button-title": "Submit",
-    "search-label": "Search"
+    "search-submit-button-title": "Submit"
   }
 }</script>
 <script>
@@ -79,9 +71,9 @@ ul.task-list li input[type="checkbox"] {
     }
 
     const options = {
-      valueNames: ['listing-image','listing-title','listing-description','listing-categories',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
+      valueNames: ['listing-path','listing-image','listing-title','listing-description','listing-categories',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
       
-      searchColumns: ["listing-image","listing-title","listing-description","listing-categories"],
+      searchColumns: ["listing-path","listing-image","listing-title","listing-description","listing-categories"],
     };
 
     window['quarto-listings'] = window['quarto-listings'] || {};
@@ -99,39 +91,12 @@ ul.task-list li input[type="checkbox"] {
   })
   </script>
 
-  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
+  <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
   <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
-
-<script type="text/javascript">
-const typesetMath = (el) => {
-  if (window.MathJax) {
-    // MathJax Typeset
-    window.MathJax.typeset([el]);
-  } else if (window.katex) {
-    // KaTeX Render
-    var mathElements = el.getElementsByClassName("math");
-    var macros = [];
-    for (var i = 0; i < mathElements.length; i++) {
-      var texText = mathElements[i].firstChild;
-      if (mathElements[i].tagName == "SPAN") {
-        window.katex.render(texText.data, mathElements[i], {
-          displayMode: mathElements[i].classList.contains('display'),
-          throwOnError: false,
-          macros: macros,
-          fleqn: false
-        });
-      }
-    }
-  }
-}
-window.Quarto = {
-  typesetMath
-};
-</script>
 
 <link rel="stylesheet" href="../styles.css">
 <link rel="stylesheet" href="../styles/info.css">
-<meta name="twitter:title" content="Guides – DTN Lisbon 2025 ">
+<meta name="twitter:title" content="DTN Lisbon 2025  - Guides">
 <meta name="twitter:description" content="">
 <meta name="twitter:image" content="https://u-shift.github.io/DTNlisbon/images/backgrounds/dtn.png">
 <meta name="twitter:image-height" content="1040">
@@ -143,136 +108,136 @@ window.Quarto = {
 
 <div id="quarto-search-results"></div>
   <header id="quarto-header" class="headroom fixed-top">
-    <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
+    <nav class="navbar navbar-expand-lg navbar-dark ">
       <div class="navbar-container container-fluid">
-      <div class="navbar-brand-container mx-auto">
+      <div class="navbar-brand-container">
     <a class="navbar-brand" href="../index.html">
     <span class="navbar-title"><span class="hidden">DTN Lisbon 2025</span> <img class="header-logo" src="../images/logos/dtn_lisbon.png" alt="EIT Urban Mobility DTN Annual Forum 2025"></span>
     </a>
   </div>
             <div id="quarto-search" class="" title="Search"></div>
-          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" role="menu" aria-expanded="false" aria-label="Toggle navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
+          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
   <span class="navbar-toggler-icon"></span>
 </button>
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll me-auto">
   <li class="nav-item">
-    <a class="nav-link" href="../index.html"> 
-<span class="menu-text">Home</span></a>
+    <a class="nav-link" href="../index.html" rel="" target="">
+ <span class="menu-text">Home</span></a>
   </li>  
   <li class="nav-item dropdown ">
-    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-practical-info" role="link" data-bs-toggle="dropdown" aria-expanded="false">
+    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-practical-info" role="button" data-bs-toggle="dropdown" aria-expanded="false" rel="" target="">
  <span class="menu-text">Practical info</span>
     </a>
     <ul class="dropdown-menu" aria-labelledby="nav-menu-practical-info">    
         <li>
-    <a class="dropdown-item" href="../info/venue.html">
+    <a class="dropdown-item" href="../info/venue.html" rel="" target="">
  <span class="dropdown-text">Venue</span></a>
   </li>  
         <li>
-    <a class="dropdown-item" href="../info/gettingHere.html">
+    <a class="dropdown-item" href="../info/gettingHere.html" rel="" target="">
  <span class="dropdown-text">Getting to the venue</span></a>
   </li>  
         <li>
-    <a class="dropdown-item" href="../info/gettingAround.html">
+    <a class="dropdown-item" href="../info/gettingAround.html" rel="" target="">
  <span class="dropdown-text">Getting around</span></a>
   </li>  
         <li>
-    <a class="dropdown-item" href="../info/gettingToLisbon.html">
+    <a class="dropdown-item" href="../info/gettingToLisbon.html" rel="" target="">
  <span class="dropdown-text">Getting to Lisbon</span></a>
   </li>  
         <li>
-    <a class="dropdown-item" href="../info/accommodation.html">
+    <a class="dropdown-item" href="../info/accommodation.html" rel="" target="">
  <span class="dropdown-text">Accommodation</span></a>
   </li>  
         <li>
-    <a class="dropdown-item" href="../info/guides.html">
+    <a class="dropdown-item" href="../info/guides.html" rel="" target="">
  <span class="dropdown-text">Guides</span></a>
   </li>  
     </ul>
   </li>
   <li class="nav-item dropdown ">
-    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-contacts" role="link" data-bs-toggle="dropdown" aria-expanded="false">
+    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-contacts" role="button" data-bs-toggle="dropdown" aria-expanded="false" rel="" target="">
  <span class="menu-text">Contacts</span>
     </a>
     <ul class="dropdown-menu" aria-labelledby="nav-menu-contacts">    
         <li>
-    <a class="dropdown-item" href="../info/team.html">
+    <a class="dropdown-item" href="../info/team.html" rel="" target="">
  <span class="dropdown-text">Our team</span></a>
   </li>  
         <li>
-    <a class="dropdown-item" href="../info/contacts.html">
+    <a class="dropdown-item" href="../info/contacts.html" rel="" target="">
  <span class="dropdown-text">Contacts</span></a>
   </li>  
     </ul>
   </li>
   <li class="nav-item dropdown ">
-    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-forum" role="link" data-bs-toggle="dropdown" aria-expanded="false">
+    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-forum" role="button" data-bs-toggle="dropdown" aria-expanded="false" rel="" target="">
  <span class="menu-text">Forum</span>
     </a>
     <ul class="dropdown-menu" aria-labelledby="nav-menu-forum">    
         <li>
-    <a class="dropdown-item" href="../forum/day1.html">
+    <a class="dropdown-item" href="../forum/day1.html" rel="" target="">
  <span class="dropdown-text">10th Sept.&nbsp;(Wednesday)</span></a>
   </li>  
         <li>
-    <a class="dropdown-item" href="../forum/day2.html">
+    <a class="dropdown-item" href="../forum/day2.html" rel="" target="">
  <span class="dropdown-text">11th Sept.&nbsp;(Thursday)</span></a>
   </li>  
         <li>
-    <a class="dropdown-item" href="../forum/day3.html">
+    <a class="dropdown-item" href="../forum/day3.html" rel="" target="">
  <span class="dropdown-text">12th Sept.&nbsp;(Friday)</span></a>
   </li>  
         <li>
-    <a class="dropdown-item" href="../forum/technical.html">
+    <a class="dropdown-item" href="../forum/technical.html" rel="" target="">
  <span class="dropdown-text">Technical visits</span></a>
   </li>  
     </ul>
   </li>
   <li class="nav-item dropdown ">
-    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-courses" role="link" data-bs-toggle="dropdown" aria-expanded="false">
+    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-courses" role="button" data-bs-toggle="dropdown" aria-expanded="false" rel="" target="">
  <span class="menu-text">Courses</span>
     </a>
     <ul class="dropdown-menu" aria-labelledby="nav-menu-courses">    
         <li>
-    <a class="dropdown-item" href="../courses/course1.html">
+    <a class="dropdown-item" href="../courses/course1.html" rel="" target="">
  <span class="dropdown-text">8-9th Sept.&nbsp;| Shared Mobility - Policy challenges and multimodal solutions</span></a>
   </li>  
         <li>
-    <a class="dropdown-item" href="../courses/course2.html">
+    <a class="dropdown-item" href="../courses/course2.html" rel="" target="">
  <span class="dropdown-text">8-9th Sept.&nbsp;| Tools and Skills for Reproducible Transport Research</span></a>
   </li>  
         <li>
-    <a class="dropdown-item" href="../courses/course3.html">
+    <a class="dropdown-item" href="../courses/course3.html" rel="" target="">
  <span class="dropdown-text">13-14th Sept.&nbsp;| Qualitative Methods in Urban Mobility Research</span></a>
   </li>  
         <li>
-    <a class="dropdown-item" href="../courses/course4.html">
+    <a class="dropdown-item" href="../courses/course4.html" rel="" target="">
  <span class="dropdown-text">13-14th Sept.&nbsp;| Urban Transformation in Medellin (Colombia)</span></a>
   </li>  
     </ul>
   </li>
 </ul>
-          </div> <!-- /navcollapse -->
-            <div class="quarto-navbar-tools">
+            <div class="quarto-navbar-tools ms-auto">
 </div>
+          </div> <!-- /navcollapse -->
       </div> <!-- /container-fluid -->
     </nav>
   <nav class="quarto-secondary-nav">
     <div class="container-fluid d-flex">
-      <button type="button" class="quarto-btn-toggle btn" data-bs-toggle="collapse" role="button" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
+      <button type="button" class="quarto-btn-toggle btn" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar,#quarto-sidebar-glass" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
         <i class="bi bi-layout-text-sidebar-reverse"></i>
       </button>
-        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="../info/guides.html">Guides</a></li></ol></nav>
-        <a class="flex-grow-1" role="navigation" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">      
-        </a>
+      <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="../info/guides.html">Guides</a></li></ol></nav>
+      <a class="flex-grow-1" role="button" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar,#quarto-sidebar-glass" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">      
+      </a>
     </div>
   </nav>
 </header>
 <!-- content -->
 <div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
 <!-- sidebar -->
-  <nav id="quarto-sidebar" class="sidebar collapse collapse-horizontal quarto-sidebar-collapse-item sidebar-navigation floating overflow-auto">
+  <nav id="quarto-sidebar" class="sidebar collapse collapse-horizontal sidebar-navigation floating overflow-auto">
     <div class="sidebar-menu-container"> 
     <ul class="list-unstyled mt-1">
         <li class="sidebar-item">
@@ -314,10 +279,10 @@ window.Quarto = {
     </ul>
     </div>
 </nav>
-<div id="quarto-sidebar-glass" class="quarto-sidebar-collapse-item" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item"></div>
+<div id="quarto-sidebar-glass" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar,#quarto-sidebar-glass"></div>
 <!-- margin-sidebar -->
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
-    <h5 class="quarto-listing-category-title">Categories</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">All <span class="quarto-category-count">(3)</span></div><div class="category" data-category="QXBw">App <span class="quarto-category-count">(1)</span></div><div class="category" data-category="V2Vic2l0ZQ==">Website <span class="quarto-category-count">(2)</span></div></div></div>
+    <h5 class="quarto-listing-category-title">Categories</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">All <span class="quarto-category-count">(3)</span></div><div class="category" data-category="App">App <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Website">Website <span class="quarto-category-count">(2)</span></div></div></div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
 
@@ -336,9 +301,7 @@ window.Quarto = {
   </div>
   
 
-
 </header>
-
 
 <script>
   // Script to override listing hyperlinks behaviour, forcing to open them on new tab
@@ -359,84 +322,99 @@ window.Quarto = {
 
 <div class="quarto-listing quarto-listing-container-default" id="listing-listing">
 <div class="list quarto-listing-default">
-<div class="quarto-post image-right" data-index="0" data-categories="V2Vic2l0ZQ==">
+<div class="quarto-post image-right" data-index="0" data-categories="Website">
 <div class="thumbnail">
-<p><a href="https://www.visitlisboa.com/en" class="no-external"></a></p><a href="https://www.visitlisboa.com/en" class="no-external">
-<p><img loading="lazy" src="https://www.visitlisboa.com/assets/logo-8220233f4afbb2a29289a20b751b1b78c3bb11d48cb83404e7174c6e2faf77b7.png" class="thumbnail-image"></p>
-</a><p><a href="https://www.visitlisboa.com/en" class="no-external"></a></p>
+<p><a href="https://www.visitlisboa.com/en"> <img src="https://www.visitlisboa.com/assets/logo-8220233f4afbb2a29289a20b751b1b78c3bb11d48cb83404e7174c6e2faf77b7.png" class="thumbnail-image"> </a></p>
 </div>
 <div class="body">
+<a href="https://www.visitlisboa.com/en">
 <h3 class="no-anchor listing-title">
-<a href="https://www.visitlisboa.com/en" class="no-external">Turismo de Lisboa</a>
+Turismo de Lisboa
 </h3>
 <div class="listing-subtitle">
-<a href="https://www.visitlisboa.com/en" class="no-external"></a>
+
 </div>
+</a>
 <div class="listing-categories">
-<div class="listing-category" onclick="window.quartoListingCategory('V2Vic2l0ZQ=='); return false;">
+<div class="listing-category" onclick="window.quartoListingCategory('Website'); return false;">
 Website
 </div>
 </div>
+<a href="https://www.visitlisboa.com/en">
 <div class="listing-description">
-<a href="https://www.visitlisboa.com/en" class="no-external">The institutional page for Lisboa tourism association. Here you can find several informations about the main attractions, events and practical tips.</a>
+<p>The institutional page for Lisboa tourism association. Here you can find several informations about the main attractions, events and practical tips.</p>
 </div>
+</a>
 </div>
 <div class="metadata">
-<p><a href="https://www.visitlisboa.com/en" class="no-external"></a></p><a href="https://www.visitlisboa.com/en" class="no-external">
+<a href="https://www.visitlisboa.com/en">
+<div class="metadata-value listing-path">
+https://www.visitlisboa.com/en
+</div>
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="1" data-categories="QXBw">
+<div class="quarto-post image-right" data-index="1" data-categories="App">
 <div class="thumbnail">
-<p><a href="https://www.visitacity.com/en/lisbon" class="no-external"></a></p><a href="https://www.visitacity.com/en/lisbon" class="no-external">
-<p><img loading="lazy" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0kqmaXAJCuutQhHkItrJHGR1_o6Na8F6R3Q&amp;s" class="thumbnail-image"></p>
-</a><p><a href="https://www.visitacity.com/en/lisbon" class="no-external"></a></p>
+<p><a href="https://www.visitacity.com/en/lisbon"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0kqmaXAJCuutQhHkItrJHGR1_o6Na8F6R3Q&amp;s" class="thumbnail-image"> </a></p>
 </div>
 <div class="body">
+<a href="https://www.visitacity.com/en/lisbon">
 <h3 class="no-anchor listing-title">
-<a href="https://www.visitacity.com/en/lisbon" class="no-external">Visit a city</a>
+Visit a city
 </h3>
 <div class="listing-subtitle">
-<a href="https://www.visitacity.com/en/lisbon" class="no-external"></a>
+
 </div>
+</a>
 <div class="listing-categories">
-<div class="listing-category" onclick="window.quartoListingCategory('QXBw'); return false;">
+<div class="listing-category" onclick="window.quartoListingCategory('App'); return false;">
 App
 </div>
 </div>
+<a href="https://www.visitacity.com/en/lisbon">
 <div class="listing-description">
-<a href="https://www.visitacity.com/en/lisbon" class="no-external">This app provides several itineraries addapted to diverse preferences and durations.</a>
+<p>This app provides several itineraries addapted to diverse preferences and durations.</p>
 </div>
+</a>
 </div>
 <div class="metadata">
-<p><a href="https://www.visitacity.com/en/lisbon" class="no-external"></a></p><a href="https://www.visitacity.com/en/lisbon" class="no-external">
+<a href="https://www.visitacity.com/en/lisbon">
+<div class="metadata-value listing-path">
+https://www.visitacity.com/en/lisbon
+</div>
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="2" data-categories="V2Vic2l0ZQ==">
+<div class="quarto-post image-right" data-index="2" data-categories="Website">
 <div class="thumbnail">
-<p><a href="https://www.timeout.com/lisbon/things-to-do" class="no-external"></a></p><a href="https://www.timeout.com/lisbon/things-to-do" class="no-external">
-<p><img loading="lazy" src="https://upload.wikimedia.org/wikipedia/en/5/5b/Time_Out_logo.jpg" class="thumbnail-image"></p>
-</a><p><a href="https://www.timeout.com/lisbon/things-to-do" class="no-external"></a></p>
+<p><a href="https://www.timeout.com/lisbon/things-to-do"> <img src="https://upload.wikimedia.org/wikipedia/en/5/5b/Time_Out_logo.jpg" class="thumbnail-image"> </a></p>
 </div>
 <div class="body">
+<a href="https://www.timeout.com/lisbon/things-to-do">
 <h3 class="no-anchor listing-title">
-<a href="https://www.timeout.com/lisbon/things-to-do" class="no-external">TimeOut</a>
+TimeOut
 </h3>
 <div class="listing-subtitle">
-<a href="https://www.timeout.com/lisbon/things-to-do" class="no-external"></a>
+
 </div>
+</a>
 <div class="listing-categories">
-<div class="listing-category" onclick="window.quartoListingCategory('V2Vic2l0ZQ=='); return false;">
+<div class="listing-category" onclick="window.quartoListingCategory('Website'); return false;">
 Website
 </div>
 </div>
+<a href="https://www.timeout.com/lisbon/things-to-do">
 <div class="listing-description">
-<a href="https://www.timeout.com/lisbon/things-to-do" class="no-external">This magazine compiles several guides that can help you find the best viewpoints, museums or beaches.</a>
+<p>This magazine compiles several guides that can help you find the best viewpoints, museums or beaches.</p>
 </div>
+</a>
 </div>
 <div class="metadata">
-<p><a href="https://www.timeout.com/lisbon/things-to-do" class="no-external"></a></p><a href="https://www.timeout.com/lisbon/things-to-do" class="no-external">
+<a href="https://www.timeout.com/lisbon/things-to-do">
+<div class="metadata-value listing-path">
+https://www.timeout.com/lisbon/things-to-do
+</div>
 </a>
 </div>
 </div>
@@ -500,7 +478,18 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     }
     return false;
   }
-  const onCopySuccess = function(e) {
+  const clipboard = new window.ClipboardJS('.code-copy-button', {
+    text: function(trigger) {
+      const codeEl = trigger.previousElementSibling.cloneNode(true);
+      for (const childEl of codeEl.children) {
+        if (isCodeAnnotation(childEl)) {
+          childEl.remove();
+        }
+      }
+      return codeEl.innerText;
+    }
+  });
+  clipboard.on('success', function(e) {
     // button target
     const button = e.trigger;
     // don't keep focus
@@ -532,48 +521,11 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     }, 1000);
     // clear code selection
     e.clearSelection();
-  }
-  const getTextToCopy = function(trigger) {
-      const codeEl = trigger.previousElementSibling.cloneNode(true);
-      for (const childEl of codeEl.children) {
-        if (isCodeAnnotation(childEl)) {
-          childEl.remove();
-        }
-      }
-      return codeEl.innerText;
-  }
-  const clipboard = new window.ClipboardJS('.code-copy-button:not([data-in-quarto-modal])', {
-    text: getTextToCopy
   });
-  clipboard.on('success', onCopySuccess);
-  if (window.document.getElementById('quarto-embedded-source-code-modal')) {
-    const clipboardModal = new window.ClipboardJS('.code-copy-button[data-in-quarto-modal]', {
-      text: getTextToCopy,
-      container: window.document.getElementById('quarto-embedded-source-code-modal')
-    });
-    clipboardModal.on('success', onCopySuccess);
-  }
-    var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
-    var mailtoRegex = new RegExp(/^mailto:/);
-      var filterRegex = new RegExp("https:\/\/u-shift\.github\.io\/DTNlisbon");
-    var isInternal = (href) => {
-        return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
-    }
-    // Inspect non-navigation links and adorn them if external
- 	var links = window.document.querySelectorAll('a[href]:not(.nav-link):not(.navbar-brand):not(.toc-action):not(.sidebar-link):not(.sidebar-item-toggle):not(.pagination-link):not(.no-external):not([aria-hidden]):not(.dropdown-item):not(.quarto-navigation-tool):not(.about-link)');
-    for (var i=0; i<links.length; i++) {
-      const link = links[i];
-      if (!isInternal(link.href)) {
-        // undo the damage that might have been done by quarto-nav.js in the case of
-        // links that we want to consider external
-        if (link.dataset.originalHref !== undefined) {
-          link.href = link.dataset.originalHref;
-        }
-      }
-    }
-  function tippyHover(el, contentFn, onTriggerFn, onUntriggerFn) {
+  function tippyHover(el, contentFn) {
     const config = {
       allowHTML: true,
+      content: contentFn,
       maxWidth: 500,
       delay: 100,
       arrow: false,
@@ -583,17 +535,8 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       interactive: true,
       interactiveBorder: 10,
       theme: 'quarto',
-      placement: 'bottom-start',
+      placement: 'bottom-start'
     };
-    if (contentFn) {
-      config.content = contentFn;
-    }
-    if (onTriggerFn) {
-      config.onTrigger = onTriggerFn;
-    }
-    if (onUntriggerFn) {
-      config.onUntrigger = onUntriggerFn;
-    }
     window.tippy(el, config); 
   }
   const noterefs = window.document.querySelectorAll('a[role="doc-noteref"]');
@@ -605,129 +548,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       try { href = new URL(href).hash; } catch {}
       const id = href.replace(/^#\/?/, "");
       const note = window.document.getElementById(id);
-      if (note) {
-        return note.innerHTML;
-      } else {
-        return "";
-      }
-    });
-  }
-  const xrefs = window.document.querySelectorAll('a.quarto-xref');
-  const processXRef = (id, note) => {
-    // Strip column container classes
-    const stripColumnClz = (el) => {
-      el.classList.remove("page-full", "page-columns");
-      if (el.children) {
-        for (const child of el.children) {
-          stripColumnClz(child);
-        }
-      }
-    }
-    stripColumnClz(note)
-    if (id === null || id.startsWith('sec-')) {
-      // Special case sections, only their first couple elements
-      const container = document.createElement("div");
-      if (note.children && note.children.length > 2) {
-        container.appendChild(note.children[0].cloneNode(true));
-        for (let i = 1; i < note.children.length; i++) {
-          const child = note.children[i];
-          if (child.tagName === "P" && child.innerText === "") {
-            continue;
-          } else {
-            container.appendChild(child.cloneNode(true));
-            break;
-          }
-        }
-        if (window.Quarto?.typesetMath) {
-          window.Quarto.typesetMath(container);
-        }
-        return container.innerHTML
-      } else {
-        if (window.Quarto?.typesetMath) {
-          window.Quarto.typesetMath(note);
-        }
-        return note.innerHTML;
-      }
-    } else {
-      // Remove any anchor links if they are present
-      const anchorLink = note.querySelector('a.anchorjs-link');
-      if (anchorLink) {
-        anchorLink.remove();
-      }
-      if (window.Quarto?.typesetMath) {
-        window.Quarto.typesetMath(note);
-      }
-      if (note.classList.contains("callout")) {
-        return note.outerHTML;
-      } else {
-        return note.innerHTML;
-      }
-    }
-  }
-  for (var i=0; i<xrefs.length; i++) {
-    const xref = xrefs[i];
-    tippyHover(xref, undefined, function(instance) {
-      instance.disable();
-      let url = xref.getAttribute('href');
-      let hash = undefined; 
-      if (url.startsWith('#')) {
-        hash = url;
-      } else {
-        try { hash = new URL(url).hash; } catch {}
-      }
-      if (hash) {
-        const id = hash.replace(/^#\/?/, "");
-        const note = window.document.getElementById(id);
-        if (note !== null) {
-          try {
-            const html = processXRef(id, note.cloneNode(true));
-            instance.setContent(html);
-          } finally {
-            instance.enable();
-            instance.show();
-          }
-        } else {
-          // See if we can fetch this
-          fetch(url.split('#')[0])
-          .then(res => res.text())
-          .then(html => {
-            const parser = new DOMParser();
-            const htmlDoc = parser.parseFromString(html, "text/html");
-            const note = htmlDoc.getElementById(id);
-            if (note !== null) {
-              const html = processXRef(id, note);
-              instance.setContent(html);
-            } 
-          }).finally(() => {
-            instance.enable();
-            instance.show();
-          });
-        }
-      } else {
-        // See if we can fetch a full url (with no hash to target)
-        // This is a special case and we should probably do some content thinning / targeting
-        fetch(url)
-        .then(res => res.text())
-        .then(html => {
-          const parser = new DOMParser();
-          const htmlDoc = parser.parseFromString(html, "text/html");
-          const note = htmlDoc.querySelector('main.content');
-          if (note !== null) {
-            // This should only happen for chapter cross references
-            // (since there is no id in the URL)
-            // remove the first header
-            if (note.children.length > 0 && note.children[0].tagName === "HEADER") {
-              note.children[0].remove();
-            }
-            const html = processXRef(null, note);
-            instance.setContent(html);
-          } 
-        }).finally(() => {
-          instance.enable();
-          instance.show();
-        });
-      }
-    }, function(instance) {
+      return note.innerHTML;
     });
   }
       let selectedAnnoteEl;
@@ -771,7 +592,6 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
             }
             div.style.top = top - 2 + "px";
             div.style.height = height + 4 + "px";
-            div.style.left = 0;
             let gutterDiv = window.document.getElementById("code-annotation-line-highlight-gutter");
             if (gutterDiv === null) {
               gutterDiv = window.document.createElement("div");
@@ -797,32 +617,6 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
         });
         selectedAnnoteEl = undefined;
       };
-        // Handle positioning of the toggle
-    window.addEventListener(
-      "resize",
-      throttle(() => {
-        elRect = undefined;
-        if (selectedAnnoteEl) {
-          selectCodeLines(selectedAnnoteEl);
-        }
-      }, 10)
-    );
-    function throttle(fn, ms) {
-    let throttle = false;
-    let timer;
-      return (...args) => {
-        if(!throttle) { // first call gets through
-            fn.apply(this, args);
-            throttle = true;
-        } else { // all the others get throttled
-            if(timer) clearTimeout(timer); // cancel #2
-            timer = setTimeout(() => {
-              fn.apply(this, args);
-              timer = throttle = false;
-            }, ms);
-        }
-      };
-    }
       // Attach click handler to the DT
       const annoteDls = window.document.querySelectorAll('dt[data-target-cell]');
       for (const annoteDlNode of annoteDls) {
@@ -885,9 +679,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
 </div> <!-- /content -->
 <footer class="footer">
   <div class="nav-footer">
-    <div class="nav-footer-left">
-<p><a href="https://www.ulisboa.pt/en" target="_blank"><img class="footer-ulisboa" src="../images/logos/ulisboa.png"></a> <a href="https://tecnico.ulisboa.pt/en/" target="_blank"><img class="footer-ulisboa" src="../images/logos/ist.png"></a> <a href="https://www.igot.ulisboa.pt/" target="_blank"><img class="footer-igot" src="../images/logos/igot.png"></a> <a href="https://www.eiturbanmobility.eu/" target="_blank"><img class="footer-eit" src="../images/logos/eit.png"></a></p>
-</div>   
+    <div class="nav-footer-left"><a href="https://www.ulisboa.pt/en" target="_blank"><img class="footer-ulisboa" src="../images/logos/ulisboa.png"></a> <a href="https://tecnico.ulisboa.pt/en/" target="_blank"><img class="footer-ulisboa" src="../images/logos/ist.png"></a> <a href="https://www.igot.ulisboa.pt/" target="_blank"><img class="footer-igot" src="../images/logos/igot.png"></a> <a href="https://www.eiturbanmobility.eu/" target="_blank"><img class="footer-eit" src="../images/logos/eit.png"></a></div>   
     <div class="nav-footer-center">
       &nbsp;
     </div>
@@ -903,7 +695,6 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     </div>
   </div>
 </footer>
-
 
 
 
