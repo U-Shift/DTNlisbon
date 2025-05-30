@@ -17,7 +17,7 @@ format:
 | 11:15       | <span class="event-outline-blue"></span> Coffee break                           |
 | 11:40       | <span class="event-filled-green"></span> Keynote 2           |
 | 12:30       | <span class="event-outline-blue"></span> Lunch                                  |
-| 13:30       | <span class="event-filled-green"></span> Keynote 3                              |
+| 13:30       | <span class="event-filled-green"></span> Keynote 3: Miguel Costa (Technical University of Denmark)                              |
 | 14:15       | <span class="event-filled-blue"></span> Graduation Ceromony  |
 | 16:00       | <span class="event-outline-blue"></span> Allumni meeting            |
 | 17:00       | <span class="event-filled-red size-3"></span> São Jorge's Castle                      | 
