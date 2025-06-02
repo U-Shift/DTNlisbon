@@ -11,14 +11,14 @@
     "href": "forum/day3.html",
     "title": "12th Sept. (Friday)",
     "section": "",
-    "text": "Preliminary schedule This schedule is only indicative and might be subject to changes.\n\n\n\n\n\n\n\n\n9:00 - 9:30\n Coffee\n\n\n9:30\n Keynote 1\n\n\n10:15\n Workshop\n\n\n11:15\n Coffee break\n\n\n11:40\n Keynote 2\n\n\n12:30\n Lunch\n\n\n13:30\n Keynote 3: Miguel Costa (Technical University of Denmark)\n\n\n14:15\n Graduation Ceromony\n\n\n16:00\n Allumni meeting\n\n\n17:00\n São Jorge’s Castle"
+    "text": "Preliminary schedule This schedule is only indicative and might be subject to changes.\n\n\n\n\n\n\n\n\n9:00 - 9:30\n Coffee\n\n\n9:30\n Keynote 1\n\n\n10:15\n Workshop\n\n\n11:15\n Coffee break\n\n\n11:40\n Keynote 2\n\n\n12:30\n Lunch\n\n\n13:30\n Keynote 3: Miguel Costa (Technical University of Denmark)\n\n\n14:15\n Graduation Ceromony\n\n\n16:00\n Allumni meeting\n\n\n17:00\n Free Lisbon Tour"
   },
   {
     "objectID": "forum/day1.html",
     "href": "forum/day1.html",
     "title": "10th Sept. (Wednesday)",
     "section": "",
-    "text": "Preliminary schedule This schedule is only indicative and might be subject to changes.\n\n\n\n\n\n\n\n\n8:30 - 9:30\n Registration / coffee\n\n\n9:30\n Welcome\n\n\n10:00\n Keynote\n\n\n10:45\n Coffee break\n\n\n11:15\n PhD poster pitching\n\n\n12:30\n Lunch\n\n\n13:30\n Outdoor activity\n\n\n20:00\n Dinner"
+    "text": "Preliminary schedule This schedule is only indicative and might be subject to changes.\n\n\n\n\n\n\n\n\n8:30 - 9:30\n Registration / coffee\n\n\n9:30\n Welcome\n\n\n10:00\n Keynote\n\n\n10:45\n Coffee break\n\n\n11:15\n PhD poster pitching\n\n\n12:30\n Lunch\n\n\n14:30\n Lisbon Public Transit Experience\n\n\n16:00\n Outdoor activity\n\n\n20:00\n Dinner"
   },
   {
     "objectID": "forum/technical.html",
@@ -47,27 +47,6 @@
     "title": "Technical visits",
     "section": "",
     "text": "GIRA is Lisbon’s public bike system. Operating since 2017, it already counts with 188 dock stations, that provide more than 2000 bicycles to live and explore the city.  The visit will allow the participants to explore the system control center and the bicycles workshop.  Schedule: 15:00 to 17:00 | Openings: 25 participants\n\n\n\n\n\n\n\nCarris bus and tram\n\n\n\n\n\n\n\nRail control center\n\n\n\n\n\n\n\nGIRA bicycle"
-  },
-  {
-    "objectID": "courses/course4.html",
-    "href": "courses/course4.html",
-    "title": "13-14th Sept. | Urban Transformation in Medellin (Colombia)",
-    "section": "",
-    "text": "Carlos Cadena Gaitán Ph.D. (Associate Professor at EAFIT University in Medellin (Colombia))"
-  },
-  {
-    "objectID": "courses/course4.html#instructor",
-    "href": "courses/course4.html#instructor",
-    "title": "13-14th Sept. | Urban Transformation in Medellin (Colombia)",
-    "section": "",
-    "text": "Carlos Cadena Gaitán Ph.D. (Associate Professor at EAFIT University in Medellin (Colombia))"
-  },
-  {
-    "objectID": "courses/course4.html#learning-objectives",
-    "href": "courses/course4.html#learning-objectives",
-    "title": "13-14th Sept. | Urban Transformation in Medellin (Colombia)",
-    "section": "Learning objectives",
-    "text": "Learning objectives\n\nUnderstanding the principles of integrated urban planning and its importance in sustainable urban development from a transport and policy perspective.\nGaining knowledge of the specific experiences and strategies employed by Medellin, Colombia in the context of its recent urban transformation.\nAcquiring practical intercultural tools and competencies for implementing sustainable urban development initiatives."
   },
   {
     "objectID": "courses/course2.html",
@@ -173,6 +152,20 @@
     "title": "13-14th Sept. | Qualitative Methods in Urban Mobility Research",
     "section": "Preliminary Schedule Day 2 (14 Sept.)",
     "text": "Preliminary Schedule Day 2 (14 Sept.)\n\n\n\n\n\n\n Lecture: Integrating AI into Qualitative Research\n\n\n Workshop: Manual coding of textual data\n\n\n Lunch\n\n\n Workshop: Coding with ChatGPT:\n\n\n Presentation: Demonstrating insights from qualitative research"
+  },
+  {
+    "objectID": "speakers/hhook.html",
+    "href": "speakers/hhook.html",
+    "title": "Hannah Hook",
+    "section": "",
+    "text": "Hannah Hook is DTN Alumni and will soon start an Assistant Professor position of Sustainable Land Use and Transport Planning in the Department of the Built Environment at Aalto University, Finland. She completed her PhD and is currently a postdoctoral researcher at Ghent University, and previously completed two Master’s degrees in GIS Technology (University of Arizona ) and Sustainable Cities (King’s College London) and two Bachelor’s degrees in Sustainability and Business Communications (Arizona State University). Her research focuses on the role of discretionary and undirected travel in promoting well-being, travel satisfaction, and transport equity. Hannah’s work bridges mobility behaviour, the built environment, and social sustainability."
+  },
+  {
+    "objectID": "speakers/index.html",
+    "href": "speakers/index.html",
+    "title": "Speakers",
+    "section": "",
+    "text": "Hannah Hook\n\n\n\n\n\n\n\n\n\n\n\npath\n\n\n/speakers/hhook.html\n\n\n\n\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "styles.html",
