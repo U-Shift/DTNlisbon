@@ -1,0 +1,17 @@
+---
+title: "Speakers"
+image: "/images/backgrounds/dtn.png"
+
+format:
+  html:
+    css: ../styles/speakers.css
+
+listing:
+    type: grid
+    contents:
+    - path: /speakers/hhook.html
+      image: /images/speakers/hhook.jpg
+      title: Hannah Hook
+      description: ""
+      categories: []
+---
