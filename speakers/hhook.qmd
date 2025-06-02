@@ -1,6 +1,6 @@
 ---
 title: Hannah Hook
-image: /images/speakers/hhook.jpg
+image: ../images/speakers/hhook.jpg
 about:
     template: trestles
 ---
