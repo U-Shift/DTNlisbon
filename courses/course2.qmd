@@ -20,6 +20,7 @@ Robin Lovelace (University of Leeds) & Juan Fonseca-Zamora (University of Leeds)
 
 
 ## Preliminary Schedule Day 1 (8 Sept.)
+::: {.schedule-courses}
 |  |
 | ---- |
 | <span class="event-outline-blue"></span> Introduction |
@@ -28,9 +29,10 @@ Robin Lovelace (University of Leeds) & Juan Fonseca-Zamora (University of Leeds)
 | <span class="event-outline-blue"></span> Lunch |
 | <span class="event-filled-green"></span> Reproducible papers and documentation with Quarto |
 | <span class="event-filled-green"></span> Cross-references and citations with Quarto |
-
+:::
 
 ## Preliminary Schedule Day 2 (9 Sept.)
+::: {.schedule-courses}
 |  |
 | ---- |
 | <span class="event-filled-green"></span> Drafting a reproducible paper |
@@ -39,3 +41,4 @@ Robin Lovelace (University of Leeds) & Juan Fonseca-Zamora (University of Leeds)
 | <span class="event-filled-green"></span> Editing other people’s work |
 | <span class="event-filled-green"></span> Working on papers |
 | <span class="event-filled-green"></span> Presentations and wrap-up |
+:::

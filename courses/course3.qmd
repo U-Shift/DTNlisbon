@@ -16,6 +16,7 @@ Hannah Hook (Ghent University, Department of Geography)
 
 
 ## Preliminary Schedule Day 1 (13 Sept.)
+::: {.schedule-courses}
 |  |
 | ---- |
 | <span class="event-filled-green"></span> Lecture: Introduction to Qualitative Research  |
@@ -24,9 +25,10 @@ Hannah Hook (Ghent University, Department of Geography)
 | <span class="event-filled-green"></span> Lecture: Practical Guidelines for Analyzing Textual Data |
 | <span class="event-filled-orange"></span> Workshop: Developing Data Collection Protocols |
 | <span class="event-filled-orange"></span> Presentation: Research Plans and Protocols |
-
+:::
 
 ## Preliminary Schedule Day 2 (14 Sept.)
+::: {.schedule-courses}
 |  |
 | ---- |
 | <span class="event-filled-green"></span> Lecture: Integrating AI into Qualitative Research |
@@ -34,3 +36,4 @@ Hannah Hook (Ghent University, Department of Geography)
 | <span class="event-outline-blue"></span> Lunch |
 | <span class="event-filled-orange"></span> Workshop: Coding with ChatGPT: |
 | <span class="event-filled-orange"></span> Presentation: Demonstrating insights from qualitative research |
+:::
