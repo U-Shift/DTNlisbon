@@ -18,9 +18,13 @@ table tbody tr>td:first-of-type {
     width: 20%!important;
 }
 @media (max-width: 576px) {
-    table tr > td:first-of-type {
+    div.schedule-forum table tr > td:first-of-type {
         word-spacing: 100vw; 
     }
+}
+div.schedule-forum table, div.schedule-courses table {
+    border-top: none!important;
+    border-bottom: none!important;
 }
 table tr > td:last-of-type {
     border-radius: 32px;
