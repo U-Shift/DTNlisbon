@@ -19,6 +19,6 @@ format:
 | 11:15       | <span class="event-outline-blue"></span> Coffee break                         |
 | 11:40       | <span class="event-filled-green size-2"></span> Parallel discussions  |
 | 12:30       | <span class="event-outline-blue"></span> Lunch                                |
-| 13:30       | <span class="event-filled-blue size-3"></span> Technical visits [{{< fa circle-info >}}](/forum/technical.html) |
+| 13:30       | <span class="event-filled-blue size-3"></span> Technical visits  <br/><small>[{{< fa circle-info >}}  More details](/forum/technical.html)</small> |
 | 18:00       | <span class="event-filled-red size-3"></span> Social event             |
 :::
