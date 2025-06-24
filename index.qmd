@@ -12,3 +12,21 @@ format:
 The DTN Annual Forum is the DTN’s annual flagship event that gathers experts, scholars, and industry leaders from around the world to discuss the latest advancements in urban mobility. This vibrant forum offers participants an opportunity to present their research, engage in insightful discussions, and foster collaborations.
 
 The forum features keynote speeches, panel discussions, and workshops focused on innovative solutions for urban transportation challenges. Attendees can expect to gain valuable insights, share best practices, and network with peers who are equally passionate about transforming urban mobility. The Annual Forum is not only an academic conference but also a celebration of the progress and potential of urban mobility research. In 2025, it takes place at Lisbon, Portugal.
+
+
+# Speakers
+
+::: {layout="[[1,1,1,1,1,1]]"}
+
+[![João Paulo Costeira](https://isr.tecnico.ulisboa.pt/wp-content/uploads/2019/10/JPCosteira-e1580906950532.jpg)](/speakers/jcosteira.html)
+
+[![Zabe Bent](https://nacto.org/wp-content/uploads/Bent-sq.jpg)](/speakers/zbent.html)
+
+[![Hannah Hook](images/speakers/hhook.jpg)](/speakers/hhook.html)
+
+[![David Vale](https://ciauddev.fa.ulisboa.pt/images/comissao-executiva/davidvale.jpg)](/speakers/dvale.html)
+
+[![Michelle Poyourow](/images/speakers/mpoyourow.jpg)](/speakers/mpoyourow.html)
+
+[![Miguel Costa](https://ushift.tecnico.ulisboa.pt/home/wp-content/uploads/2019/07/MG_1677-768x768.jpg)](/speakers/mcosta.html)
+:::

@@ -57,3 +57,41 @@
     height: auto;
     max-height: calc(var(--bs-body-font-size)*5);
 }
+
+.quarto-layout-panel img {
+    height: 200px;
+    width: 100%;
+    object-fit: cover; /* optional: crops instead of squeezing */
+}
+
+.quarto-layout-panel p {
+    padding-right: 20px;
+}
+
+.quarto-layout-row {
+    flex-wrap: wrap!important;
+    flex-direction: row!important;
+}
+.quarto-figure {
+    flex-basis: calc(100%/6)!important;
+    width: calc(100%/6)!important;
+}
+
+@media (max-width: 1200px) { 
+    .quarto-figure {
+        flex-basis: 33%!important;
+        width: 33%!important;
+    }
+}
+@media (max-width: 768px) { 
+    .quarto-figure {
+        flex-basis: 50%!important;
+        width: 50%!important;
+    }
+}
+@media (max-width: 576px) { 
+    .quarto-figure {
+        flex-basis: 100%!important;
+        width: 100%!important;
+    }
+}
