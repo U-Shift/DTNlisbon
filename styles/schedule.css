@@ -35,7 +35,7 @@ table td:has(.event-outline-blue) {
 }
 table td:has(.event-filled-green) {
     background-color: #9Cb380 !important;
-    color: #fff;
+    color: #fff!important;
 }
 table td:has(.event-filled-orange) {
     background-color: #FF7F51 !important;
@@ -45,7 +45,7 @@ table td:has(.event-filled-blue) {
     color: #fff!important;
     background-color: #0798C6 !important;
 }
-table td:has(.event-filled-blue) a {
+table td:has(.event-filled-blue) a, table td:has(.event-filled-green) a, table td:has(.event-filled-orange) a, table td:has(.event-filled-red) a {
     color: #fff!important;
 }
 table td:has(.event-filled-red) {

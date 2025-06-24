@@ -1,340 +1,171 @@
 [
   {
-    "objectID": "courses/course2.html",
-    "href": "courses/course2.html",
-    "title": "8-9th Sept. | Tools and Skills for Reproducible Transport Research",
+    "objectID": "forum/day2.html",
+    "href": "forum/day2.html",
+    "title": "11th Sept. (Thursday)",
     "section": "",
-    "text": "Robin Lovelace (University of Leeds) & Juan Fonseca-Zamora (University of Leeds)",
-    "crumbs": [
-      "8-9th Sept. | Tools and Skills for Reproducible Transport Research"
-    ]
-  },
-  {
-    "objectID": "courses/course2.html#instructor",
-    "href": "courses/course2.html#instructor",
-    "title": "8-9th Sept. | Tools and Skills for Reproducible Transport Research",
-    "section": "",
-    "text": "Robin Lovelace (University of Leeds) & Juan Fonseca-Zamora (University of Leeds)",
-    "crumbs": [
-      "8-9th Sept. | Tools and Skills for Reproducible Transport Research"
-    ]
-  },
-  {
-    "objectID": "courses/course2.html#learning-objectives",
-    "href": "courses/course2.html#learning-objectives",
-    "title": "8-9th Sept. | Tools and Skills for Reproducible Transport Research",
-    "section": "Learning objectives",
-    "text": "Learning objectives\n\nBe able to share reproducible code for more scientific and transparent transport research\nTo be confident reproducing your own work and that of others\nTo become skilled at using Git and GitHub to manage versions of your code and collaborate with others\nTo be able to write reproducible content that can be exported to a variety of formats with the Quarto system for scientific publishing\nTo understand how Quarto extensions can be used as a basis for creating publication-ready papers\nTo be aware of ‘continuous integration’ and ‘GitHub Actions’ and how they can be used to ensure reproducibility, share your work, and save time\nUnderstanding of best practices around code sharing and collaboration for reproducible research in transport planning",
-    "crumbs": [
-      "8-9th Sept. | Tools and Skills for Reproducible Transport Research"
-    ]
-  },
-  {
-    "objectID": "courses/course2.html#preliminary-schedule-day-1-8-sept.",
-    "href": "courses/course2.html#preliminary-schedule-day-1-8-sept.",
-    "title": "8-9th Sept. | Tools and Skills for Reproducible Transport Research",
-    "section": "Preliminary Schedule Day 1 (8 Sept.)",
-    "text": "Preliminary Schedule Day 1 (8 Sept.)\n\n\n\n\n\n\n\n Introduction\n\n\n Development environments, system commands, and version control\n\n\n Sharing code and data\n\n\n Lunch\n\n\n Reproducible papers and documentation with Quarto\n\n\n Cross-references and citations with Quarto",
-    "crumbs": [
-      "8-9th Sept. | Tools and Skills for Reproducible Transport Research"
-    ]
-  },
-  {
-    "objectID": "courses/course2.html#preliminary-schedule-day-2-9-sept.",
-    "href": "courses/course2.html#preliminary-schedule-day-2-9-sept.",
-    "title": "8-9th Sept. | Tools and Skills for Reproducible Transport Research",
-    "section": "Preliminary Schedule Day 2 (9 Sept.)",
-    "text": "Preliminary Schedule Day 2 (9 Sept.)\n\n\n\n\n\n\n\n Drafting a reproducible paper\n\n\n Generating reproducible publication-quality visualisations\n\n\n Lunch\n\n\n Editing other people’s work\n\n\n Working on papers\n\n\n Presentations and wrap-up",
-    "crumbs": [
-      "8-9th Sept. | Tools and Skills for Reproducible Transport Research"
-    ]
-  },
-  {
-    "objectID": "styles.html",
-    "href": "styles.html",
-    "title": "Colors",
-    "section": "",
-    "text": "Colors\nDark background: #340a2dff Dark text: #4f1c52ff Medium text:#530051 Light text: #783b68ff Light background: #cd7eabff"
-  },
-  {
-    "objectID": "speakers/index.html",
-    "href": "speakers/index.html",
-    "title": "Speakers",
-    "section": "",
-    "text": "Hannah Hook\n\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items",
-    "crumbs": [
-      "Speakers"
-    ]
-  },
-  {
-    "objectID": "info/venue.html",
-    "href": "info/venue.html",
-    "title": "Venue",
-    "section": "",
-    "text": "The DTN Annual Forum 2025 will be hosted at Institute of Geography and Spatial Planning (IGOT). It is located in the heart of Lisbon city and inside University of Lisbon campus, accessible by several transport modes. For more details on how to get to Lisbon, to the venue and around the city, check the respective pages.\n\nIGOT has a prominent and consolidated position in geography teaching and researching in Portugal, focusing on areas such as social and earth sciences, planning, spatial planning and management.\nTheir facilities will host DTN Annual Forum 2025, specifically, the Orlando Ribeiro auditorium.\n\n\n\nOrlando Ribeiro auditorium",
-    "crumbs": [
-      "Venue"
-    ]
-  },
-  {
-    "objectID": "info/gettingAround.html",
-    "href": "info/gettingAround.html",
-    "title": "Getting around",
-    "section": "",
-    "text": "Lisbon is serviced by a robust transportation system, build up on metro, bus, trams and urban trains. Here we list the main means of transportation and how you can use them.",
-    "crumbs": [
-      "Getting around"
-    ]
-  },
-  {
-    "objectID": "info/gettingAround.html#means-of-transportation",
-    "href": "info/gettingAround.html#means-of-transportation",
-    "title": "Getting around",
-    "section": "Means of transportation",
-    "text": "Means of transportation\n\n\n\n\nWalking\nThe best way to get around the city. Get on your feet and explore!\n\n\n\nCycling\nLisbon has 128km of dedicated cycle lanes. Discover the network at ciclovias.pt!  You can ride them using the public bike system, GIRA. It has a fee of only 2€/day, including unlimited trips up to 30 minutes (+2€ per 45-90’). Download the app and get a bike here!\n\n\n\nMetro\nMetro is the quickest way to cover distances inside the city. Find out more at Metro de Lisboa website.\n\n\n\nBus/tram/lift\nBuses cover the entire city, complementing the metro network for less dense areas accessibility. Trams and lifts allow you to discover the city hills and Belém. Discover the network at Carris website.",
-    "crumbs": [
-      "Getting around"
-    ]
-  },
-  {
-    "objectID": "info/gettingAround.html#tickets",
-    "href": "info/gettingAround.html#tickets",
-    "title": "Getting around",
-    "section": "Tickets",
-    "text": "Tickets\nTrips can be payed with contactless cards, being charged the same amount as for the board ticket. However, you can buy a Zapping card (0,50€ per card, one card per person) at the Metro machines and top it up with 3, 5 or 10€. Using this card, the individual trips are cheaper on buses and trams.\n\n\n\n\nContactless/board ticket\nZapping\n\n\nMetro\n1,85€\n1,66€\n\n\nBus\n2,20€\n1,85 €\n\n\nTram\n3,20€\n1,85 €\n\n\nLifts\n4,20€\n1,85€\n\n\n\nAs an alternative, you can buy a 24 hour card (at the Metro machines) valid for the whole network (metro+bus+tram+lifts), for only 7,00€.",
-    "crumbs": [
-      "Getting around"
-    ]
-  },
-  {
-    "objectID": "info/gettingAround.html#apps",
-    "href": "info/gettingAround.html#apps",
-    "title": "Getting around",
-    "section": "Apps",
-    "text": "Apps\nBelow you can find some apps that integrate information about Lisbon transportation system, allowing you to find the best route and track vehicles in real time!",
-    "crumbs": [
-      "Getting around"
-    ]
-  },
-  {
-    "objectID": "info/guides.html",
-    "href": "info/guides.html",
-    "title": "Guides",
-    "section": "",
-    "text": "Lisbon is more than a city. It is a broad and whole territory waiting to be explored. In this page we share with you some touristic guides that may be of your interest.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nTurismo de Lisboa\n\n\n\n\n\n\nWebsite\n\n\n\nThe institutional page for Lisboa tourism association. Here you can find several informations about the main attractions, events and practical tips.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nVisit a city\n\n\n\n\n\n\nApp\n\n\n\nThis app provides several itineraries addapted to diverse preferences and durations.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nTimeOut\n\n\n\n\n\n\nWebsite\n\n\n\nThis magazine compiles several guides that can help you find the best viewpoints, museums or beaches.\n\n\n\n\n\n\n\n\n\nNo matching items",
-    "crumbs": [
-      "Guides"
-    ]
-  },
-  {
-    "objectID": "info/gettingToLisbon.html",
-    "href": "info/gettingToLisbon.html",
-    "title": "Getting to Lisbon",
-    "section": "",
-    "text": "Lisbon international airport (Humberto Delgado Airport) connects the world with the city and has a direct connection to its transportation system, through the metro red line.\n\n\n\nLisbon airport",
-    "crumbs": [
-      "Getting to Lisbon"
-    ]
-  },
-  {
-    "objectID": "info/gettingToLisbon.html#by-air",
-    "href": "info/gettingToLisbon.html#by-air",
-    "title": "Getting to Lisbon",
-    "section": "",
-    "text": "Lisbon international airport (Humberto Delgado Airport) connects the world with the city and has a direct connection to its transportation system, through the metro red line.\n\n\n\nLisbon airport",
-    "crumbs": [
-      "Getting to Lisbon"
-    ]
-  },
-  {
-    "objectID": "info/gettingToLisbon.html#by-train",
-    "href": "info/gettingToLisbon.html#by-train",
-    "title": "Getting to Lisbon",
-    "section": " By train",
-    "text": "By train\nLisbon has two main stations for long distance services. Despite not having direct connections with foreign countries, if you come from anywhere in Portugal you can get here by picking a train with destination Lisboa Santa Apolónia if you come from the north or Lisboa Oriente if you come from the south. Both stations are connected to the metro network and urban railway services.\n\n\n\nGare do Oriente Station",
-    "crumbs": [
-      "Getting to Lisbon"
-    ]
-  },
-  {
-    "objectID": "info/gettingToLisbon.html#by-bus",
-    "href": "info/gettingToLisbon.html#by-bus",
-    "title": "Getting to Lisbon",
-    "section": " By bus",
-    "text": "By bus\nAn alternative to get to Lisbon are the long distance buses, covering Portugal mainland, Spain and even France. At Lisbon, they get to Sete Rios or Gare do Oriente. Both stations are connected to the metro network.\n\n\n\nSete Rios station",
-    "crumbs": [
-      "Getting to Lisbon"
-    ]
+    "text": "Preliminary schedule This schedule is only indicative and might be subject to changes.\n\n\n\n\n\n9:00 - 9:30\n Registration / coffee\n\n\n9:30\n Welcome\n\n\n9:45\n Keynote\n\n\n10:30\n Allumni talks\n\n\n11:15\n Coffee break\n\n\n11:40\n Parallel discussions\n\n\n12:30\n Lunch\n\n\n13:30\n Technical visits  More details\n\n\n18:00\n Social event"
   },
   {
     "objectID": "forum/day3.html",
     "href": "forum/day3.html",
     "title": "12th Sept. (Friday)",
     "section": "",
-    "text": "Preliminary schedule This schedule is only indicative and might be subject to changes.\n\n\n\n\n\n\n\n\n\n9:00 - 9:30\n Coffee\n\n\n9:30\n Keynote 1\n\n\n10:15\n Workshop\n\n\n11:15\n Coffee break\n\n\n11:40\n Keynote 2\n\n\n12:30\n Lunch\n\n\n13:30\n Keynote 3: Miguel Costa (Technical University of Denmark)\n\n\n14:15\n Graduation Ceromony\n\n\n16:00\n Allumni meeting\n\n\n17:00\n Free Lisbon Tour",
-    "crumbs": [
-      "12th Sept. (Friday)"
-    ]
-  },
-  {
-    "objectID": "forum/technical.html",
-    "href": "forum/technical.html",
-    "title": "Technical visits",
-    "section": "",
-    "text": "On the 2nd day afternoon, there will be technical visits to some mobility companies that operate in Potugal.",
-    "crumbs": [
-      "Technical visits"
-    ]
-  },
-  {
-    "objectID": "forum/technical.html#section",
-    "href": "forum/technical.html#section",
-    "title": "Technical visits",
-    "section": "",
-    "text": "Carris is the public operator of Lisbon urban bus, tram and funicular services. Founded in 1872, it transports more than 130 million passengers every year.  This visit will take the participants to the operational control center and the buses workshop.  Schedule: 15:00 to 17:00 | Openings: 25 participants",
-    "crumbs": [
-      "Technical visits"
-    ]
-  },
-  {
-    "objectID": "forum/technical.html#section-1",
-    "href": "forum/technical.html#section-1",
-    "title": "Technical visits",
-    "section": "",
-    "text": "Infraestruturas de Portugal is the public company responsible for managing the Portuguese road and rail infrastructure.  In this visit, the participants will have the opportunity to get to know the Lisbon rail operational control center, managing most of the national infrastructure.  Schedule: 15:00 to 17:00 | Openings: 25 participants",
-    "crumbs": [
-      "Technical visits"
-    ]
-  },
-  {
-    "objectID": "forum/technical.html#section-2",
-    "href": "forum/technical.html#section-2",
-    "title": "Technical visits",
-    "section": "",
-    "text": "GIRA is Lisbon’s public bike system. Operating since 2017, it already counts with 188 dock stations, that provide more than 2000 bicycles to live and explore the city.  The visit will allow the participants to explore the system control center and the bicycles workshop.  Schedule: 15:00 to 17:00 | Openings: 25 participants\n\n\n\n\n\n\n\n\n\n\nCarris bus and tram\n\n\n\n\n\n\n\nRail control center\n\n\n\n\n\n\n\nGIRA bicycle",
-    "crumbs": [
-      "Technical visits"
-    ]
-  },
-  {
-    "objectID": "forum/day2.html",
-    "href": "forum/day2.html",
-    "title": "11th Sept. (Thursday)",
-    "section": "",
-    "text": "Preliminary schedule This schedule is only indicative and might be subject to changes.\n\n\n\n\n\n9:00 - 9:30\n Registration / coffee\n\n\n9:30\n Welcome\n\n\n9:45\n Keynote\n\n\n10:30\n Allumni talks\n\n\n11:15\n Coffee break\n\n\n11:40\n Parallel discussions\n\n\n12:30\n Lunch\n\n\n13:30\n Technical visits \n\n\n18:00\n Social event",
-    "crumbs": [
-      "11th Sept. (Thursday)"
-    ]
+    "text": "Preliminary schedule This schedule is only indicative and might be subject to changes.\n\n\n\n\n\n9:00 - 9:30\n Coffee\n\n\n9:30\n Keynote 1\n\n\n10:15\n Workshop\n\n\n11:15\n Coffee break\n\n\n11:40\n Keynote 2\n\n\n12:30\n Lunch\n\n\n13:30\n Keynote 3   Miguel Costa\n\n\n14:15\n Graduation Ceromony\n\n\n16:00\n Allumni meeting\n\n\n17:00\n Free Lisbon Tour"
   },
   {
     "objectID": "forum/day1.html",
     "href": "forum/day1.html",
     "title": "10th Sept. (Wednesday)",
     "section": "",
-    "text": "Preliminary schedule This schedule is only indicative and might be subject to changes.\n\n\n\n\n\n\n\n\n\n8:30 - 9:30\n Registration / coffee\n\n\n9:30\n Welcome\n\n\n10:00\n Keynote\n\n\n10:45\n Coffee break\n\n\n11:15\n PhD poster pitching\n\n\n12:30\n Lunch\n\n\n14:30\n Lisbon Public Transit Experience\n\n\n16:00\n Outdoor activity\n\n\n20:00\n Dinner",
-    "crumbs": [
-      "10th Sept. (Wednesday)"
-    ]
+    "text": "Preliminary schedule This schedule is only indicative and might be subject to changes.\n\n\n\n\n\n\n\n\n\n8:30 - 9:30\n Registration / coffee\n\n\n9:30\n Welcome\n\n\n10:00\n Keynote\n\n\n10:45\n Coffee break\n\n\n11:15\n PhD poster pitching\n\n\n12:30\n Lunch\n\n\n14:30\n Lisbon Public Transit Experience\n\n\n16:00\n Outdoor activity\n\n\n20:00\n Dinner"
   },
   {
-    "objectID": "info/gettingHere.html",
-    "href": "info/gettingHere.html",
-    "title": "Getting to the venue",
+    "objectID": "forum/technical.html",
+    "href": "forum/technical.html",
+    "title": "Technical visits",
     "section": "",
-    "text": "The DTN Annual Forum 2025 will be hosted at Institute of Geography and Spatial Planning (IGOT). It is located in the University of Lisbon campus in heart of Lisbon city, accessible by several transport modes.\nThis page specifies the transport interfaces that are closest to the DTN venue. For more details on Lisbon transportation system network, apps and prices, refer to Getting around.",
-    "crumbs": [
-      "Getting to the venue"
-    ]
+    "text": "On the 2nd day afternoon, there will be technical visits to some mobility companies that operate in Potugal."
   },
   {
-    "objectID": "info/gettingHere.html#by-bike",
-    "href": "info/gettingHere.html#by-bike",
-    "title": "Getting to the venue",
-    "section": " By bike",
-    "text": "By bike\nIGOT is accessible through the city cycle lane infrastructure.\nThere is a station from the public bike system right outside the venue. Its number is 461 - Rua Professor Teresa Ambrósio. Find the stations map at GIRA website.\nYou can also park an e-scooter or any other shared mobility vehicle right outside. They are allowed inside the campus.",
-    "crumbs": [
-      "Getting to the venue"
-    ]
-  },
-  {
-    "objectID": "info/gettingHere.html#by-trainmetro",
-    "href": "info/gettingHere.html#by-trainmetro",
-    "title": "Getting to the venue",
-    "section": " By train/metro",
-    "text": "By train/metro\nIGOT is just a 15 minutes walk from Entrecampos interface. There you can catch an urban train to almost anywhere in Lisbon metropolitan area.\nThis interface also connects to metro. There you can catch the yellow line and easily connect to the others (2 stations away from green and red lines, 4 from the blue line).\nRegarding metro, the stippness of the terrain in this area makes Entrecampos a better option to leave the venue. To get there, Cidade Universitária metro station is a better option.",
-    "crumbs": [
-      "Getting to the venue"
-    ]
-  },
-  {
-    "objectID": "info/gettingHere.html#by-bus",
-    "href": "info/gettingHere.html#by-bus",
-    "title": "Getting to the venue",
-    "section": " By bus",
-    "text": "By bus\nIGOT is served by several lines of the urban bus operator, Carris, connecting to almost anywhere in the city: 701, 731, 732, 735, 738, 754, 755, 764 and 768.\nThere is also a suburban bus that serves it, 3702 from operator Carris Metropolitana, connecting to Almada, in the south bank of Lisbon metro area.\n\n\n\n\n\n\n\n\n\nIGOT building has a GIRA (public bike system) station next to it\n\n\n\n\n\n\n\nYou can also park any shared mobility vehicle right outside\n\n\n\n\n\n\n\n\n\nEntrecampos train/metro interface is a 15 minutes walk from the venue",
-    "crumbs": [
-      "Getting to the venue"
-    ]
-  },
-  {
-    "objectID": "info/team.html",
-    "href": "info/team.html",
-    "title": "Our team",
+    "objectID": "forum/technical.html#section",
+    "href": "forum/technical.html#section",
+    "title": "Technical visits",
     "section": "",
-    "text": "Filipe Moura\nCoordinator\n\n\n\nAna Christ\nCommunication\n\n\n\nMauricio Fontalvo\nVisits\n\n\n\nTeresa Afonso\nStaff\n\n\n\nRosa Félix\nSocial events\n\n\n\nGabriel Valença\nProgram\n\n\n\nFreddy Nogueira\nCatering\n\n\n\nJéssica Lucena\nCatering\n\n\n\nGonçalo Matos\nWebsite",
-    "crumbs": [
-      "Our team"
-    ]
+    "text": "Carris is the public operator of Lisbon urban bus, tram and funicular services. Founded in 1872, it transports more than 130 million passengers every year.  This visit will take the participants to the operational control center and the buses workshop.  Schedule: 15:00 to 17:00 | Openings: 25 participants"
   },
   {
-    "objectID": "info/team.html#we-also-rely-on-dtns-team-experience-and-support",
-    "href": "info/team.html#we-also-rely-on-dtns-team-experience-and-support",
-    "title": "Our team",
-    "section": "We also rely on DTN’s team experience and support!",
-    "text": "We also rely on DTN’s team experience and support!\n\n\n\n\n\n\n\n\n\n\nBenjamin\n\n\n\nCorinna\n\n\n\nLidya\n\n\n\nAaron",
-    "crumbs": [
-      "Our team"
-    ]
-  },
-  {
-    "objectID": "info/accommodation.html",
-    "href": "info/accommodation.html",
-    "title": "Accommodation",
+    "objectID": "forum/technical.html#section-1",
+    "href": "forum/technical.html#section-1",
+    "title": "Technical visits",
     "section": "",
-    "text": "For the accommodation options we have partnered with two hotels offering 15% discount. Refer to Slack for the code you should use during your reservation.",
-    "crumbs": [
-      "Accommodation"
-    ]
+    "text": "Infraestruturas de Portugal is the public company responsible for managing the Portuguese road and rail infrastructure.  In this visit, the participants will have the opportunity to get to know the Lisbon rail operational control center, managing most of the national infrastructure.  Schedule: 15:00 to 17:00 | Openings: 25 participants"
   },
   {
-    "objectID": "info/accommodation.html#section",
-    "href": "info/accommodation.html#section",
-    "title": "Accommodation",
+    "objectID": "forum/technical.html#section-2",
+    "href": "forum/technical.html#section-2",
+    "title": "Technical visits",
     "section": "",
-    "text": "For stays between 08/09/2025 to 14/09/2025\nhttps://turim-hotels.com/",
-    "crumbs": [
-      "Accommodation"
-    ]
+    "text": "GIRA is Lisbon’s public bike system. Operating since 2017, it already counts with 188 dock stations, that provide more than 2000 bicycles to live and explore the city.  The visit will allow the participants to explore the system control center and the bicycles workshop.  Schedule: 15:00 to 17:00 | Openings: 25 participants\n\n\n\n\n\n\n\nCarris bus and tram\n\n\n\n\n\n\n\nRail control center\n\n\n\n\n\n\n\nGIRA bicycle"
   },
   {
-    "objectID": "info/accommodation.html#section-1",
-    "href": "info/accommodation.html#section-1",
-    "title": "Accommodation",
+    "objectID": "courses/course2.html",
+    "href": "courses/course2.html",
+    "title": "8-9th Sept. | Tools and Skills for Reproducible Transport Research",
     "section": "",
-    "text": "Code valid until 12/09/2025\nFor stays from 5/09/2025 to 19/09/2025\nhttps://www.hotelwhitelisboa.com/",
-    "crumbs": [
-      "Accommodation"
-    ]
+    "text": "Robin Lovelace (University of Leeds) & Juan Fonseca-Zamora (University of Leeds)"
   },
   {
-    "objectID": "info/contacts.html",
-    "href": "info/contacts.html",
-    "title": "Contacts",
+    "objectID": "courses/course2.html#instructor",
+    "href": "courses/course2.html#instructor",
+    "title": "8-9th Sept. | Tools and Skills for Reproducible Transport Research",
     "section": "",
-    "text": "We are happy to hear from you! Please reach our if you have any doubts or suggestions.\nCorinna Niederreiter (EIT) niederreiter@zv.tum.de\nFilipe Moura (IST, University of Lisbon) ushift@tecnico.ulisboa.pt",
-    "crumbs": [
-      "Contacts"
-    ]
+    "text": "Robin Lovelace (University of Leeds) & Juan Fonseca-Zamora (University of Leeds)"
+  },
+  {
+    "objectID": "courses/course2.html#learning-objectives",
+    "href": "courses/course2.html#learning-objectives",
+    "title": "8-9th Sept. | Tools and Skills for Reproducible Transport Research",
+    "section": "Learning objectives",
+    "text": "Learning objectives\n\nBe able to share reproducible code for more scientific and transparent transport research\nTo be confident reproducing your own work and that of others\nTo become skilled at using Git and GitHub to manage versions of your code and collaborate with others\nTo be able to write reproducible content that can be exported to a variety of formats with the Quarto system for scientific publishing\nTo understand how Quarto extensions can be used as a basis for creating publication-ready papers\nTo be aware of ‘continuous integration’ and ‘GitHub Actions’ and how they can be used to ensure reproducibility, share your work, and save time\nUnderstanding of best practices around code sharing and collaboration for reproducible research in transport planning"
+  },
+  {
+    "objectID": "courses/course2.html#preliminary-schedule-day-1-8-sept.",
+    "href": "courses/course2.html#preliminary-schedule-day-1-8-sept.",
+    "title": "8-9th Sept. | Tools and Skills for Reproducible Transport Research",
+    "section": "Preliminary Schedule Day 1 (8 Sept.)",
+    "text": "Preliminary Schedule Day 1 (8 Sept.)\n\n\n\n\n\n\n\n Introduction\n\n\n Development environments, system commands, and version control\n\n\n Sharing code and data\n\n\n Lunch\n\n\n Reproducible papers and documentation with Quarto\n\n\n Cross-references and citations with Quarto"
+  },
+  {
+    "objectID": "courses/course2.html#preliminary-schedule-day-2-9-sept.",
+    "href": "courses/course2.html#preliminary-schedule-day-2-9-sept.",
+    "title": "8-9th Sept. | Tools and Skills for Reproducible Transport Research",
+    "section": "Preliminary Schedule Day 2 (9 Sept.)",
+    "text": "Preliminary Schedule Day 2 (9 Sept.)\n\n\n\n\n\n\n\n Drafting a reproducible paper\n\n\n Generating reproducible publication-quality visualisations\n\n\n Lunch\n\n\n Editing other people’s work\n\n\n Working on papers\n\n\n Presentations and wrap-up"
+  },
+  {
+    "objectID": "courses/course1.html",
+    "href": "courses/course1.html",
+    "title": "8-9th Sept. | Shared Mobility - Policy challenges and multimodal solutions",
+    "section": "",
+    "text": "Andres Monzon (Prof. Transportation Eng., Urban and Regional Planning, Universidad Politecnica de Madrid)"
+  },
+  {
+    "objectID": "courses/course1.html#instructor",
+    "href": "courses/course1.html#instructor",
+    "title": "8-9th Sept. | Shared Mobility - Policy challenges and multimodal solutions",
+    "section": "",
+    "text": "Andres Monzon (Prof. Transportation Eng., Urban and Regional Planning, Universidad Politecnica de Madrid)"
+  },
+  {
+    "objectID": "courses/course1.html#content",
+    "href": "courses/course1.html#content",
+    "title": "8-9th Sept. | Shared Mobility - Policy challenges and multimodal solutions",
+    "section": "Content",
+    "text": "Content\n\nState of the practice\nResearch activities & results\nGovernance models and experience\nFuture trends and research opportunities"
+  },
+  {
+    "objectID": "courses/course1.html#preliminary-schedule-day-1-8-sept.",
+    "href": "courses/course1.html#preliminary-schedule-day-1-8-sept.",
+    "title": "8-9th Sept. | Shared Mobility - Policy challenges and multimodal solutions",
+    "section": "Preliminary Schedule Day 1 (8 Sept.)",
+    "text": "Preliminary Schedule Day 1 (8 Sept.)\n\n\n\n\n\n\n\n Welcome & Presentation\n\n\n Lecture 1 (Introduction): Sharing economy and shared mobility\n\n\n Lecture 2: Shared mobility solutions - Review international experiences\n\n\n Workshop: Analysis of barriers, challenges, negative and positive impacts of shared mobility\n\n\n Lunch\n\n\n Lecture 3: Sharing in Practice: car sharing\n\n\n Workshop 2: Different solutions in different cities"
+  },
+  {
+    "objectID": "courses/course1.html#preliminary-schedule-day-2-9-sept.",
+    "href": "courses/course1.html#preliminary-schedule-day-2-9-sept.",
+    "title": "8-9th Sept. | Shared Mobility - Policy challenges and multimodal solutions",
+    "section": "Preliminary Schedule Day 2 (9 Sept.)",
+    "text": "Preliminary Schedule Day 2 (9 Sept.)\n\n\n\n\n\n\n\n Lecture 4: Sharing in Practice - scooters and mopeds\n\n\n Lecture 5: Sharing in Practice - bike-sharing\n\n\n Discussed Survey: Different solutions for different contexts\n\n\n Lunch\n\n\n Lecture 6: Research gaps and policy trends\n\n\n Workshop 3: Public Transport and sharing - SWOT Analysis\n\n\n Closing: Shared-Mobility Roadmap - research and policy challenges"
+  },
+  {
+    "objectID": "courses/course3.html",
+    "href": "courses/course3.html",
+    "title": "13-14th Sept. | Qualitative Methods in Urban Mobility Research",
+    "section": "",
+    "text": "Hannah Hook (Ghent University, Department of Geography)"
+  },
+  {
+    "objectID": "courses/course3.html#instructor",
+    "href": "courses/course3.html#instructor",
+    "title": "13-14th Sept. | Qualitative Methods in Urban Mobility Research",
+    "section": "",
+    "text": "Hannah Hook (Ghent University, Department of Geography)"
+  },
+  {
+    "objectID": "courses/course3.html#learning-objectives",
+    "href": "courses/course3.html#learning-objectives",
+    "title": "13-14th Sept. | Qualitative Methods in Urban Mobility Research",
+    "section": "Learning objectives",
+    "text": "Learning objectives\n\nIntroduce doctoral researchers to the basic techniques of qualitative methods and provide knowledge on how to perform reproducible research.\nProvide doctoral researchers with the skills to design research and data collection protocols.\nExplain how technological transitions, such as the invention of GenAI, can affect qualitative research, and the implications for biases and ethics."
+  },
+  {
+    "objectID": "courses/course3.html#preliminary-schedule-day-1-13-sept.",
+    "href": "courses/course3.html#preliminary-schedule-day-1-13-sept.",
+    "title": "13-14th Sept. | Qualitative Methods in Urban Mobility Research",
+    "section": "Preliminary Schedule Day 1 (13 Sept.)",
+    "text": "Preliminary Schedule Day 1 (13 Sept.)\n\n\n\n\n\n\n\n Lecture: Introduction to Qualitative Research\n\n\n Workshop: Designing a Qualitative Study Using Case-Based Methods\n\n\n Lunch\n\n\n Lecture: Practical Guidelines for Analyzing Textual Data\n\n\n Workshop: Developing Data Collection Protocols\n\n\n Presentation: Research Plans and Protocols"
+  },
+  {
+    "objectID": "courses/course3.html#preliminary-schedule-day-2-14-sept.",
+    "href": "courses/course3.html#preliminary-schedule-day-2-14-sept.",
+    "title": "13-14th Sept. | Qualitative Methods in Urban Mobility Research",
+    "section": "Preliminary Schedule Day 2 (14 Sept.)",
+    "text": "Preliminary Schedule Day 2 (14 Sept.)\n\n\n\n\n\n\n\n Lecture: Integrating AI into Qualitative Research\n\n\n Workshop: Manual coding of textual data\n\n\n Lunch\n\n\n Workshop: Coding with ChatGPT:\n\n\n Presentation: Demonstrating insights from qualitative research"
+  },
+  {
+    "objectID": "speakers/jcosteira.html",
+    "href": "speakers/jcosteira.html",
+    "title": "João Paulo Costeira",
+    "section": "",
+    "text": "João Paulo Costeira is an Associate Professor at the Instituto Superior Técnico (IST), University of Lisbon. He holds a Ph.D. in Electrical and Computer Engineering from IST. He is a senior researcher with the Signal and Image Processing Group (SIPg) and has served as its group coordinator, where he conducts research in computer vision and robotics. He is a former co-director of the Dual Ph.D. Program in Electrical and Computer Engineering and Robotics within the Carnegie Mellon | Portugal program. He also served as the Scientific Director of the Carnegie Mellon | Portugal initiative from 2014 to 2018."
+  },
+  {
+    "objectID": "speakers/mpoyourow.html",
+    "href": "speakers/mpoyourow.html",
+    "title": "Michelle Poyourow",
+    "section": "",
+    "text": "Michelle Poyourow is the Principal Associate at Jarrett Walker + Associates, being a recognized transit planner with over 15 years of experience in bus network redesign, public engagement, and integrated land use and mobility policy. She specializes in managing complex transit projects—from large citywide network overhauls to rural service planning—while facilitating effective interagency collaboration and community input. Her background in political advocacy and policy gives her a unique edge in navigating the communication and governance aspects of transit planning. Michelle has managed transit network plans and redesigns for large and small cities including Dallas, Sacramento, and Atlanta. She is currently working on network studies in Wales and Long Island, NY."
   },
   {
     "objectID": "speakers/hhook.html",
@@ -344,103 +175,178 @@
     "text": "Hannah Hook is DTN Alumni and will soon start an Assistant Professor position of Sustainable Land Use and Transport Planning in the Department of the Built Environment at Aalto University, Finland. She completed her PhD and is currently a postdoctoral researcher at Ghent University, and previously completed two Master’s degrees in GIS Technology (University of Arizona ) and Sustainable Cities (King’s College London) and two Bachelor’s degrees in Sustainability and Business Communications (Arizona State University). Her research focuses on the role of discretionary and undirected travel in promoting well-being, travel satisfaction, and transport equity. Hannah’s work bridges mobility behaviour, the built environment, and social sustainability."
   },
   {
-    "objectID": "courses/course1.html",
-    "href": "courses/course1.html",
-    "title": "8-9th Sept. | Shared Mobility - Policy challenges and multimodal solutions",
+    "objectID": "speakers/index.html",
+    "href": "speakers/index.html",
+    "title": "Speakers",
     "section": "",
-    "text": "Andres Monzon (Prof. Transportation Eng., Urban and Regional Planning, Universidad Politecnica de Madrid)",
-    "crumbs": [
-      "8-9th Sept. | Shared Mobility - Policy challenges and multimodal solutions"
-    ]
+    "text": "João Paulo Costeira\n\n\n\n\n\n\n\n\n\n\n\npath\n\n\n/speakers/jcosteira.html\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nZabe Bent\n\n\n\n\n\n\n\n\n\n\n\npath\n\n\n/speakers/zbent.html\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nHannah Hook\n\n\n\n\n\n\n\n\n\n\n\npath\n\n\n/speakers/hhook.html\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nDavid Vale\n\n\n\n\n\n\n\n\n\n\n\npath\n\n\n/speakers/dvale.html\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMichelle Poyourow\n\n\n\n\n\n\n\n\n\n\n\npath\n\n\n/speakers/mpoyourow.html\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMiguel Costa\n\n\n\n\n\n\n\n\n\n\n\npath\n\n\n/speakers/mcosta.html\n\n\n\n\n\n\n\n\n\n\nNo matching items"
   },
   {
-    "objectID": "courses/course1.html#instructor",
-    "href": "courses/course1.html#instructor",
-    "title": "8-9th Sept. | Shared Mobility - Policy challenges and multimodal solutions",
+    "objectID": "speakers/dvale.html",
+    "href": "speakers/dvale.html",
+    "title": "David Vale",
     "section": "",
-    "text": "Andres Monzon (Prof. Transportation Eng., Urban and Regional Planning, Universidad Politecnica de Madrid)",
-    "crumbs": [
-      "8-9th Sept. | Shared Mobility - Policy challenges and multimodal solutions"
-    ]
+    "text": "David Vale is an associate professor in Lisbon School of Architecture, University of Lisbon, where he teaches Urban Geography, Road Systems and Transport, Geographic Information Systems and Contemporary Urban Challenges. He has completed his Ph.D. in Architecture, Planning and Landscape at Newcastle University. David Vale has a bachelor in Geography and Regional Planning from Nova University of Lisbon, and a MSc in Geographic Information Systems from the Instituto Superior Técnico, University of Lisbon. His research is focused on urban and regional planning, specially in what concerns the integration of land use and transport, transit-oriented development (TOD), walkability, bikeability and accessibility measurement, and the relationships between the built environment and mobility patterns, physical activity and health."
   },
   {
-    "objectID": "courses/course1.html#content",
-    "href": "courses/course1.html#content",
-    "title": "8-9th Sept. | Shared Mobility - Policy challenges and multimodal solutions",
-    "section": "Content",
-    "text": "Content\n\nState of the practice\nResearch activities & results\nGovernance models and experience\nFuture trends and research opportunities",
-    "crumbs": [
-      "8-9th Sept. | Shared Mobility - Policy challenges and multimodal solutions"
-    ]
-  },
-  {
-    "objectID": "courses/course1.html#preliminary-schedule-day-1-8-sept.",
-    "href": "courses/course1.html#preliminary-schedule-day-1-8-sept.",
-    "title": "8-9th Sept. | Shared Mobility - Policy challenges and multimodal solutions",
-    "section": "Preliminary Schedule Day 1 (8 Sept.)",
-    "text": "Preliminary Schedule Day 1 (8 Sept.)\n\n\n\n\n\n\n\n Welcome & Presentation\n\n\n Lecture 1 (Introduction): Sharing economy and shared mobility\n\n\n Lecture 2: Shared mobility solutions - Review international experiences\n\n\n Workshop: Analysis of barriers, challenges, negative and positive impacts of shared mobility\n\n\n Lunch\n\n\n Lecture 3: Sharing in Practice: car sharing\n\n\n Workshop 2: Different solutions in different cities",
-    "crumbs": [
-      "8-9th Sept. | Shared Mobility - Policy challenges and multimodal solutions"
-    ]
-  },
-  {
-    "objectID": "courses/course1.html#preliminary-schedule-day-2-9-sept.",
-    "href": "courses/course1.html#preliminary-schedule-day-2-9-sept.",
-    "title": "8-9th Sept. | Shared Mobility - Policy challenges and multimodal solutions",
-    "section": "Preliminary Schedule Day 2 (9 Sept.)",
-    "text": "Preliminary Schedule Day 2 (9 Sept.)\n\n\n\n\n\n\n\n Lecture 4: Sharing in Practice - scooters and mopeds\n\n\n Lecture 5: Sharing in Practice - bike-sharing\n\n\n Discussed Survey: Different solutions for different contexts\n\n\n Lunch\n\n\n Lecture 6: Research gaps and policy trends\n\n\n Workshop 3: Public Transport and sharing - SWOT Analysis\n\n\n Closing: Shared-Mobility Roadmap - research and policy challenges",
-    "crumbs": [
-      "8-9th Sept. | Shared Mobility - Policy challenges and multimodal solutions"
-    ]
-  },
-  {
-    "objectID": "courses/course3.html",
-    "href": "courses/course3.html",
-    "title": "13-14th Sept. | Qualitative Methods in Urban Mobility Research",
+    "objectID": "speakers/mcosta.html",
+    "href": "speakers/mcosta.html",
+    "title": "Miguel Costa",
     "section": "",
-    "text": "Hannah Hook (Ghent University, Department of Geography)",
-    "crumbs": [
-      "13-14th Sept. | Qualitative Methods in Urban Mobility Research"
-    ]
+    "text": "Miguel Costa is a postdoctoral researcher at the Technical University of Denmark, where he develops decision-support tools for climate adaptation policy making. His current work combines reinforcement learning and agent-based simulation to identify optimal sets or sequences of adaptation strategies. This framework aims to reveal dynamic links between flooding events, transport systems, public health, and wellbeing – ultimately supporting decision-making that maximizes societal impact. Miguel holds a PhD (magna cum laude) in Transportation Systems and an MSc in Electrical Engineering from Instituto Superior Técnico. His research interests lie at the intersection of artificial intelligence and transport, focusing on how machine learning can be used to objectively characterize complex phenomena while also capturing individuals’ subjective experiences. By bridging this gap, he aims to inform planning and policy decisions that are both data-driven and human-centered."
   },
   {
-    "objectID": "courses/course3.html#instructor",
-    "href": "courses/course3.html#instructor",
-    "title": "13-14th Sept. | Qualitative Methods in Urban Mobility Research",
+    "objectID": "speakers/zbent.html",
+    "href": "speakers/zbent.html",
+    "title": "Zabe Bent",
     "section": "",
-    "text": "Hannah Hook (Ghent University, Department of Geography)",
-    "crumbs": [
-      "13-14th Sept. | Qualitative Methods in Urban Mobility Research"
-    ]
+    "text": "Zabe Bent is an urban planner and designer with extensive experience in street design and sustainable mobility. She served as Director of Design at the National Association of City Transportation Officials (NACTO), where she led the development of street design guidelines and supported cities in implementing Complete Streets strategies in the U.S. Previously, she worked as a Transportation Planner at the San Francisco County Transportation Authority. She holds a Masters in City Planning and a Master of Science in Transportation from MIT, as well as a Bachelor of Arts from Columbia University."
   },
   {
-    "objectID": "courses/course3.html#learning-objectives",
-    "href": "courses/course3.html#learning-objectives",
-    "title": "13-14th Sept. | Qualitative Methods in Urban Mobility Research",
-    "section": "Learning objectives",
-    "text": "Learning objectives\n\nIntroduce doctoral researchers to the basic techniques of qualitative methods and provide knowledge on how to perform reproducible research.\nProvide doctoral researchers with the skills to design research and data collection protocols.\nExplain how technological transitions, such as the invention of GenAI, can affect qualitative research, and the implications for biases and ethics.",
-    "crumbs": [
-      "13-14th Sept. | Qualitative Methods in Urban Mobility Research"
-    ]
+    "objectID": "styles.html",
+    "href": "styles.html",
+    "title": "Colors",
+    "section": "",
+    "text": "Colors\nDark background: #340a2dff Dark text: #4f1c52ff Medium text:#530051 Light text: #783b68ff Light background: #cd7eabff"
   },
   {
-    "objectID": "courses/course3.html#preliminary-schedule-day-1-13-sept.",
-    "href": "courses/course3.html#preliminary-schedule-day-1-13-sept.",
-    "title": "13-14th Sept. | Qualitative Methods in Urban Mobility Research",
-    "section": "Preliminary Schedule Day 1 (13 Sept.)",
-    "text": "Preliminary Schedule Day 1 (13 Sept.)\n\n\n\n\n\n\n\n Lecture: Introduction to Qualitative Research\n\n\n Workshop: Designing a Qualitative Study Using Case-Based Methods\n\n\n Lunch\n\n\n Lecture: Practical Guidelines for Analyzing Textual Data\n\n\n Workshop: Developing Data Collection Protocols\n\n\n Presentation: Research Plans and Protocols",
-    "crumbs": [
-      "13-14th Sept. | Qualitative Methods in Urban Mobility Research"
-    ]
+    "objectID": "info/accommodation.html",
+    "href": "info/accommodation.html",
+    "title": "Accommodation",
+    "section": "",
+    "text": "For the accommodation options we have partnered with two hotels offering 15% discount. Refer to Slack for the code you should use during your reservation."
   },
   {
-    "objectID": "courses/course3.html#preliminary-schedule-day-2-14-sept.",
-    "href": "courses/course3.html#preliminary-schedule-day-2-14-sept.",
-    "title": "13-14th Sept. | Qualitative Methods in Urban Mobility Research",
-    "section": "Preliminary Schedule Day 2 (14 Sept.)",
-    "text": "Preliminary Schedule Day 2 (14 Sept.)\n\n\n\n\n\n\n\n Lecture: Integrating AI into Qualitative Research\n\n\n Workshop: Manual coding of textual data\n\n\n Lunch\n\n\n Workshop: Coding with ChatGPT:\n\n\n Presentation: Demonstrating insights from qualitative research",
-    "crumbs": [
-      "13-14th Sept. | Qualitative Methods in Urban Mobility Research"
-    ]
+    "objectID": "info/accommodation.html#section",
+    "href": "info/accommodation.html#section",
+    "title": "Accommodation",
+    "section": "",
+    "text": "For stays between 08/09/2025 to 14/09/2025\nhttps://turim-hotels.com/"
+  },
+  {
+    "objectID": "info/accommodation.html#section-1",
+    "href": "info/accommodation.html#section-1",
+    "title": "Accommodation",
+    "section": "",
+    "text": "Code valid until 12/09/2025\nFor stays from 5/09/2025 to 19/09/2025\nhttps://www.hotelwhitelisboa.com/"
+  },
+  {
+    "objectID": "info/gettingToLisbon.html",
+    "href": "info/gettingToLisbon.html",
+    "title": "Getting to Lisbon",
+    "section": "",
+    "text": "Lisbon international airport (Humberto Delgado Airport) connects the world with the city and has a direct connection to its transportation system, through the metro red line.\n\n\n\nLisbon airport"
+  },
+  {
+    "objectID": "info/gettingToLisbon.html#fa-plane-arrival-by-air",
+    "href": "info/gettingToLisbon.html#fa-plane-arrival-by-air",
+    "title": "Getting to Lisbon",
+    "section": "",
+    "text": "Lisbon international airport (Humberto Delgado Airport) connects the world with the city and has a direct connection to its transportation system, through the metro red line.\n\n\n\nLisbon airport"
+  },
+  {
+    "objectID": "info/gettingToLisbon.html#fa-train-by-train",
+    "href": "info/gettingToLisbon.html#fa-train-by-train",
+    "title": "Getting to Lisbon",
+    "section": " By train",
+    "text": "By train\nLisbon has two main stations for long distance services. Despite not having direct connections with foreign countries, if you come from anywhere in Portugal you can get here by picking a train with destination Lisboa Santa Apolónia if you come from the north or Lisboa Oriente if you come from the south. Both stations are connected to the metro network and urban railway services.\n\n\n\nGare do Oriente Station"
+  },
+  {
+    "objectID": "info/gettingToLisbon.html#fa-bus-simple-by-bus",
+    "href": "info/gettingToLisbon.html#fa-bus-simple-by-bus",
+    "title": "Getting to Lisbon",
+    "section": " By bus",
+    "text": "By bus\nAn alternative to get to Lisbon are the long distance buses, covering Portugal mainland, Spain and even France. At Lisbon, they get to Sete Rios or Gare do Oriente. Both stations are connected to the metro network.\n\n\n\nSete Rios station"
+  },
+  {
+    "objectID": "info/gettingHere.html",
+    "href": "info/gettingHere.html",
+    "title": "Getting to the venue",
+    "section": "",
+    "text": "The DTN Annual Forum 2025 will be hosted at Institute of Geography and Spatial Planning (IGOT). It is located in the University of Lisbon campus in heart of Lisbon city, accessible by several transport modes.\nThis page specifies the transport interfaces that are closest to the DTN venue. For more details on Lisbon transportation system network, apps and prices, refer to Getting around."
+  },
+  {
+    "objectID": "info/gettingHere.html#fa-bicycle-by-bike",
+    "href": "info/gettingHere.html#fa-bicycle-by-bike",
+    "title": "Getting to the venue",
+    "section": " By bike",
+    "text": "By bike\nIGOT is accessible through the city cycle lane infrastructure.\nThere is a station from the public bike system right outside the venue. Its number is 461 - Rua Professor Teresa Ambrósio. Find the stations map at GIRA website.\nYou can also park an e-scooter or any other shared mobility vehicle right outside. They are allowed inside the campus."
+  },
+  {
+    "objectID": "info/gettingHere.html#fa-train-by-trainmetro",
+    "href": "info/gettingHere.html#fa-train-by-trainmetro",
+    "title": "Getting to the venue",
+    "section": " By train/metro",
+    "text": "By train/metro\nIGOT is just a 15 minutes walk from Entrecampos interface. There you can catch an urban train to almost anywhere in Lisbon metropolitan area.\nThis interface also connects to metro. There you can catch the yellow line and easily connect to the others (2 stations away from green and red lines, 4 from the blue line).\nRegarding metro, the stippness of the terrain in this area makes Entrecampos a better option to leave the venue. To get there, Cidade Universitária metro station is a better option."
+  },
+  {
+    "objectID": "info/gettingHere.html#fa-bus-simple-by-bus",
+    "href": "info/gettingHere.html#fa-bus-simple-by-bus",
+    "title": "Getting to the venue",
+    "section": " By bus",
+    "text": "By bus\nIGOT is served by several lines of the urban bus operator, Carris, connecting to almost anywhere in the city: 701, 731, 732, 735, 738, 754, 755, 764 and 768.\nThere is also a suburban bus that serves it, 3702 from operator Carris Metropolitana, connecting to Almada, in the south bank of Lisbon metro area.\n\n\n\n\n\n\nIGOT building has a GIRA (public bike system) station next to it\n\n\n\n\n\n\n\nYou can also park any shared mobility vehicle right outside\n\n\n\n\n\n\n\n\n\nEntrecampos train/metro interface is a 15 minutes walk from the venue"
+  },
+  {
+    "objectID": "info/team.html",
+    "href": "info/team.html",
+    "title": "Our team",
+    "section": "",
+    "text": "Filipe Moura\nCoordinator\n\n\n\nAna Christ\nCommunication\n\n\n\nMauricio Fontalvo\nVisits\n\n\n\nTeresa Afonso\nStaff\n\n\n\nRosa Félix\nSocial events\n\n\n\nGabriel Valença\nProgram\n\n\n\nFreddy Nogueira\nCatering\n\n\n\nJéssica Lucena\nCatering\n\n\n\nGonçalo Matos\nWebsite"
+  },
+  {
+    "objectID": "info/team.html#we-also-rely-on-dtns-team-experience-and-support",
+    "href": "info/team.html#we-also-rely-on-dtns-team-experience-and-support",
+    "title": "Our team",
+    "section": "We also rely on DTN’s team experience and support!",
+    "text": "We also rely on DTN’s team experience and support!\n\n\n\n\n\n\n\n\n\n\nBenjamin\n\n\n\nCorinna\n\n\n\nLidya\n\n\n\nAaron"
+  },
+  {
+    "objectID": "info/contacts.html",
+    "href": "info/contacts.html",
+    "title": "Contacts",
+    "section": "",
+    "text": "We are happy to hear from you! Please reach our if you have any doubts or suggestions.\nCorinna Niederreiter (EIT) niederreiter@zv.tum.de\nFilipe Moura (IST, University of Lisbon) ushift@tecnico.ulisboa.pt"
+  },
+  {
+    "objectID": "info/gettingAround.html",
+    "href": "info/gettingAround.html",
+    "title": "Getting around",
+    "section": "",
+    "text": "Lisbon is serviced by a robust transportation system, build up on metro, bus, trams and urban trains. Here we list the main means of transportation and how you can use them."
+  },
+  {
+    "objectID": "info/gettingAround.html#means-of-transportation",
+    "href": "info/gettingAround.html#means-of-transportation",
+    "title": "Getting around",
+    "section": "Means of transportation",
+    "text": "Means of transportation\n\n\n\n\nWalking\nThe best way to get around the city. Get on your feet and explore!\n\n\n\nCycling\nLisbon has 128km of dedicated cycle lanes. Discover the network at ciclovias.pt!  You can ride them using the public bike system, GIRA. It has a fee of only 2€/day, including unlimited trips up to 30 minutes (+2€ per 45-90’). Download the app and get a bike here!\n\n\n\nMetro\nMetro is the quickest way to cover distances inside the city. Find out more at Metro de Lisboa website.\n\n\n\nBus/tram/lift\nBuses cover the entire city, complementing the metro network for less dense areas accessibility. Trams and lifts allow you to discover the city hills and Belém. Discover the network at Carris website."
+  },
+  {
+    "objectID": "info/gettingAround.html#tickets",
+    "href": "info/gettingAround.html#tickets",
+    "title": "Getting around",
+    "section": "Tickets",
+    "text": "Tickets\nTrips can be payed with contactless cards, being charged the same amount as for the board ticket. However, you can buy a Zapping card (0,50€ per card, one card per person) at the Metro machines and top it up with 3, 5 or 10€. Using this card, the individual trips are cheaper on buses and trams.\n\n\n\n\nContactless/board ticket\nZapping\n\n\nMetro\n1,85€\n1,66€\n\n\nBus\n2,20€\n1,85 €\n\n\nTram\n3,20€\n1,85 €\n\n\nLifts\n4,20€\n1,85€\n\n\n\nAs an alternative, you can buy a 24 hour card (at the Metro machines) valid for the whole network (metro+bus+tram+lifts), for only 7,00€."
+  },
+  {
+    "objectID": "info/gettingAround.html#apps",
+    "href": "info/gettingAround.html#apps",
+    "title": "Getting around",
+    "section": "Apps",
+    "text": "Apps\nBelow you can find some apps that integrate information about Lisbon transportation system, allowing you to find the best route and track vehicles in real time!"
+  },
+  {
+    "objectID": "info/venue.html",
+    "href": "info/venue.html",
+    "title": "Venue",
+    "section": "",
+    "text": "The DTN Annual Forum 2025 will be hosted at Institute of Geography and Spatial Planning (IGOT). It is located in the heart of Lisbon city and inside University of Lisbon campus, accessible by several transport modes. For more details on how to get to Lisbon, to the venue and around the city, check the respective pages.\n\nIGOT has a prominent and consolidated position in geography teaching and researching in Portugal, focusing on areas such as social and earth sciences, planning, spatial planning and management.\nTheir facilities will host DTN Annual Forum 2025, specifically, the Orlando Ribeiro auditorium.\n\n\n\nOrlando Ribeiro auditorium"
+  },
+  {
+    "objectID": "info/guides.html",
+    "href": "info/guides.html",
+    "title": "Guides",
+    "section": "",
+    "text": "Lisbon is more than a city. It is a broad and whole territory waiting to be explored. In this page we share with you some touristic guides that may be of your interest.\n\n\n\n\n\n\n\n\n  \n\n\n\n\nTurismo de Lisboa\n\n\n\n\n\n\n\nWebsite\n\n\n\n\nThe institutional page for Lisboa tourism association. Here you can find several informations about the main attractions, events and practical tips.\n\n\n\n\n\n\nhttps://www.visitlisboa.com/en\n\n\n\n\n\n\n  \n\n\n\n\nVisit a city\n\n\n\n\n\n\n\nApp\n\n\n\n\nThis app provides several itineraries addapted to diverse preferences and durations.\n\n\n\n\n\n\nhttps://www.visitacity.com/en/lisbon\n\n\n\n\n\n\n  \n\n\n\n\nTimeOut\n\n\n\n\n\n\n\nWebsite\n\n\n\n\nThis magazine compiles several guides that can help you find the best viewpoints, museums or beaches.\n\n\n\n\n\n\nhttps://www.timeout.com/lisbon/things-to-do\n\n\n\n\n\n\nNo matching items"
   }
 ]

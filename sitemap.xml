@@ -1,79 +1,99 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://u-shift.github.io/DTNlisbon/courses/course2.html</loc>
-    <lastmod>2025-06-03T14:25:35.124Z</lastmod>
-  </url>
-  <url>
-    <loc>https://u-shift.github.io/DTNlisbon/styles.html</loc>
-    <lastmod>2025-05-08T15:14:19.729Z</lastmod>
-  </url>
-  <url>
-    <loc>https://u-shift.github.io/DTNlisbon/speakers/index.html</loc>
-    <lastmod>2025-06-03T13:58:22.056Z</lastmod>
-  </url>
-  <url>
-    <loc>https://u-shift.github.io/DTNlisbon/info/venue.html</loc>
-    <lastmod>2025-05-22T10:34:06.753Z</lastmod>
-  </url>
-  <url>
-    <loc>https://u-shift.github.io/DTNlisbon/info/gettingAround.html</loc>
-    <lastmod>2025-05-22T10:34:06.749Z</lastmod>
-  </url>
-  <url>
-    <loc>https://u-shift.github.io/DTNlisbon/info/guides.html</loc>
-    <lastmod>2025-05-22T10:34:06.749Z</lastmod>
-  </url>
-  <url>
-    <loc>https://u-shift.github.io/DTNlisbon/info/gettingToLisbon.html</loc>
-    <lastmod>2025-05-22T10:34:06.749Z</lastmod>
+    <loc>https://u-shift.github.io/DTNlisbon/forum/day2.html</loc>
+    <lastmod>2025-06-24T18:58:49.453Z</lastmod>
   </url>
   <url>
     <loc>https://u-shift.github.io/DTNlisbon/forum/day3.html</loc>
-    <lastmod>2025-06-03T14:32:19.728Z</lastmod>
-  </url>
-  <url>
-    <loc>https://u-shift.github.io/DTNlisbon/forum/technical.html</loc>
-    <lastmod>2025-05-22T10:34:06.745Z</lastmod>
-  </url>
-  <url>
-    <loc>https://u-shift.github.io/DTNlisbon/forum/day2.html</loc>
-    <lastmod>2025-06-03T14:32:13.169Z</lastmod>
+    <lastmod>2025-06-24T18:58:49.929Z</lastmod>
   </url>
   <url>
     <loc>https://u-shift.github.io/DTNlisbon/forum/day1.html</loc>
-    <lastmod>2025-06-03T14:26:42.713Z</lastmod>
+    <lastmod>2025-06-24T18:58:50.436Z</lastmod>
   </url>
   <url>
-    <loc>https://u-shift.github.io/DTNlisbon/info/gettingHere.html</loc>
-    <lastmod>2025-05-22T10:34:06.749Z</lastmod>
+    <loc>https://u-shift.github.io/DTNlisbon/forum/technical.html</loc>
+    <lastmod>2025-06-24T18:58:50.901Z</lastmod>
   </url>
   <url>
-    <loc>https://u-shift.github.io/DTNlisbon/info/team.html</loc>
-    <lastmod>2025-05-22T10:34:06.753Z</lastmod>
-  </url>
-  <url>
-    <loc>https://u-shift.github.io/DTNlisbon/info/accommodation.html</loc>
-    <lastmod>2025-05-22T10:34:06.749Z</lastmod>
-  </url>
-  <url>
-    <loc>https://u-shift.github.io/DTNlisbon/info/contacts.html</loc>
-    <lastmod>2025-05-22T10:34:06.749Z</lastmod>
-  </url>
-  <url>
-    <loc>https://u-shift.github.io/DTNlisbon/speakers/hhook.html</loc>
-    <lastmod>2025-06-03T13:58:22.056Z</lastmod>
-  </url>
-  <url>
-    <loc>https://u-shift.github.io/DTNlisbon/index.html</loc>
-    <lastmod>2025-05-22T10:34:06.749Z</lastmod>
+    <loc>https://u-shift.github.io/DTNlisbon/courses/course2.html</loc>
+    <lastmod>2025-06-24T18:58:51.435Z</lastmod>
   </url>
   <url>
     <loc>https://u-shift.github.io/DTNlisbon/courses/course1.html</loc>
-    <lastmod>2025-06-03T14:25:12.708Z</lastmod>
+    <lastmod>2025-06-24T18:58:51.940Z</lastmod>
   </url>
   <url>
     <loc>https://u-shift.github.io/DTNlisbon/courses/course3.html</loc>
-    <lastmod>2025-06-03T14:25:53.997Z</lastmod>
+    <lastmod>2025-06-24T18:58:52.401Z</lastmod>
+  </url>
+  <url>
+    <loc>https://u-shift.github.io/DTNlisbon/speakers/jcosteira.html</loc>
+    <lastmod>2025-06-24T18:58:52.839Z</lastmod>
+  </url>
+  <url>
+    <loc>https://u-shift.github.io/DTNlisbon/speakers/mpoyourow.html</loc>
+    <lastmod>2025-06-24T18:58:53.215Z</lastmod>
+  </url>
+  <url>
+    <loc>https://u-shift.github.io/DTNlisbon/speakers/hhook.html</loc>
+    <lastmod>2025-06-24T18:58:53.593Z</lastmod>
+  </url>
+  <url>
+    <loc>https://u-shift.github.io/DTNlisbon/speakers/index.html</loc>
+    <lastmod>2025-06-24T18:58:54.322Z</lastmod>
+  </url>
+  <url>
+    <loc>https://u-shift.github.io/DTNlisbon/speakers/dvale.html</loc>
+    <lastmod>2025-06-24T18:58:54.721Z</lastmod>
+  </url>
+  <url>
+    <loc>https://u-shift.github.io/DTNlisbon/speakers/mcosta.html</loc>
+    <lastmod>2025-06-24T18:58:55.155Z</lastmod>
+  </url>
+  <url>
+    <loc>https://u-shift.github.io/DTNlisbon/speakers/zbent.html</loc>
+    <lastmod>2025-06-24T18:58:55.531Z</lastmod>
+  </url>
+  <url>
+    <loc>https://u-shift.github.io/DTNlisbon/index.html</loc>
+    <lastmod>2025-06-24T18:58:56.341Z</lastmod>
+  </url>
+  <url>
+    <loc>https://u-shift.github.io/DTNlisbon/styles.html</loc>
+    <lastmod>2025-06-24T18:58:56.683Z</lastmod>
+  </url>
+  <url>
+    <loc>https://u-shift.github.io/DTNlisbon/info/accommodation.html</loc>
+    <lastmod>2025-06-24T18:58:57.055Z</lastmod>
+  </url>
+  <url>
+    <loc>https://u-shift.github.io/DTNlisbon/info/gettingToLisbon.html</loc>
+    <lastmod>2025-06-24T18:58:57.519Z</lastmod>
+  </url>
+  <url>
+    <loc>https://u-shift.github.io/DTNlisbon/info/gettingHere.html</loc>
+    <lastmod>2025-06-24T18:58:57.951Z</lastmod>
+  </url>
+  <url>
+    <loc>https://u-shift.github.io/DTNlisbon/info/team.html</loc>
+    <lastmod>2025-06-24T18:58:58.392Z</lastmod>
+  </url>
+  <url>
+    <loc>https://u-shift.github.io/DTNlisbon/info/contacts.html</loc>
+    <lastmod>2025-06-24T18:58:58.718Z</lastmod>
+  </url>
+  <url>
+    <loc>https://u-shift.github.io/DTNlisbon/info/gettingAround.html</loc>
+    <lastmod>2025-06-24T18:58:59.227Z</lastmod>
+  </url>
+  <url>
+    <loc>https://u-shift.github.io/DTNlisbon/info/venue.html</loc>
+    <lastmod>2025-06-24T18:58:59.591Z</lastmod>
+  </url>
+  <url>
+    <loc>https://u-shift.github.io/DTNlisbon/info/guides.html</loc>
+    <lastmod>2025-06-24T18:59:00.159Z</lastmod>
   </url>
 </urlset>
