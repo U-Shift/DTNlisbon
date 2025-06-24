@@ -5,7 +5,7 @@ about:
     template: trestles
 ---
 
-Costa is a postdoctoral researcher at the Technical University of Denmark, where he develops decision-support tools for 
+Miguel Costa is a postdoctoral researcher at the Technical University of Denmark, where he develops decision-support tools for 
 climate adaptation policy making. His current work combines reinforcement learning and agent-based simulation to identify 
 optimal sets or sequences of adaptation strategies. This framework aims to reveal dynamic links between flooding events, 
 transport systems, public health, and wellbeing – ultimately supporting decision-making that maximizes societal impact. 
