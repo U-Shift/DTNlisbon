@@ -58,6 +58,16 @@ website:
       contents:
         - info/team.qmd
         - info/contacts.qmd
+    - id: speakers
+      title: "Speakers"
+      collapse-level: 2
+      contents:
+        - speakers/jcosteira.qmd
+        - speakers/zbent.qmd
+        - speakers/hhook.qmd
+        - speakers/dvale.qmd
+        - speakers/mpoyourow.qmd
+        - speakers/mcosta.qmd
 
   page-footer: 
     left: "

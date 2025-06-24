@@ -1,0 +1,16 @@
+---
+title: Miguel Costa
+image: https://ushift.tecnico.ulisboa.pt/home/wp-content/uploads/2019/07/MG_1677-768x768.jpg
+about:
+    template: trestles
+---
+
+Costa is a postdoctoral researcher at the Technical University of Denmark, where he develops decision-support tools for 
+climate adaptation policy making. His current work combines reinforcement learning and agent-based simulation to identify 
+optimal sets or sequences of adaptation strategies. This framework aims to reveal dynamic links between flooding events, 
+transport systems, public health, and wellbeing – ultimately supporting decision-making that maximizes societal impact. 
+Miguel holds a PhD (magna cum laude) in Transportation Systems and an MSc in Electrical Engineering from Instituto Superior Técnico. 
+His research interests lie at the intersection of artificial intelligence and transport, focusing on how machine learning can be 
+used to objectively characterize complex phenomena while also capturing individuals’ subjective experiences. By bridging this gap, 
+he aims to inform planning and policy decisions that are both data-driven and human-centered.
+

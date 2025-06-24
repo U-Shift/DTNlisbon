@@ -9,9 +9,39 @@ format:
 listing:
     type: grid
     contents:
+    - path: /speakers/jcosteira.html
+      image: https://isr.tecnico.ulisboa.pt/wp-content/uploads/2019/10/JPCosteira-e1580906950532.jpg
+      title: João Paulo Costeira
+      description: ""
+      categories: []
+
+    - path: /speakers/zbent.html
+      image: https://nacto.org/wp-content/uploads/Bent-sq.jpg
+      title: Zabe Bent
+      description: ""
+      categories: []
+
     - path: /speakers/hhook.html
       image: /images/speakers/hhook.jpg
       title: Hannah Hook
+      description: ""
+      categories: []
+
+    - path: /speakers/dvale.html
+      image: https://ciauddev.fa.ulisboa.pt/images/comissao-executiva/davidvale.jpg
+      title: David Vale
+      description: ""
+      categories: []
+
+    - path: /speakers/mpoyourow.html
+      image: /images/speakers/mpoyourow.jpg
+      title: Michelle Poyourow
+      description: ""
+      categories: []
+
+    - path: /speakers/mcosta.html
+      image: https://ushift.tecnico.ulisboa.pt/home/wp-content/uploads/2019/07/MG_1677-768x768.jpg
+      title: Miguel Costa
       description: ""
       categories: []
 ---

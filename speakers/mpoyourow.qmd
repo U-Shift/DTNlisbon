@@ -1,0 +1,13 @@
+---
+title: Michelle Poyourow
+image: ../images/speakers/mpoyourow.jpg
+about:
+    template: trestles
+---
+
+Michelle Poyourow is the Principal Associate at Jarrett Walker + Associates, being a  recognized transit planner with over 15 years
+of experience in bus network redesign, public engagement, and integrated land use and mobility policy. She specializes in managing 
+complex transit projects—from large citywide network overhauls to rural service planning—while facilitating effective interagency 
+collaboration and community input. Her background in political advocacy and policy gives her a unique edge in navigating the 
+communication and governance aspects of transit planning. Michelle has managed transit network plans and redesigns for large and small 
+cities including Dallas, Sacramento, and Atlanta. She is currently working on network studies in Wales and Long Island, NY.

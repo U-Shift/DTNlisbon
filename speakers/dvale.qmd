@@ -1,0 +1,14 @@
+---
+title: David Vale
+image: https://ciauddev.fa.ulisboa.pt/images/comissao-executiva/davidvale.jpg
+about:
+    template: trestles
+---
+
+David Vale is an associate professor in Lisbon School of Architecture, University of Lisbon, where he teaches Urban 
+Geography, Road Systems and Transport, Geographic Information Systems and Contemporary Urban Challenges. He has completed 
+his Ph.D. in Architecture, Planning and Landscape at Newcastle University. David Vale has a bachelor in Geography and Regional 
+Planning from Nova University of Lisbon, and a MSc in Geographic Information Systems from the Instituto Superior Técnico, 
+University of Lisbon. His research is focused on urban and regional planning, specially in what concerns the integration of 
+land use and transport, transit-oriented development (TOD), walkability, bikeability and accessibility measurement, and the 
+relationships between the built environment and mobility patterns, physical activity and health.

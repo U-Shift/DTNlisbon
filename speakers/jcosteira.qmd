@@ -1,0 +1,12 @@
+---
+title: João Paulo Costeira
+image: https://isr.tecnico.ulisboa.pt/wp-content/uploads/2019/10/JPCosteira-e1580906950532.jpg
+about:
+    template: trestles
+---
+
+João Paulo Costeira is an Associate Professor at the Instituto Superior Técnico (IST), University of Lisbon. 
+He holds a Ph.D. in Electrical and Computer Engineering from IST. He is a senior researcher with the Signal and Image 
+Processing Group (SIPg) and has served as its group coordinator, where he conducts research in computer vision and robotics. 
+He is a former co-director of the Dual Ph.D. Program in Electrical and Computer Engineering and Robotics within the Carnegie 
+Mellon | Portugal program. He also served as the Scientific Director of the Carnegie Mellon | Portugal initiative from 2014 to 2018.
