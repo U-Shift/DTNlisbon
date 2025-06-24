@@ -17,6 +17,7 @@ Andres Monzon (Prof. Transportation Eng., Urban and Regional Planning, Universid
 
 
 ## Preliminary Schedule Day 1 (8 Sept.)
+::: {.schedule-courses}
 |  |
 | ---- |
 | <span class="event-outline-blue"></span> Welcome & Presentation |
@@ -26,9 +27,10 @@ Andres Monzon (Prof. Transportation Eng., Urban and Regional Planning, Universid
 | <span class="event-outline-blue"></span> Lunch |
 | <span class="event-filled-green"></span> Lecture 3: Sharing in Practice: car sharing  |
 | <span class="event-filled-orange"></span> Workshop 2: Different solutions in different cities |
-
+:::
 
 ## Preliminary Schedule Day 2 (9 Sept.)
+::: {.schedule-courses}
 |  |
 | ---- |
 | <span class="event-filled-green"></span> Lecture 4: Sharing in Practice - scooters and mopeds  |
@@ -38,3 +40,4 @@ Andres Monzon (Prof. Transportation Eng., Urban and Regional Planning, Universid
 | <span class="event-filled-green"></span> Lecture 6: Research gaps and policy trends |
 | <span class="event-filled-orange"></span> Workshop 3: Public Transport and sharing - SWOT Analysis |
 | <span class="event-filled-blue"></span> Closing: Shared-Mobility Roadmap - research and policy challenges |
+:::
