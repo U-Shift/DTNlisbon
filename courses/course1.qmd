@@ -7,7 +7,7 @@ format:
 ---
 
 ## Instructor
-Andres Monzon (Prof. Transportation Eng., Urban and Regional Planning, Universidad Politecnica de Madrid)
+[Andres Monzon](/speakers/amonzon.html) (Prof. Transportation Eng., Urban and Regional Planning, Universidad Politecnica de Madrid)
 
 ## Content
 1. State of the practice

@@ -7,7 +7,7 @@ format:
 ---
 
 ## Instructor
-Hannah Hook (Ghent University, Department of Geography)
+[Hannah Hook](/speakers/hhook.html) (Ghent University, Department of Geography)
 
 ## Learning objectives
 1. Introduce doctoral researchers to the basic techniques of qualitative methods and provide knowledge on how to perform reproducible research.

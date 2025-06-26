@@ -1,0 +1,15 @@
+---
+title: Robin Lovelace
+image: https://www.robinlovelace.net/authors/admin/avatar_hu3d4a1b50dc18344f3cdc14860b8b07f2_85545_270x270_fill_q75_lanczos_center.jpg
+about:
+    template: trestles
+
+# Based on https://www.creds.ac.uk/people/robin-lovelace/
+---
+
+Robin Lovelace is a University Academic Fellow at the **Leeds Institute for Transport Studies (ITS)**. 
+He did his PhD in the Energy Costs of Commuting, leading to new methods for processing spatial and individual level 
+data to generate scenarios of decarbonisation, leading to the open source books Spatial Microsimulation with R and, 
+recently, Geocomputation with R. Robin has wide ranging experience modeling sustainable transport systems and visualizing 
+transport futures. These skills have been applied on a number of projects with real-world applications, most recently as 
+Lead Developer of the **Propensity to Cycle Tool** and the **stplanr package** for sustainable transport planning.
