@@ -6,8 +6,8 @@ about:
 ---
 
 Hannah Hook is DTN Alumni and will soon start an Assistant Professor position of Sustainable Land Use and Transport Planning in
-the Department of the Built Environment at Aalto University, Finland. She completed her PhD and is currently a postdoctoral researcher 
-at Ghent University, and previously completed two Master’s degrees in GIS Technology (University of Arizona ) and Sustainable Cities 
-(King’s College London) and two Bachelor’s degrees in Sustainability and Business Communications (Arizona State University). 
+the Department of the Built Environment at **Aalto University**, Finland. She completed her PhD and is currently a postdoctoral researcher 
+at **Ghent University**, and previously completed two Master’s degrees in GIS Technology (**University of Arizona**) and Sustainable Cities 
+(**King’s College London**) and two Bachelor’s degrees in Sustainability and Business Communications (**Arizona State University**). 
 Her research focuses on the role of discretionary and undirected travel in promoting well-being, travel satisfaction, and transport equity. 
 Hannah’s work bridges mobility behaviour, the built environment, and social sustainability.
