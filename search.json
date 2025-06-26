@@ -4,21 +4,21 @@
     "href": "forum/day2.html",
     "title": "11th Sept. (Thursday)",
     "section": "",
-    "text": "Preliminary schedule This schedule is only indicative and might be subject to changes.\n\n\n\n\n\n9:00 - 9:30\n Registration / coffee\n\n\n9:30\n Welcome\n\n\n9:45\n Keynote\n\n\n10:30\n Allumni talks\n\n\n11:15\n Coffee break\n\n\n11:40\n Parallel discussions\n\n\n12:30\n Lunch\n\n\n13:30\n Technical visits  More details\n\n\n18:00\n Social event"
+    "text": "Preliminary schedule This schedule is only indicative and might be subject to changes.\n\n\n\n\n\n9:00 - 9:30\n Registration / coffee\n\n\n9:30\n Welcome\n\n\n9:45\n Keynote   Zabe Bent\n\n\n10:30\n Allumni talks   Hannah Hook\n\n\n11:15\n Coffee break\n\n\n11:40\n Parallel discussions   David Vale   Michelle Poyourow\n\n\n12:30\n Lunch\n\n\n13:30\n Technical visits  More details\n\n\n18:00\n Social event"
   },
   {
     "objectID": "forum/day3.html",
     "href": "forum/day3.html",
     "title": "12th Sept. (Friday)",
     "section": "",
-    "text": "Preliminary schedule This schedule is only indicative and might be subject to changes.\n\n\n\n\n\n9:00 - 9:30\n Coffee\n\n\n9:30\n Keynote 1\n\n\n10:15\n Workshop\n\n\n11:15\n Coffee break\n\n\n11:40\n Keynote 2\n\n\n12:30\n Lunch\n\n\n13:30\n Keynote 3   Miguel Costa\n\n\n14:15\n Graduation Ceromony\n\n\n16:00\n Allumni meeting\n\n\n17:00\n Free Lisbon Tour"
+    "text": "Preliminary schedule This schedule is only indicative and might be subject to changes.\n\n\n\n\n\n9:00 - 9:30\n Coffee\n\n\n9:30\n Workshop\n\n\n11:15\n Coffee break\n\n\n11:40\n Keynote   Kelly Clifton\n\n\n12:30\n Lunch\n\n\n13:30\n Keynote   Miguel Costa\n\n\n14:15\n Graduation Ceromony\n\n\n16:00\n Allumni meeting\n\n\n17:00\n Free Lisbon Tour"
   },
   {
     "objectID": "forum/day1.html",
     "href": "forum/day1.html",
     "title": "10th Sept. (Wednesday)",
     "section": "",
-    "text": "Preliminary schedule This schedule is only indicative and might be subject to changes.\n\n\n\n\n\n\n\n\n\n8:30 - 9:30\n Registration / coffee\n\n\n9:30\n Welcome\n\n\n10:00\n Keynote\n\n\n10:45\n Coffee break\n\n\n11:15\n PhD poster pitching\n\n\n12:30\n Lunch\n\n\n14:30\n Lisbon Public Transit Experience\n\n\n16:00\n Outdoor activity\n\n\n20:00\n Dinner"
+    "text": "Preliminary schedule This schedule is only indicative and might be subject to changes.\n\n\n\n\n\n8:30 - 9:30\n Registration / coffee\n\n\n9:30\n Welcome\n\n\n10:00\n Keynote   João Paulo Costeira\n\n\n10:45\n Coffee break\n\n\n11:15\n PhD poster pitching\n\n\n12:30\n Lunch\n\n\n14:30\n Lisbon Public Transit Experience\n\n\n16:00\n Outdoor activity\n\n\n20:00\n Dinner"
   },
   {
     "objectID": "forum/technical.html",
@@ -161,6 +161,13 @@
     "text": "João Paulo Costeira is an Associate Professor at the Instituto Superior Técnico (IST), University of Lisbon. He holds a Ph.D. in Electrical and Computer Engineering from IST. He is a senior researcher with the Signal and Image Processing Group (SIPg) and has served as its group coordinator, where he conducts research in computer vision and robotics. He is a former co-director of the Dual Ph.D. Program in Electrical and Computer Engineering and Robotics within the Carnegie Mellon | Portugal program. He also served as the Scientific Director of the Carnegie Mellon | Portugal initiative from 2014 to 2018."
   },
   {
+    "objectID": "speakers/kclifton.html",
+    "href": "speakers/kclifton.html",
+    "title": "Kelly Clifton",
+    "section": "",
+    "text": "Kelly J. Clifton is an internationally-recognized expert on transport and land use interactions, travel behaviour, pedestrian modeling, and equity in transportation policy. She has worked to elevate public impact research through partnerships with public agencies and community groups. Previously, Kelly was Professor of Portland State University’s Civil and Environmental Engineering, an affiliate of the Urban Studies and Planning Program, and a Fellow in the Institute for Sustainable Solutions. In addition to her faculty appointments there, she served as the interim Associate Vice President for Research for the campus and was the former Associate Dean of Research for the Maseeh College of Engineering and Computer Science. She has also held faculty positions at the University of Maryland and University of Iowa. Kelly has a PhD in Community and Regional Planning from the University of Texas at Austin, MS in Planning from the University of Arizona, and BS in Mechanical Engineering from West Virginia University."
+  },
+  {
     "objectID": "speakers/mpoyourow.html",
     "href": "speakers/mpoyourow.html",
     "title": "Michelle Poyourow",
@@ -172,14 +179,28 @@
     "href": "speakers/hhook.html",
     "title": "Hannah Hook",
     "section": "",
-    "text": "Hannah Hook is DTN Alumni and will soon start an Assistant Professor position of Sustainable Land Use and Transport Planning in the Department of the Built Environment at Aalto University, Finland. She completed her PhD and is currently a postdoctoral researcher at Ghent University, and previously completed two Master’s degrees in GIS Technology (University of Arizona ) and Sustainable Cities (King’s College London) and two Bachelor’s degrees in Sustainability and Business Communications (Arizona State University). Her research focuses on the role of discretionary and undirected travel in promoting well-being, travel satisfaction, and transport equity. Hannah’s work bridges mobility behaviour, the built environment, and social sustainability."
+    "text": "Hannah Hook is DTN Alumni and will soon start an Assistant Professor position of Sustainable Land Use and Transport Planning in the Department of the Built Environment at Aalto University, Finland. She completed her PhD and is currently a postdoctoral researcher at Ghent University, and previously completed two Master’s degrees in GIS Technology (University of Arizona) and Sustainable Cities (King’s College London) and two Bachelor’s degrees in Sustainability and Business Communications (Arizona State University). Her research focuses on the role of discretionary and undirected travel in promoting well-being, travel satisfaction, and transport equity. Hannah’s work bridges mobility behaviour, the built environment, and social sustainability."
+  },
+  {
+    "objectID": "speakers/amonzon.html",
+    "href": "speakers/amonzon.html",
+    "title": "Andres Monzon",
+    "section": "",
+    "text": "Full Professor in Transportation Engineering since 2002, Civil Engineering Department of the Polytechnic University of Madrid, Spain, Andres Monzon founded the TRANSyT-Transport Research Center at the UPM in 2004, being its Director until 2017. He has been the Rector´s Delegate for Sustainable Urban Mobility and Coordinator of the Research and Academic Cluster MoviTUR-Mobility of the Future since 2020. Prof. Monzon promoted the Spanish Metropolitan Mobility Observatory and has been its Director since 2004. He founded the Spanish Forum of Transport Engineering and was its president from 2014 to 2023. Member of the Advisory Council of the Spanish Ministry of Transport and Sustainable Mobility since 2015."
   },
   {
     "objectID": "speakers/index.html",
     "href": "speakers/index.html",
     "title": "Speakers",
     "section": "",
-    "text": "João Paulo Costeira\n\n\n\n\n\n\n\n\n\n\n\npath\n\n\n/speakers/jcosteira.html\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nZabe Bent\n\n\n\n\n\n\n\n\n\n\n\npath\n\n\n/speakers/zbent.html\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nHannah Hook\n\n\n\n\n\n\n\n\n\n\n\npath\n\n\n/speakers/hhook.html\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nDavid Vale\n\n\n\n\n\n\n\n\n\n\n\npath\n\n\n/speakers/dvale.html\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMichelle Poyourow\n\n\n\n\n\n\n\n\n\n\n\npath\n\n\n/speakers/mpoyourow.html\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMiguel Costa\n\n\n\n\n\n\n\n\n\n\n\npath\n\n\n/speakers/mcosta.html\n\n\n\n\n\n\n\n\n\n\nNo matching items"
+    "text": "João Paulo Costeira\n\n\n\n\n\n\n\n\n\n\n\npath\n\n\n/speakers/jcosteira.html\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nZabe Bent\n\n\n\n\n\n\n\n\n\n\n\npath\n\n\n/speakers/zbent.html\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nHannah Hook\n\n\n\n\n\n\n\n\n\n\n\npath\n\n\n/speakers/hhook.html\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nDavid Vale\n\n\n\n\n\n\n\n\n\n\n\npath\n\n\n/speakers/dvale.html\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMichelle Poyourow\n\n\n\n\n\n\n\n\n\n\n\npath\n\n\n/speakers/mpoyourow.html\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMiguel Costa\n\n\n\n\n\n\n\n\n\n\n\npath\n\n\n/speakers/mcosta.html\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nKelly Clifton\n\n\n\n\n\n\n\n\n\n\n\npath\n\n\n/speakers/kclifton.html\n\n\n\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "speakers/rlovelace.html",
+    "href": "speakers/rlovelace.html",
+    "title": "Robin Lovelace",
+    "section": "",
+    "text": "Robin Lovelace is a University Academic Fellow at the Leeds Institute for Transport Studies (ITS). He did his PhD in the Energy Costs of Commuting, leading to new methods for processing spatial and individual level data to generate scenarios of decarbonisation, leading to the open source books Spatial Microsimulation with R and, recently, Geocomputation with R. Robin has wide ranging experience modeling sustainable transport systems and visualizing transport futures. These skills have been applied on a number of projects with real-world applications, most recently as Lead Developer of the Propensity to Cycle Tool and the stplanr package for sustainable transport planning."
   },
   {
     "objectID": "speakers/dvale.html",

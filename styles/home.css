@@ -112,8 +112,8 @@
     flex-direction: row!important;
 }
 .speakers-gallery .quarto-figure {
-    flex-basis: calc(100%/6)!important;
-    width: calc(100%/6)!important;
+    flex-basis: calc(100%/7)!important;
+    width: calc(100%/7)!important;
 }
 
 @media (max-width: 1200px) { 
