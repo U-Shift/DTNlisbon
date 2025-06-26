@@ -46,7 +46,7 @@ listing:
       categories: []
 
     - path: /speakers/kclifton.html
-      image: http://kellyjclifton.com/wp-content/uploads/Clifton3-2-420x536.jpg
+      image: https://cerc.ubc.ca/files/2023/05/Kelly-Clifton.jpg
       title: Kelly Clifton
       description: ""
       categories: []
