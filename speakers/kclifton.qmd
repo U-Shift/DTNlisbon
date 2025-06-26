@@ -1,0 +1,18 @@
+---
+title: Kelly Clifton
+image: http://kellyjclifton.com/wp-content/uploads/Clifton3-2-420x536.jpg
+about:
+    template: trestles
+
+# FROM https://scarp.ubc.ca/directory/kelly-j-clifton
+---
+
+Kelly J. Clifton is an internationally-recognized expert on transport and land use interactions, travel behaviour, 
+pedestrian modeling, and equity in transportation policy. She has worked to elevate public impact research through 
+partnerships with public agencies and community groups. Previously, Kelly was Professor of **Portland State University’s**
+Civil and Environmental Engineering, an affiliate of the Urban Studies and Planning Program, and a Fellow in the 
+**Institute for Sustainable Solutions**. In addition to her faculty appointments there, she served as the interim 
+Associate Vice President for Research for the campus and was the former Associate Dean of Research for the 
+**Maseeh College of Engineering and Computer Science**. She has also held faculty positions at the **University of Maryland**
+and **University of Iowa**. Kelly has a PhD in Community and Regional Planning from the **University of Texas** at Austin, MS 
+in Planning from the **University of Arizona**, and BS in Mechanical Engineering from **West Virginia University**. 

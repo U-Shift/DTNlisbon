@@ -68,6 +68,7 @@ website:
         - speakers/dvale.qmd
         - speakers/mpoyourow.qmd
         - speakers/mcosta.qmd
+        - speakers/kclifton.qmd
 
   page-footer: 
     left: "
