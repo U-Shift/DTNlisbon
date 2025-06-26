@@ -21,6 +21,10 @@ Lisbon is serviced by a robust transportation system, build up on metro, bus, tr
 
 ## Tickets
 
+<div class="alert alert-info">
+  <strong>{{< fa circle-info >}}</strong> Every participant will be provided with a 10€ Zapping card on the first day of the event.
+</div>
+
 
 Trips can be payed with **contactless** cards, being charged the same amount as for the board ticket. However, you can buy a **Zapping card** (0,50€ per card, one card per person) at the Metro machines and top it up with 3, 5 or 10€. Using this card, the individual trips are cheaper on buses and trams.
 
