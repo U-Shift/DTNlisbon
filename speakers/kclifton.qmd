@@ -7,7 +7,8 @@ about:
 # FROM https://scarp.ubc.ca/directory/kelly-j-clifton
 ---
 
-Kelly J. Clifton is an internationally-recognized expert on transport and land use interactions, travel behaviour, 
+Kelly J. Clifton is a professor at the **University of British Columbia**, Canada, and an internationally-recognized expert on 
+transport and land use interactions, travel behaviour, 
 pedestrian modeling, and equity in transportation policy. She has worked to elevate public impact research through 
 partnerships with public agencies and community groups. Previously, Kelly was Professor of **Portland State University’s**
 Civil and Environmental Engineering, an affiliate of the Urban Studies and Planning Program, and a Fellow in the 
