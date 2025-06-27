@@ -24,11 +24,16 @@ table:has(.table-team) tbody {
 table:has(.table-team) tbody tr {
     width: 33%;
     display: flex!important;
+    
     flex-direction: column;
     flex-wrap: nowrap;
 
     text-align: center;
 }
+table:has(.table-team) tbody tr img {
+    width: 90%;
+}
+
 @media (max-width: 576px) {
     table:has(.table-team) tbody tr {
         width: 50%;
