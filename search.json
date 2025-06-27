@@ -49,6 +49,20 @@
     "text": "GIRA is Lisbon’s public bike system. Operating since 2017, it already counts with 188 dock stations, that provide more than 2000 bicycles to live and explore the city.  The visit will allow the participants to explore the system control center and the bicycles workshop.  Schedule: 15:00 to 17:00 | Openings: 25 participants\n\n\n\n\n\n\n\nCarris bus and tram\n\n\n\n\n\n\n\nRail control center\n\n\n\n\n\n\n\nGIRA bicycle"
   },
   {
+    "objectID": "courses/course4.html",
+    "href": "courses/course4.html",
+    "title": "13-14th Sept. | Discrete Choice Modeling for Transport Research",
+    "section": "",
+    "text": "Mohamed Abouelela (Technical University of Munich)"
+  },
+  {
+    "objectID": "courses/course4.html#instructor",
+    "href": "courses/course4.html#instructor",
+    "title": "13-14th Sept. | Discrete Choice Modeling for Transport Research",
+    "section": "",
+    "text": "Mohamed Abouelela (Technical University of Munich)"
+  },
+  {
     "objectID": "courses/course2.html",
     "href": "courses/course2.html",
     "title": "8-9th Sept. | Tools and Skills for Reproducible Transport Research",
@@ -161,6 +175,13 @@
     "text": "João Paulo Costeira is an Associate Professor at the Instituto Superior Técnico (IST), University of Lisbon. He holds a Ph.D. in Electrical and Computer Engineering from IST. He is a senior researcher with the Signal and Image Processing Group (SIPg) and has served as its group coordinator, where he conducts research in computer vision and robotics. He is a former co-director of the Dual Ph.D. Program in Electrical and Computer Engineering and Robotics within the Carnegie Mellon | Portugal program. He also served as the Scientific Director of the Carnegie Mellon | Portugal initiative from 2014 to 2018."
   },
   {
+    "objectID": "speakers/mabouelela.html",
+    "href": "speakers/mabouelela.html",
+    "title": "Mohamed Abouelela",
+    "section": "",
+    "text": "Mohamed is a civil / transportation engineer and a lecturer specializing in Transportation System Engineering with over 19 years of experience in the transportation industry. Mohamed is the head of the research group Transportation Data Analytics. He holds a bachelor’s degree in civil engineering from Ain Shams University, Egypt, a Master of Science, and a PhD in Transportation Systems from the Technical University of Munich, Germany. He possesses a deep passion for data analytics and its application in solving complex transportation challenges. Throughout his career, he has actively pursued opportunities to integrate data-driven insights into transportation planning and decision-making processes."
+  },
+  {
     "objectID": "speakers/kclifton.html",
     "href": "speakers/kclifton.html",
     "title": "Kelly Clifton",
@@ -215,6 +236,13 @@
     "title": "Miguel Costa",
     "section": "",
     "text": "Miguel Costa is a postdoctoral researcher at the Technical University of Denmark, where he develops decision-support tools for climate adaptation policy making. His current work combines reinforcement learning and agent-based simulation to identify optimal sets or sequences of adaptation strategies. This framework aims to reveal dynamic links between flooding events, transport systems, public health, and wellbeing – ultimately supporting decision-making that maximizes societal impact. Miguel holds a PhD (magna cum laude) in Transportation Systems and an MSc in Electrical Engineering from Instituto Superior Técnico. His research interests lie at the intersection of artificial intelligence and transport, focusing on how machine learning can be used to objectively characterize complex phenomena while also capturing individuals’ subjective experiences. By bridging this gap, he aims to inform planning and policy decisions that are both data-driven and human-centered."
+  },
+  {
+    "objectID": "speakers/courses.html",
+    "href": "speakers/courses.html",
+    "title": "Instructors",
+    "section": "",
+    "text": "Andres Monzon\n\n\n\n\n\n\n\n\n\n\n\npath\n\n\n/speakers/amonzon.html\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nRobin Lovelace\n\n\n\n\n\n\n\n\n\n\n\npath\n\n\n/speakers/rlovelace.html\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nHannah Hook\n\n\n\n\n\n\n\n\n\n\n\npath\n\n\n/speakers/hhook.html\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMohamed Abouelela\n\n\n\n\n\n\n\n\n\n\n\npath\n\n\n/speakers/mabouelela.html\n\n\n\n\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "speakers/zbent.html",
@@ -347,7 +375,7 @@
     "href": "info/gettingAround.html#tickets",
     "title": "Getting around",
     "section": "Tickets",
-    "text": "Tickets\nTrips can be payed with contactless cards, being charged the same amount as for the board ticket. However, you can buy a Zapping card (0,50€ per card, one card per person) at the Metro machines and top it up with 3, 5 or 10€. Using this card, the individual trips are cheaper on buses and trams.\n\n\n\n\nContactless/board ticket\nZapping\n\n\nMetro\n1,85€\n1,66€\n\n\nBus\n2,20€\n1,85 €\n\n\nTram\n3,20€\n1,85 €\n\n\nLifts\n4,20€\n1,85€\n\n\n\nAs an alternative, you can buy a 24 hour card (at the Metro machines) valid for the whole network (metro+bus+tram+lifts), for only 7,00€."
+    "text": "Tickets\n\n Every participant will be provided with a 10€ Zapping card on the first day of the event.\n\nTrips can be payed with contactless cards, being charged the same amount as for the board ticket. However, you can buy a Zapping card (0,50€ per card, one card per person) at the Metro machines and top it up with 3, 5 or 10€. Using this card, the individual trips are cheaper on buses and trams.\n\n\n\n\nContactless/board ticket\nZapping\n\n\nMetro\n1,85€\n1,66€\n\n\nBus\n2,20€\n1,85 €\n\n\nTram\n3,20€\n1,85 €\n\n\nLifts\n4,20€\n1,85€\n\n\n\nAs an alternative, you can buy a 24 hour card (at the Metro machines) valid for the whole network (metro+bus+tram+lifts), for only 7,00€."
   },
   {
     "objectID": "info/gettingAround.html#apps",

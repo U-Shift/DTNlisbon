@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>DTN Lisbon 2025  - Kelly Clifton</title>
+<title>DTN Lisbon 2025  - Instructors</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -31,9 +31,12 @@ ul.task-list li input[type="checkbox"] {
 <script src="../site_libs/quarto-search/quarto-search.js"></script>
 <meta name="quarto:offset" content="../">
 <link href="..//images/favicon.png" rel="icon" type="image/png">
+<script src="../site_libs/quarto-listing/list.min.js"></script>
+<script src="../site_libs/quarto-listing/quarto-listing.js"></script>
 <script src="../site_libs/quarto-html/quarto.js"></script>
 <script src="../site_libs/quarto-html/popper.min.js"></script>
 <script src="../site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="../site_libs/quarto-html/anchor.min.js"></script>
 <link href="../site_libs/quarto-html/tippy.css" rel="stylesheet">
 <link href="../site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="../site_libs/bootstrap/bootstrap.min.js"></script>
@@ -58,12 +61,45 @@ ul.task-list li input[type="checkbox"] {
     "search-submit-button-title": "Submit"
   }
 }</script>
+<script>
 
+  window.document.addEventListener("DOMContentLoaded", function (_event) {
+    const listingTargetEl = window.document.querySelector('#listing-listing .list');
+    if (!listingTargetEl) {
+      // No listing discovered, do not attach.
+      return; 
+    }
+
+    const options = {
+      valueNames: ['listing-path','listing-image','listing-title','listing-description','listing-categories',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
+      
+      searchColumns: ["listing-path","listing-image","listing-title","listing-description","listing-categories"],
+    };
+
+    window['quarto-listings'] = window['quarto-listings'] || {};
+    window['quarto-listings']['listing-listing'] = new List('listing-listing', options);
+
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  });
+
+  window.addEventListener('hashchange',() => {
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  })
+  </script>
+
+  <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
 
 <link rel="stylesheet" href="../styles.css">
-<meta name="twitter:title" content="DTN Lisbon 2025  - Kelly Clifton">
-<meta name="twitter:description" content="">
-<meta name="twitter:image" content="https://cerc.ubc.ca/files/2023/05/Kelly-Clifton.jpg">
+<link rel="stylesheet" href="../styles/speakers.css">
+<meta name="twitter:title" content="DTN Lisbon 2025  - Instructors">
+<meta name="twitter:image" content="https://u-shift.github.io/DTNlisbon/images/backgrounds/dtn.png">
+<meta name="twitter:image-height" content="1040">
+<meta name="twitter:image-width" content="2953">
 <meta name="twitter:card" content="summary_large_image">
 </head>
 
@@ -199,7 +235,7 @@ ul.task-list li input[type="checkbox"] {
       <button type="button" class="quarto-btn-toggle btn" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar,#quarto-sidebar-glass" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
         <i class="bi bi-layout-text-sidebar-reverse"></i>
       </button>
-      <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="../speakers/kclifton.html">Kelly Clifton</a></li></ol></nav>
+      <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="../speakers/courses.html">Instructors</a></li></ol></nav>
       <a class="flex-grow-1" role="button" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar,#quarto-sidebar-glass" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">      
       </a>
     </div>
@@ -213,50 +249,32 @@ ul.task-list li input[type="checkbox"] {
     <ul class="list-unstyled mt-1">
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../speakers/index.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text">Speakers</span></a>
+  <a href="../courses/course1.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">8-9th Sept.&nbsp;| Shared Mobility - Policy challenges and multimodal solutions</span></a>
   </div>
 </li>
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../speakers/jcosteira.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text">João Paulo Costeira</span></a>
+  <a href="../courses/course2.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">8-9th Sept.&nbsp;| Tools and Skills for Reproducible Transport Research</span></a>
   </div>
 </li>
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../speakers/zbent.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text">Zabe Bent</span></a>
+  <a href="../courses/course3.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">13-14th Sept.&nbsp;| Qualitative Methods in Urban Mobility Research</span></a>
   </div>
 </li>
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../speakers/hhook.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text">Hannah Hook</span></a>
+  <a href="../courses/course4.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">13-14th Sept.&nbsp;| Discrete Choice Modeling for Transport Research</span></a>
   </div>
 </li>
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../speakers/dvale.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text">David Vale</span></a>
-  </div>
-</li>
-        <li class="sidebar-item">
-  <div class="sidebar-item-container"> 
-  <a href="../speakers/mpoyourow.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text">Michelle Poyourow</span></a>
-  </div>
-</li>
-        <li class="sidebar-item">
-  <div class="sidebar-item-container"> 
-  <a href="../speakers/mcosta.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text">Miguel Costa</span></a>
-  </div>
-</li>
-        <li class="sidebar-item">
-  <div class="sidebar-item-container"> 
-  <a href="../speakers/kclifton.html" class="sidebar-item-text sidebar-link active">
- <span class="menu-text">Kelly Clifton</span></a>
+  <a href="../speakers/courses.html" class="sidebar-item-text sidebar-link active">
+ <span class="menu-text">Instructors</span></a>
   </div>
 </li>
     </ul>
@@ -266,25 +284,164 @@ ul.task-list li input[type="checkbox"] {
 <!-- margin-sidebar -->
     
 <!-- main -->
-<div class="quarto-about-trestles">
-  <div class="about-entity">
-    <img src="https://cerc.ubc.ca/files/2023/05/Kelly-Clifton.jpg" class="about-image
-  rounded " style="width: 20em;">
+<main class="content" id="quarto-document-content">
+
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">Kelly Clifton</h1>
+<h1 class="title">Instructors</h1>
 </div>
+
+
+
 <div class="quarto-title-meta">
+
+    
+  
+    
   </div>
+  
+
 </header>
-  </div>
-  <div class="about-contents"><main class="content" id="quarto-document-content">
-<p>Kelly J. Clifton is an internationally-recognized expert on transport and land use interactions, travel behaviour, pedestrian modeling, and equity in transportation policy. She has worked to elevate public impact research through partnerships with public agencies and community groups. Previously, Kelly was Professor of <strong>Portland State University’s</strong> Civil and Environmental Engineering, an affiliate of the Urban Studies and Planning Program, and a Fellow in the <strong>Institute for Sustainable Solutions</strong>. In addition to her faculty appointments there, she served as the interim Associate Vice President for Research for the campus and was the former Associate Dean of Research for the <strong>Maseeh College of Engineering and Computer Science</strong>. She has also held faculty positions at the <strong>University of Maryland</strong> and <strong>University of Iowa</strong>. Kelly has a PhD in Community and Regional Planning from the <strong>University of Texas</strong> at Austin, MS in Planning from the <strong>University of Arizona</strong>, and BS in Mechanical Engineering from <strong>West Virginia University</strong>.</p>
 
 
-</main></div>
+
+
+
+<div class="quarto-listing quarto-listing-container-grid" id="listing-listing">
+<div class="list grid quarto-listing-cols-3">
+<div class="g-col-1" data-index="0" data-categories="">
+<a href="../speakers/amonzon.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img src="https://www.ertrac.org/wp-content/uploads/2022/09/Andres-Monzon.jpg" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Andres Monzon
+</h5>
+<div class="listing-categories">
+
 </div>
- <!-- /main -->
+<div class="card-text listing-description">
+
+</div>
+
+<table class="card-other-values">
+<tbody><tr>
+<td>
+path
+</td>
+<td class="path">
+/speakers/amonzon.html
+</td>
+</tr>
+
+</tbody></table>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="1" data-categories="">
+<a href="../speakers/rlovelace.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img src="https://www.robinlovelace.net/authors/admin/avatar_hu3d4a1b50dc18344f3cdc14860b8b07f2_85545_270x270_fill_q75_lanczos_center.jpg" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Robin Lovelace
+</h5>
+<div class="listing-categories">
+
+</div>
+<div class="card-text listing-description">
+
+</div>
+
+<table class="card-other-values">
+<tbody><tr>
+<td>
+path
+</td>
+<td class="path">
+/speakers/rlovelace.html
+</td>
+</tr>
+
+</tbody></table>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="2" data-categories="">
+<a href="../speakers/hhook.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img src="../images/speakers/hhook.jpg" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Hannah Hook
+</h5>
+<div class="listing-categories">
+
+</div>
+<div class="card-text listing-description">
+
+</div>
+
+<table class="card-other-values">
+<tbody><tr>
+<td>
+path
+</td>
+<td class="path">
+/speakers/hhook.html
+</td>
+</tr>
+
+</tbody></table>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="3" data-categories="">
+<a href="../speakers/mabouelela.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img src="https://i1.rgstatic.net/ii/profile.image/11431281275194020-1725300583681_Q512/Mohamed-Abouelela-5.jpg" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Mohamed Abouelela
+</h5>
+<div class="listing-categories">
+
+</div>
+<div class="card-text listing-description">
+
+</div>
+
+<table class="card-other-values">
+<tbody><tr>
+<td>
+path
+</td>
+<td class="path">
+/speakers/mabouelela.html
+</td>
+</tr>
+
+</tbody></table>
+</div>
+</div>
+</a>
+</div>
+</div>
+<div class="listing-no-matching d-none">
+No matching items
+</div>
+</div></main> <!-- /main -->
 <script>
     const IMAGES = [
         "torre_belem",
@@ -325,6 +482,13 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     }
   }
   toggleBodyColorPrimary();  
+  const icon = "";
+  const anchorJS = new window.AnchorJS();
+  anchorJS.options = {
+    placement: 'right',
+    icon: icon
+  };
+  anchorJS.add('.anchored');
   const isCodeAnnotation = (el) => {
     for (const clz of el.classList) {
       if (clz.startsWith('code-annotation-')) {                     

@@ -118,8 +118,8 @@
 
 @media (max-width: 1200px) { 
     .speakers-gallery .quarto-figure {
-        flex-basis: 33%!important;
-        width: 33%!important;
+        flex-basis: 25%!important;
+        width: 25%!important;
     }
 }
 @media (max-width: 768px) { 
