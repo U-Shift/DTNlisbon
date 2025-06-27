@@ -42,6 +42,7 @@ website:
         - courses/course1.qmd
         - courses/course2.qmd
         - courses/course3.qmd
+        - courses/course4.qmd
     - id: info
       title: "Practical info"
       collapse-level: 2

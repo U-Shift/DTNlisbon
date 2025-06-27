@@ -1,0 +1,16 @@
+---
+title:  Mohamed Abouelela 
+image: https://i1.rgstatic.net/ii/profile.image/11431281275194020-1725300583681_Q512/Mohamed-Abouelela-5.jpg
+about:
+    template: trestles
+
+# Based on https://www.mos.ed.tum.de/en/vvs/mitarbeiterinnen/mohamed-abouelela/
+---
+
+Mohamed is a civil / transportation engineer and a lecturer specializing in Transportation System Engineering 
+with over 19 years of experience in the transportation industry. Mohamed is the head of the research group 
+**Transportation Data Analytics**. He holds a bachelor’s degree in civil engineering from **Ain Shams University**, Egypt, 
+a Master of Science, and a PhD in Transportation Systems from the **Technical University of Munich**, Germany. 
+He possesses a deep passion for data analytics and its application in solving complex transportation challenges. 
+Throughout his career, he has actively pursued opportunities to integrate data-driven insights into transportation 
+planning and decision-making processes.

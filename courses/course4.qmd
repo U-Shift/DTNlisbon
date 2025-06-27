@@ -1,0 +1,11 @@
+---
+title: 13-14th Sept. | Discrete Choice Modeling for Transport Research
+image: "/images/backgrounds/dtn.png"
+format:
+  html:
+    css: ../styles/schedule.css
+---
+
+## Instructor
+[Mohamed Abouelela](/speakers/mabouelela.html) (Technical University of Munich)
+
