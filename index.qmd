@@ -44,3 +44,16 @@ The forum features keynote speeches, panel discussions, and workshops focused on
 
 [![Kelly Clifton](https://cerc.ubc.ca/files/2023/05/Kelly-Clifton.jpg)](/speakers/kclifton.html)
 :::
+
+# Course instructors
+
+::: {layout="[[1,1,1,1,1,1,1]]" class="speakers-gallery"}
+
+[![Andres Monzon](https://www.ertrac.org/wp-content/uploads/2022/09/Andres-Monzon.jpg)](/speakers/amonzon.html)
+
+[![Robin Lovelace](https://www.robinlovelace.net/authors/admin/avatar_hu3d4a1b50dc18344f3cdc14860b8b07f2_85545_270x270_fill_q75_lanczos_center.jpg)](/speakers/rlovelace.html)
+
+[![Hannah Hook](images/speakers/hhook.jpg)](/speakers/hhook.html)
+
+[![Mohamed Abouelela](https://i1.rgstatic.net/ii/profile.image/11431281275194020-1725300583681_Q512/Mohamed-Abouelela-5.jpg)](/speakers/mabouelela.html)
+:::

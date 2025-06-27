@@ -1,0 +1,36 @@
+---
+title: "Instructors"
+image: "/images/backgrounds/dtn.png"
+
+format:
+  html:
+    css: ../styles/speakers.css
+
+listing:
+    type: grid
+    contents:
+    - path: /speakers/amonzon.html
+      image: https://www.ertrac.org/wp-content/uploads/2022/09/Andres-Monzon.jpg
+      title: Andres Monzon
+      description: ""
+      categories: []
+
+    - path: /speakers/rlovelace.html
+      image: https://www.robinlovelace.net/authors/admin/avatar_hu3d4a1b50dc18344f3cdc14860b8b07f2_85545_270x270_fill_q75_lanczos_center.jpg
+      title: Robin Lovelace
+      description: ""
+      categories: []
+
+    - path: /speakers/hhook.html
+      image: /images/speakers/hhook.jpg
+      title: Hannah Hook
+      description: ""
+      categories: []
+
+    - path: /speakers/mabouelela.html
+      image: https://i1.rgstatic.net/ii/profile.image/11431281275194020-1725300583681_Q512/Mohamed-Abouelela-5.jpg
+      title: Mohamed Abouelela
+      description: ""
+      categories: []
+
+---
