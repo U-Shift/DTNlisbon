@@ -1,14 +1,14 @@
 [
   {
-    "listing": "/speakers/index.html",
-    "items": []
-  },
-  {
     "listing": "/speakers/courses.html",
     "items": []
   },
   {
     "listing": "/info/guides.html",
+    "items": []
+  },
+  {
+    "listing": "/speakers/index.html",
     "items": []
   }
 ]
