@@ -13,3 +13,5 @@ data to generate scenarios of decarbonisation, leading to the open source books 
 recently, Geocomputation with R. Robin has wide ranging experience modeling sustainable transport systems and visualizing 
 transport futures. These skills have been applied on a number of projects with real-world applications, most recently as 
 Lead Developer of the **Propensity to Cycle Tool** and the **stplanr package** for sustainable transport planning.
+
+<div class="alert alert-light">{{< fa calendar >}} This instructor will host a course about [Tools and Skills for Reproducible Transport Research](/courses/course2.html)</div>

@@ -14,3 +14,5 @@ a Master of Science, and a PhD in Transportation Systems from the **Technical Un
 He possesses a deep passion for data analytics and its application in solving complex transportation challenges. 
 Throughout his career, he has actively pursued opportunities to integrate data-driven insights into transportation 
 planning and decision-making processes.
+
+<div class="alert alert-light">{{< fa calendar >}} This instructor will host a course about [Discrete Choice Modeling for Transport Research](/courses/course4.html)</div>

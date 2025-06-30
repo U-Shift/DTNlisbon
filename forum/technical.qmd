@@ -5,6 +5,10 @@ format:
     css: ../styles/schedule.css
 ---
 
+<div class="alert alert-light">
+  {{< fa calendar >}} This page refers to an event that will take place on the [11th September](/forum/day2.html)
+</div>
+
 On the [2nd day afternoon](/forum/day2.html), there will be technical visits to some mobility companies that operate in Potugal.
 
 <br/>

@@ -10,3 +10,5 @@ He holds a Ph.D. in Electrical and Computer Engineering from IST. He is a senior
 Processing Group (SIPg)** and has served as its group coordinator, where he conducts research in computer vision and robotics. 
 He is a former co-director of the Dual Ph.D. Program in Electrical and Computer Engineering and Robotics within the **Carnegie 
 Mellon | Portugal program**. He also served as the Scientific Director of the **Carnegie Mellon | Portugal initiative** from 2014 to 2018.
+
+<div class="alert alert-light">{{< fa calendar >}} This speaker will host a keynote on the [10th September](/forum/day1.html)</div>

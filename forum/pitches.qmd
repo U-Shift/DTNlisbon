@@ -5,6 +5,10 @@ format:
     css: ../styles/schedule.css
 ---
 
+<div class="alert alert-light">
+  {{< fa calendar >}} This page refers to an event that will take place on the [10th September](/forum/day1.html)
+</div>
+
 As part of this year’s forum, some attendees will present a brief overview of their research. 
 Please follow the instructions below to prepare your contribution.
 

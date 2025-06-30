@@ -12,3 +12,5 @@ Planning from **Nova University of Lisbon**, and a MSc in Geographic Information
 University of Lisbon**. His research is focused on urban and regional planning, specially in what concerns the integration of 
 land use and transport, transit-oriented development (TOD), walkability, bikeability and accessibility measurement, and the 
 relationships between the built environment and mobility patterns, physical activity and health.
+
+<div class="alert alert-light">{{< fa calendar >}} This speaker will host a keynote on the [11th September](/forum/day2.html)</div>

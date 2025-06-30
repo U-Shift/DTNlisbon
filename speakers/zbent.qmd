@@ -10,3 +10,5 @@ She served as Director of Design at the **National Association of City Transport
 the development of street design guidelines and supported cities in implementing Complete Streets strategies in the U.S. 
 Previously, she worked as a Transportation Planner at the **San Francisco County Transportation Authority**. She holds a 
 Masters in City Planning and a Master of Science in Transportation from **MIT**, as well as a Bachelor of Arts from **Columbia University**.
+
+<div class="alert alert-light">{{< fa calendar >}} This speaker will host a keynote on the [11th September](/forum/day2.html)</div>

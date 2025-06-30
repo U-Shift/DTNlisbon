@@ -11,3 +11,7 @@ at **Ghent University**, and previously completed two Master’s degrees in GIS 
 (**King’s College London**) and two Bachelor’s degrees in Sustainability and Business Communications (**Arizona State University**). 
 Her research focuses on the role of discretionary and undirected travel in promoting well-being, travel satisfaction, and transport equity. 
 Hannah’s work bridges mobility behaviour, the built environment, and social sustainability.
+
+<div class="alert alert-light">{{< fa calendar >}} This speaker will host a keynote on the [11th September](/forum/day2.html)</div>
+
+<div class="alert alert-light">{{< fa calendar >}} This instructor will host a course about [Qualitative Methods in Urban Mobility Research](/courses/course3.html)</div>

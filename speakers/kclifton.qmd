@@ -17,3 +17,5 @@ Associate Vice President for Research for the campus and was the former Associat
 **Maseeh College of Engineering and Computer Science**. She has also held faculty positions at the **University of Maryland**
 and **University of Iowa**. Kelly has a PhD in Community and Regional Planning from the **University of Texas** at Austin, MS 
 in Planning from the **University of Arizona**, and BS in Mechanical Engineering from **West Virginia University**. 
+
+<div class="alert alert-light">{{< fa calendar >}} This speaker will host a keynote on the [12th September](/forum/day3.html)</div>

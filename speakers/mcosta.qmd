@@ -14,3 +14,4 @@ His research interests lie at the intersection of artificial intelligence and tr
 used to objectively characterize complex phenomena while also capturing individuals’ subjective experiences. By bridging this gap, 
 he aims to inform planning and policy decisions that are both data-driven and human-centered.
 
+<div class="alert alert-light">{{< fa calendar >}} This speaker will host a keynote on the [12th September](/forum/day3.html)</div>

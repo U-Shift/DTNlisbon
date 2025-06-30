@@ -13,3 +13,5 @@ He has been the Rector´s Delegate for Sustainable Urban Mobility and Coordinato
 **MoviTUR-Mobility of the Future** since 2020. Prof. Monzon promoted the **Spanish Metropolitan Mobility Observatory** 
 and has been its Director since 2004. He founded the **Spanish Forum of Transport Engineering** and was its president from 2014 to 2023. 
 Member of the **Advisory Council of the Spanish Ministry of Transport and Sustainable Mobility** since 2015.
+
+<div class="alert alert-light">{{< fa calendar >}} This instructor will host a course about [Shared Mobility - Policy challenges and multimodal solutions](/courses/course1.html)</div>
