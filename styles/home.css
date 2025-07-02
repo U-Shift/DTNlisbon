@@ -111,25 +111,26 @@
     flex-wrap: wrap!important;
     flex-direction: row!important;
 }
-.speakers-gallery .quarto-figure {
+.speakers-gallery .quarto-layout-cell {
+    margin: 0!important;
     flex-basis: calc(100%/7)!important;
     width: calc(100%/7)!important;
 }
 
 @media (max-width: 1200px) { 
-    .speakers-gallery .quarto-figure {
+    .speakers-gallery .quarto-layout-cell {
         flex-basis: 25%!important;
         width: 25%!important;
     }
 }
 @media (max-width: 768px) { 
-    .speakers-gallery .quarto-figure {
+    .speakers-gallery .quarto-layout-cell {
         flex-basis: 50%!important;
         width: 50%!important;
     }
 }
 @media (max-width: 576px) { 
-    .speakers-gallery .quarto-figure {
+    .speakers-gallery .quarto-layout-cell {
         flex-basis: 100%!important;
         width: 100%!important;
     }
