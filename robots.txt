@@ -1,1 +1,2 @@
-Sitemap: https://u-shift.github.io/DTNlisbon/sitemap.xml
+User-agent: *
+Disallow: /
