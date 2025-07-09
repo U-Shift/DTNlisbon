@@ -12,4 +12,4 @@ collaboration and community input. Her background in political advocacy and poli
 communication and governance aspects of transit planning. Michelle has managed transit network plans and redesigns for large and small 
 cities including **Dallas, Sacramento, and Atlanta**. She is currently working on network studies in **Wales and Long Island, NY**.
 
-<div class="alert alert-light">{{< fa calendar >}} This speaker will host a keynote on the [11th September](/forum/day2.html)</div>
+<div class="alert alert-light">{{< fa calendar >}} This speaker will moderate a discussion on the [11th September](/forum/day2.html)</div>
