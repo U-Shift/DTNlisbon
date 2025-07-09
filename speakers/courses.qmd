@@ -27,10 +27,4 @@ listing:
       description: ""
       categories: []
 
-    - path: /speakers/mabouelela.html
-      image: https://i1.rgstatic.net/ii/profile.image/11431281275194020-1725300583681_Q512/Mohamed-Abouelela-5.jpg
-      title: Mohamed Abouelela
-      description: ""
-      categories: []
-
 ---

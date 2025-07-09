@@ -44,7 +44,6 @@ website:
         - courses/course1.qmd
         - courses/course2.qmd
         - courses/course3.qmd
-        - courses/course4.qmd
         - speakers/courses.qmd
     - id: info
       title: "Practical info"
@@ -82,7 +81,6 @@ website:
         - speakers/amonzon.qmd
         - speakers/rlovelace.qmd
         - speakers/hhook.qmd
-        - speakers/mabouelela.qmd
 
   page-footer: 
     left: "
