@@ -15,9 +15,9 @@ format:
 | 9:00 - 9:30 | <span class="event-outline-blue"></span> Coffee                                 |
 | 9:30        | <span class="event-filled-orange size-2"></span> Workshop               |
 | 11:15       | <span class="event-outline-blue"></span> Coffee break                           |
-| 11:40       | <span class="event-filled-green"></span> Keynote  <br/> <small>[{{< fa user >}} Kelly Clifton](/speakers/kclifton.html)</small>          |
+| 11:40       | <span class="event-filled-green"></span> *Subject to be disclosed*  <br/> <small>Keynote by [{{< fa user >}} Kelly Clifton](/speakers/kclifton.html)</small>          |
 | 12:30       | <span class="event-outline-blue"></span> Lunch                                  |
-| 13:30       | <span class="event-filled-green"></span> Keynote <br/> <small>[{{< fa user >}} Miguel Costa](/speakers/mcosta.html)</small> |
+| 13:30       | <span class="event-filled-green"></span> AI for Climate-Resilient Transport: Towards Better Quality of Life Under Climate Change <br/> <small>Keynote by [{{< fa user >}} Miguel Costa](/speakers/mcosta.html)</small> |
 | 14:15       | <span class="event-filled-blue"></span> Graduation Ceromony  |
 | 16:00       | <span class="event-outline-blue"></span> Allumni meeting            |
 | 17:00       | <span class="event-filled-red size-3"></span> Free Lisbon Tour</small>                     | 
