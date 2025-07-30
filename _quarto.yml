@@ -30,12 +30,13 @@ website:
     - id: program
       title: "Forum"
       collapse-level: 2
-      contents: 
+      contents:
         - forum/day1.qmd
         - forum/day2.qmd
         - forum/day3.qmd
         - forum/technical.qmd
         - forum/pitches.qmd
+        - forum/lisbon.qmd
         - speakers/index.qmd
     - id: courses
       title: "Courses"
@@ -82,23 +83,23 @@ website:
         - speakers/rlovelace.qmd
         - speakers/hhook.qmd
 
-  page-footer: 
+  page-footer:
     left: "
       <a href='https://www.ulisboa.pt/en' target='_blank'><img class='footer-ulisboa' src='/images/logos/ulisboa.png' /></a>
       <a href='https://tecnico.ulisboa.pt/en/' target='_blank'><img class='footer-ulisboa' src='/images/logos/ist.png' /></a>
       <a href='https://www.igot.ulisboa.pt/' target='_blank'><img class='footer-igot' src='/images/logos/igot.png' /></a>
       <a href='https://www.eiturbanmobility.eu/' target='_blank'><img class='footer-eit'src='/images/logos/eit.png' /></a>
-      " 
-    right: 
+      "
+    right:
       - icon: github
         href: https://github.com/U-Shift/dtn25
 
 
-    
+
 
 format:
   html:
-    theme: 
+    theme:
     - default
     - styles/theme.scss
     mainfont: Titillium web

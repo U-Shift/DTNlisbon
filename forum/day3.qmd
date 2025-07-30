@@ -18,7 +18,7 @@ format:
 | 11:10       | <span class="event-filled-green"></span> *Subject to be disclosed*  <br/> <small>Keynote by [{{< fa user >}} Kelly Clifton](/speakers/kclifton.html)</small>          |
 | 12:00       | <span class="event-outline-blue"></span> Lunch                                  |
 | 13:00       | <span class="event-filled-green"></span> AI for Climate-Resilient Transport: Towards Better Quality of Life Under Climate Change <br/> <small>Keynote by [{{< fa user >}} Miguel Costa](/speakers/mcosta.html)</small> |
-| 13:45       | <span class="event-filled-blue"></span> Graduation Ceromony  |
+| 14:00       | <span class="event-filled-blue"></span> Graduation Ceromony  |
 | 15:30       | <span class="event-outline-blue"></span> Allumni meeting            |
-| 16:30       | <span class="event-filled-red size-3"></span> Free Lisbon Tour</small>                     | 
+| 16:30       | <span class="event-filled-red size-3"></span> Free time<br/><small>Lisbon tour and dinner</small><br/><small>[{{< fa circle-info >}}  Some tips](/forum/lisbon.html)</small>                     | 
 :::
