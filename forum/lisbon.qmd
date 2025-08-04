@@ -1,0 +1,48 @@
+---
+title: "Free time in Lisbon"
+format: html
+---
+
+::: {.alert .alert-light}
+{{< fa calendar >}} This page refers to an event that will take place on the [12th September](/forum/day3.html)
+:::
+
+**Suggestions for having a wander around Lisbon - neighborhoods, viewpoints, drinks and a spot of dinner**
+
+Lisbon is a city rich with winding streets, beautiful viewpoints in which to catch the sunset, and lovely bars and restaurants to stop for a drink and some nibbles. We leave you, then, with some suggestions and inspiration on what to do and where to go after the DTN Annual Forum.
+
+## Alfama
+
+**Head up to Alfama, one of Europe’s oldest neighborhoods**
+
+![Photo by [Joao](https://unsplash.com/@zymot?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash){target="_blank"} on [Unsplash](https://unsplash.com/photos/a-group-of-buildings-that-are-next-to-each-other-gniZLwQi1mQ?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash){target="_blank"}](https://images.unsplash.com/photo-1640039151385-d9fed53037de?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D){.preview-image}
+
+There’s plenty to see and routes you can take (and wandering around is the best part!), but we would suggest starting your itinerary around the [Igreja de Santo António](https://maps.app.goo.gl/mjFF6FKUQQg661CbA){target="_blank"} and the [Sé](https://maps.app.goo.gl/J2ytJSpsoQt5Xjcf6){target="_blank"}. The Lisbon Cathedral is almost 9 centuries old, and from there you’re presented a choice - up the hill to [Rua Augusto Rosa](https://maps.app.goo.gl/xT23mERVCotxT4Zq9){target="_blank"}, or down the hill to [Cruzes da Sé](https://maps.app.goo.gl/EryyzJZCQaGvTRXu7){target="_blank"}.
+
+Uphill, climb up to the first viewpoint, [Santa Luzia](https://maps.app.goo.gl/AVpfPCRA8FSJ45px8){target="_blank"}. If you’re already hungry, [Alpendre](https://maps.app.goo.gl/9fxWbqyTLgCGajaM8){target="_blank"} is a great traditional restaurant on the way. If not, keep going until [Portas do Sol](https://maps.app.goo.gl/tckpfg3FHa2RAitm7){target="_blank"}, one of the most beautiful lookout points in the city. Stop awhile for a drink at [The Terrace](https://maps.app.goo.gl/KV5B96nruCCVVnwR6){target="_blank"}, climb a little further up to [Rua das Escolas Gerais](https://maps.app.goo.gl/BefpBgCoEpGwaKBk8){target="_blank"}, and make your way to the [Santo Estevão belvedere](https://maps.app.goo.gl/V6bD5Ro9tunNjTSX6){target="_blank"}. There’s plenty of good restaurants around, but we’d suggest [Lisboa Tu & Eu](https://maps.app.goo.gl/Qn5349KrwxQwUaPf7){target="_blank"}, [A Morgadinha](https://maps.app.goo.gl/G4prfpA3vWWvndu47){target="_blank"}, [Taberna Sal Grosso](https://maps.app.goo.gl/KGF9LTLdWqxRVgbN8){target="_blank"}, and [Sr. Fado](https://maps.app.goo.gl/DDtuizSTpt4Sn5dh7){target="_blank"}.
+
+Downhill, have a stroll down [Rua Cruzes da Sé](https://maps.app.goo.gl/zzth1TGv5hrsLmoT7){target="_blank"}, through the [Largo de São Miguel](https://maps.app.goo.gl/T5GEj1XApYYEGp61A){target="_blank"}, down to the [Largo do Chafariz de Dentro](https://maps.app.goo.gl/fuWonDHAzaGC4qBw5){target="_blank"}. Have a [ginginha](https://maps.app.goo.gl/48L5v8KnGV7e8X4D8){target="_blank"} (sour cherry liqueur) and refer to the restaurant suggestions we’ve mentioned above.
+
+## Graça
+
+**Grab the funicular to beautiful and vibrant Graça**
+
+![Photo by [Anna Dziubinska](https://unsplash.com/@annadziubinska?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash){target="_blank"} on [Unsplash](https://unsplash.com/photos/assorted-color-building-under-cloudy-blue-sky-during-daytime--33ZZ-YflN8?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash){target="_blank"}](https://images.unsplash.com/photo-1501080254287-69204825cf5f?q=80&w=1169&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)
+
+Lisbon is one of the Cities on Seven Hills, so we do have shortcuts! Take the funicular up to the [Miradouro Sophia de Mello Breyner Andresen](https://maps.app.goo.gl/vQY2jsDfrAfHwzzv9){target="_blank"}. Have a drink and a snack in one of the many cafés on the way to or on the main square ([Largo da Graça](https://maps.app.goo.gl/yUrGQ1k9GtT8uzPZ6){target="_blank"}) - we are partial to both [Cabreira](https://maps.app.goo.gl/MVgV34cyFRiaqyX2A){target="_blank"} and [Saga](https://maps.app.goo.gl/4s92UMuQw6gmMH56A){target="_blank"} for some pastries and coffee. Then do climb further up to the [Miradouro Senhora do Monte](https://maps.app.goo.gl/M3fb9TJQGCvin29r8){target="_blank"}, Lisbon highest viewpoint, for a breathtaking sunset view.
+
+![Photo by [TheDumpy](https://commons.wikimedia.org/wiki/User:TheDumpy){target="_blank"} on [Wikimedia](https://commons.wikimedia.org/wiki/File:Lisbon_Sunset_from_Miradouro_da_Gra%C3%A7a.jpg){target="_blank"}](https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Lisbon_Sunset_from_Miradouro_da_Gra%C3%A7a.jpg/960px-Lisbon_Sunset_from_Miradouro_da_Gra%C3%A7a.jpg?20221028190423)
+
+For dinner, we recommend [O Pitéu da Graça](https://maps.app.goo.gl/rrMH2ZmyJWZbngn7A){target="_blank"}, [Via Graça](https://maps.app.goo.gl/kZqHcZPAJ1tCrYiP6){target="_blank"}, [Sant’Avó](https://maps.app.goo.gl/HhTmoGQ9nFJXRVmF6){target="_blank"} and [Taberna do Mar](https://maps.app.goo.gl/GUf8BEER88pAGmyRA){target="_blank"}.
+
+## Mouraria
+
+**Meander through Mouraria, the Moorish Quarter**
+
+Up the hill, but with two shortcuts! Take the first lift from [Rua dos Fanqueiros](https://maps.app.goo.gl/ET9yXaxCn7hohNg38){target="_blank"} to [Largo Adelino Amaro da Costa](https://maps.app.goo.gl/4gBdSVGdXqRD8PU67){target="_blank"} and, if you’re already feeling peckish, treat yourself to one of the best sandwiches in town and have a bifana (pork sandwich) at [Bifanas do Afonso](https://maps.app.goo.gl/bDD4sURBfFQqWZuaA){target="_blank"}. Then take the second lift inside [Chão de Loureiro](https://maps.app.goo.gl/CdyE6f14jzwrPxnw8){target="_blank"} and chill with a drink at the gorgeous viewpoint on top.
+
+Come down the street to [São Cristovão](https://maps.app.goo.gl/ne93kBSHM6MVXXdp6){target="_blank"}, and have a wander around the streets and alleys of Mouraria - we recommend taking the stairs to[Largo da Achada](https://maps.app.goo.gl/6mRsjdpHFU7fsCBq6){target="_blank"}, then coming down to [Beco das Farinhas](https://maps.app.goo.gl/KbwmWwV4eQQtifPy5){target="_blank"} to take a look at Tribute, a permanent photography exhibit featuring the neighborhood’s oldest residents. Make your way to [Largo dos Trigueiros](https://maps.app.goo.gl/tH8aPdvm6HRfTPWj7){target="_blank"}, with two excellent choices for some dining - [O Corvo](https://maps.app.goo.gl/dwZpJ1VDW8V1jb8M9){target="_blank"}, and [Cantinho do Aziz](https://maps.app.goo.gl/NSGLGPxCqhPMznPQ9){target="_blank"} (for some excellent samosas). We also thoroughly recommend [O Velho Eurico](https://maps.app.goo.gl/J7xUT4VCRVvdnjsz5){target="_blank"} and [Tasca Baldracca](https://maps.app.goo.gl/UZ5GR3qT4bCjx9vg8){target="_blank"}, both serving new twists on traditional portuguese fare.
+
+::: r-stack
+![Photo by [Fabien Rousselot](https://unsplash.com/@where_is_fab?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash){target="_blank"} on [Unsplash](https://unsplash.com/photos/aerial-photography-of-concrete-buildings-under-clear-blue-sky-rq2JlqLvRjo?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash){target="_blank"} ](https://images.unsplash.com/photo-1515938336459-5bc4dbbadc08?q=80&w=626&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D){width="50%"}
+:::
