@@ -15,7 +15,7 @@ format:
 | 8:30 - 9:00 | <span class="event-outline-blue"></span> Coffee                                 |
 | 9:00        | <span class="event-filled-orange size-2"></span> Workshop               |
 | 10:45       | <span class="event-outline-blue"></span> Coffee break                           |
-| 11:10       | <span class="event-filled-green"></span> *Subject to be disclosed*  <br/> <small>Keynote by [{{< fa user >}} Kelly Clifton](/speakers/kclifton.html)</small>          |
+| 11:10       | <span class="event-filled-green"></span> Interdisciplinarity: Why Transportation Needs a Diversity of Viewpoints  <br/> <small>Keynote by [{{< fa user >}} Kelly Clifton](/speakers/kclifton.html)</small>          |
 | 12:00       | <span class="event-outline-blue"></span> Lunch                                  |
 | 13:00       | <span class="event-filled-green"></span> AI for Climate-Resilient Transport: Towards Better Quality of Life Under Climate Change <br/> <small>Keynote by [{{< fa user >}} Miguel Costa](/speakers/mcosta.html)</small> |
 | 14:00       | <span class="event-filled-blue"></span> Graduation Ceromony  |
