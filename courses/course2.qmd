@@ -37,8 +37,8 @@ format:
 | --- | ---- |
 | 09:30 | <span class="event-filled-green"></span> Drafting a reproducible paper |
 | | <span class="event-filled-green"></span> Generating reproducible publication-quality visualisations |
-| 12:00 | <span class="event-outline-blue"></span> Lunch |
-| 13:00 | <span class="event-filled-green"></span> Editing other people’s work |
+| 12:30 | <span class="event-outline-blue"></span> Lunch |
+| 13:30 | <span class="event-filled-green"></span> Editing other people’s work |
 | | <span class="event-filled-green"></span> Working on papers |
 | | <span class="event-filled-green"></span> Presentations and wrap-up |
 :::
