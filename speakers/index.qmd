@@ -52,7 +52,7 @@ listing:
       categories: []
 
     - path: /speakers/rmacario.html
-      image: https://www.clsbe.lisboa.ucp.pt/sites/default/files/styles/square_portrait/public/assets/images/rosario_macario.jpg?itok=NdH84Wdt
+      image: /images/speakers/rmacario.jpg
       title: Rosário Macário
       description: ""
       categories: []

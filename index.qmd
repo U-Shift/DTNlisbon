@@ -44,7 +44,7 @@ The forum features keynote speeches, panel discussions, and workshops focused on
 
 [![Kelly Clifton](https://cerc.ubc.ca/files/2023/05/Kelly-Clifton.jpg)](/speakers/kclifton.html)
 
-[![Rosário Macário](https://www.clsbe.lisboa.ucp.pt/sites/default/files/styles/square_portrait/public/assets/images/rosario_macario.jpg?itok=NdH84Wdt)](/speakers/rmacario.html)
+[![Rosário Macário](images/speakers/rmacario.jpg)](/speakers/rmacario.html)
 :::
 
 # Course instructors
