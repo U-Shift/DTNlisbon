@@ -132,28 +132,26 @@
     flex-wrap: wrap!important;
     flex-direction: row!important;
 }
-.speakers-gallery .quarto-layout-cell {
+.speakers-gallery .quarto-layout-cell, .speakers-gallery .quarto-figure {
     margin: 0!important;
     flex-basis: calc(100%/7)!important;
     width: calc(100%/7)!important;
 }
 
-@media (max-width: 1200px) {
-    .speakers-gallery .quarto-layout-cell {
+@media (max-width: 1200px) { 
+    .speakers-gallery .quarto-layout-cell, .speakers-gallery .quarto-figure{
         flex-basis: 25%!important;
         width: 25%!important;
     }
 }
-@media (max-width: 768px) {
-    .speakers-gallery .quarto-layout-cell {
+@media (max-width: 768px) { 
+    .speakers-gallery .quarto-layout-cell, .speakers-gallery .quarto-figure {
         flex-basis: 50%!important;
         width: 50%!important;
     }
 }
-@media (max-width: 576px) {
-    .speakers-gallery .quarto-layout-cell {
+@media (max-width: 576px) { 
+    .speakers-gallery .quarto-layout-cell, .speakers-gallery .quarto-figure {
         flex-basis: 100%!important;
         width: 100%!important;
     }
-}
-
