@@ -98,8 +98,8 @@
     flex-direction: row!important;
 }
 .quick-links .quarto-layout-cell {
-    flex-basis: calc(100%/4)!important;
-    width: calc(100%/4)!important;
+    flex-basis: calc(100%/3)!important;
+    width: calc(100%/3)!important;
     margin: 0!important;
     padding: 10px!important;
 }
