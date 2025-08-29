@@ -4,7 +4,7 @@
     "href": "forum/day2.html",
     "title": "11th Sept. (Thursday)",
     "section": "",
-    "text": "Preliminary schedule This schedule is only indicative and might be subject to changes.\n\n\n\n\n\n8:30 - 9:00\n Registration / coffee\n\n\n9:00\n Welcome\n\n\n9:15\n Connecting Practical Insights and Meaningful Mobility Outcomes Keynote by  Zabe Bent\n\n\n10:00\n Revaluing mobility through experience, diversity, and equity in transport planning  Allumni talks by  Hannah Hook\n\n\n10:45\n Coffee break\n\n\n11:10\n Parallel discussions  Subject to be disclosedModerated by  David Vale High Ridership Comes from Diversity, Not Specialization  Moderated by  Michelle Poyourow\n\n\n12:00\n Lunch\n\n\n13:00\n DTN official group photo\n\n\n13:30\n Technical visits  More details\n\n\n17:00\n Free timeWe suggest a visit to  Marvila Riverside Park, which is just a 5-7 min walk from the social event that follows\n\n\n18:30\n Social event Meeting point"
+    "text": "8:30 - 9:00\n Registration / coffee\n\n\n9:00\n Welcome\n\n\n9:15\n Connecting Practical Insights and Meaningful Mobility Outcomes Keynote by  Zabe Bent\n\n\n10:00\n Revaluing mobility through experience, diversity, and equity in transport planning  Allumni talks by  Hannah Hook\n\n\n10:45\n Coffee break\n\n\n11:10\n Parallel discussions  Subject to be disclosedModerated by  David Vale High Ridership Comes from Diversity, Not Specialization  Moderated by  Michelle Poyourow\n\n\n12:00\n Lunch\n\n\n13:00\n DTN official group photo\n\n\n13:30\n Technical visits  More details\n\n\n17:00\n Free timeWe suggest a visit to  Marvila Riverside Park, which is just a 5-7 min walk from the social event that follows\n\n\n18:30\n Social event Meeting point"
   },
   {
     "objectID": "forum/lisbon.html",
@@ -39,14 +39,14 @@
     "href": "forum/day3.html",
     "title": "12th Sept. (Friday)",
     "section": "",
-    "text": "Preliminary schedule This schedule is only indicative and might be subject to changes.\n\n\n\n\n\n8:30 - 9:00\n Coffee\n\n\n9:00\n Workshop\n\n\n10:45\n Coffee break\n\n\n11:10\n Interdisciplinarity: Why Transportation Needs a Diversity of Viewpoints  Keynote by  Kelly Clifton\n\n\n12:00\n Lunch\n\n\n13:00\n AI for Climate-Resilient Transport: Towards Better Quality of Life Under Climate Change  Keynote by  Miguel Costa\n\n\n14:00\n Graduation Ceromony\n\n\n15:30\n Allumni meeting\n\n\n16:30\n Free timeLisbon tour and dinner Some tips"
+    "text": "8:30 - 9:00\n Coffee\n\n\n9:00\n Workshop\n\n\n10:45\n Coffee break\n\n\n11:10\n Interdisciplinarity: Why Transportation Needs a Diversity of Viewpoints  Keynote by  Kelly Clifton\n\n\n12:00\n Lunch\n\n\n13:00\n AI for Climate-Resilient Transport: Towards Better Quality of Life Under Climate Change  Keynote by  Miguel Costa\n\n\n14:00\n Graduation Ceromony\n\n\n15:30\n Allumni meeting\n\n\n16:30\n Free timeLisbon tour and dinner Some tips"
   },
   {
     "objectID": "forum/day1.html",
     "href": "forum/day1.html",
     "title": "10th Sept. (Wednesday)",
     "section": "",
-    "text": "Preliminary schedule This schedule is only indicative and might be subject to changes.\n\n\n\n\n\n8:00 - 9:00\n Registration / coffee\n\n\n9:00\n Welcome\n\n\n09:30\n Think! Data won’t tell the full story!  Keynote by  João Paulo Costeira\n\n\n10:15\n Coffee break\n\n\n10:45\n PhD poster pitching  Instructions\n\n\n12:15\n Lunch\n\n\n14:00\n Lisbon Public Transit Experience\n\n\n15:30\n Outdoor activity Metting point: ///playful.straw.boxing\n\n\n19:30\n Dinner Meeting point"
+    "text": "8:00 - 9:00\n Registration / coffee\n\n\n9:00\n Welcome\n\n\n09:30\n Think! Data won’t tell the full story!  Keynote by  João Paulo Costeira\n\n\n10:15\n Coffee break\n\n\n10:45\n PhD poster pitching  Instructions\n\n\n12:15\n Lunch\n\n\n14:00\n Lisbon Public Transit Experience\n\n\n15:30\n Outdoor activity Metting point: ///playful.straw.boxing\n\n\n19:30\n Dinner Meeting point"
   },
   {
     "objectID": "forum/pitches.html",
@@ -133,18 +133,18 @@
     "text": "Learning objectives\n\nBe able to share reproducible code for more scientific and transparent transport research\nTo be confident reproducing your own work and that of others\nTo become skilled at using Git and GitHub to manage versions of your code and collaborate with others\nTo be able to write reproducible content that can be exported to a variety of formats with the Quarto system for scientific publishing\nTo understand how Quarto extensions can be used as a basis for creating publication-ready papers\nTo be aware of ‘continuous integration’ and ‘GitHub Actions’ and how they can be used to ensure reproducibility, share your work, and save time\nUnderstanding of best practices around code sharing and collaboration for reproducible research in transport planning"
   },
   {
-    "objectID": "courses/course2.html#preliminary-schedule-day-1-8-sept.",
-    "href": "courses/course2.html#preliminary-schedule-day-1-8-sept.",
+    "objectID": "courses/course2.html#schedule-day-1-8-sept.",
+    "href": "courses/course2.html#schedule-day-1-8-sept.",
     "title": "8-9th Sept. | Tools and Skills for Reproducible Transport Research",
-    "section": "Preliminary Schedule Day 1 (8 Sept.)",
-    "text": "Preliminary Schedule Day 1 (8 Sept.)\n\n\n\n\n\n\n\n\n9:30\n Introduction\n\n\n\n Development environments, system commands, and version control\n\n\n\n Sharing code and data\n\n\n12:30\n Lunch\n\n\n13:30\n Reproducible papers and documentation with Quarto\n\n\n\n Cross-references and citations with Quarto"
+    "section": "Schedule Day 1 (8 Sept.)",
+    "text": "Schedule Day 1 (8 Sept.)\n\n\n\n\n\n\n\n\n9:30\n Introduction\n\n\n\n Development environments, system commands, and version control\n\n\n\n Sharing code and data\n\n\n12:30\n Lunch\n\n\n13:30\n Reproducible papers and documentation with Quarto\n\n\n\n Cross-references and citations with Quarto"
   },
   {
-    "objectID": "courses/course2.html#preliminary-schedule-day-2-9-sept.",
-    "href": "courses/course2.html#preliminary-schedule-day-2-9-sept.",
+    "objectID": "courses/course2.html#schedule-day-2-9-sept.",
+    "href": "courses/course2.html#schedule-day-2-9-sept.",
     "title": "8-9th Sept. | Tools and Skills for Reproducible Transport Research",
-    "section": "Preliminary Schedule Day 2 (9 Sept.)",
-    "text": "Preliminary Schedule Day 2 (9 Sept.)\n\n\n\n\n\n\n\n\n09:30\n Drafting a reproducible paper\n\n\n\n Generating reproducible publication-quality visualisations\n\n\n12:30\n Lunch\n\n\n13:30\n Editing other people’s work\n\n\n\n Working on papers\n\n\n\n Presentations and wrap-up"
+    "section": "Schedule Day 2 (9 Sept.)",
+    "text": "Schedule Day 2 (9 Sept.)\n\n\n\n\n\n\n\n\n09:30\n Drafting a reproducible paper\n\n\n\n Generating reproducible publication-quality visualisations\n\n\n12:30\n Lunch\n\n\n13:30\n Editing other people’s work\n\n\n\n Working on papers\n\n\n\n Presentations and wrap-up"
   },
   {
     "objectID": "courses/course1.html",
@@ -168,18 +168,18 @@
     "text": "Content\n\nState of the practice\nResearch activities & results\nGovernance models and experience\nFuture trends and research opportunities"
   },
   {
-    "objectID": "courses/course1.html#preliminary-schedule-day-1-8-sept.",
-    "href": "courses/course1.html#preliminary-schedule-day-1-8-sept.",
+    "objectID": "courses/course1.html#schedule-day-1-8-sept.",
+    "href": "courses/course1.html#schedule-day-1-8-sept.",
     "title": "8-9th Sept. | Shared Mobility - Policy challenges and multimodal solutions",
-    "section": "Preliminary Schedule Day 1 (8 Sept.)",
-    "text": "Preliminary Schedule Day 1 (8 Sept.)\n\n\n\n\n\n\n\n\n9:00\n Welcome & Presentation\n\n\n\n Lecture 1 (Introduction): Sharing economy and shared mobility\n\n\n\n Lecture 2: Shared mobility solutions - Review international experiences\n\n\n\n Workshop: Analysis of barriers, challenges, negative and positive impacts of shared mobility\n\n\n12:30\n Lunch\n\n\n13:30\n Lecture 3: Sharing in Practice: car sharing\n\n\n\n Workshop 2: Different solutions in different cities"
+    "section": "Schedule Day 1 (8 Sept.)",
+    "text": "Schedule Day 1 (8 Sept.)\n\n\n\n\n\n\n\n\n9:00\n Welcome & Presentation\n\n\n\n Lecture 1 (Introduction): Sharing economy and shared mobility\n\n\n\n Lecture 2: Shared mobility solutions - Review international experiences\n\n\n\n Workshop: Analysis of barriers, challenges, negative and positive impacts of shared mobility\n\n\n12:30\n Lunch\n\n\n13:30\n Lecture 3: Sharing in Practice: car sharing\n\n\n\n Workshop 2: Different solutions in different cities"
   },
   {
-    "objectID": "courses/course1.html#preliminary-schedule-day-2-9-sept.",
-    "href": "courses/course1.html#preliminary-schedule-day-2-9-sept.",
+    "objectID": "courses/course1.html#schedule-day-2-9-sept.",
+    "href": "courses/course1.html#schedule-day-2-9-sept.",
     "title": "8-9th Sept. | Shared Mobility - Policy challenges and multimodal solutions",
-    "section": "Preliminary Schedule Day 2 (9 Sept.)",
-    "text": "Preliminary Schedule Day 2 (9 Sept.)\n\n\n\n\n\n\n\n\n09:00\n Lecture 4: Sharing in Practice - scooters and mopeds\n\n\n\n Lecture 5: Sharing in Practice - bike-sharing\n\n\n\n Discussed Survey: Different solutions for different contexts\n\n\n12:30\n Lunch\n\n\n13:30\n Lecture 6: Research gaps and policy trends\n\n\n\n Workshop 3: Public Transport and sharing - SWOT Analysis\n\n\n\n Closing: Shared-Mobility Roadmap - research and policy challenges"
+    "section": "Schedule Day 2 (9 Sept.)",
+    "text": "Schedule Day 2 (9 Sept.)\n\n\n\n\n\n\n\n\n09:00\n Lecture 4: Sharing in Practice - scooters and mopeds\n\n\n\n Lecture 5: Sharing in Practice - bike-sharing\n\n\n\n Discussed Survey: Different solutions for different contexts\n\n\n12:30\n Lunch\n\n\n13:30\n Lecture 6: Research gaps and policy trends\n\n\n\n Workshop 3: Public Transport and sharing - SWOT Analysis\n\n\n\n Closing: Shared-Mobility Roadmap - research and policy challenges"
   },
   {
     "objectID": "courses/course3.html",
@@ -203,18 +203,18 @@
     "text": "Learning objectives\n\nIntroduce doctoral researchers to the basic techniques of qualitative methods and provide knowledge on how to perform reproducible research.\nProvide doctoral researchers with the skills to design research and data collection protocols.\nExplain how technological transitions, such as the invention of GenAI, can affect qualitative research, and the implications for biases and ethics."
   },
   {
-    "objectID": "courses/course3.html#preliminary-schedule-day-1-13-sept.",
-    "href": "courses/course3.html#preliminary-schedule-day-1-13-sept.",
+    "objectID": "courses/course3.html#schedule-day-1-13-sept.",
+    "href": "courses/course3.html#schedule-day-1-13-sept.",
     "title": "13-14th Sept. | Qualitative Methods in Urban Mobility Research",
-    "section": "Preliminary Schedule Day 1 (13 Sept.)",
-    "text": "Preliminary Schedule Day 1 (13 Sept.)\n\n\n\n\n\n\n\n\n9:30\n Lecture: Introduction to Qualitative Research\n\n\n\n Workshop: Designing a Qualitative Study Using Case-Based Methods\n\n\n13:00\n Lunch\n\n\n13:45\n Lecture: Practical Guidelines for Analyzing Textual Data\n\n\n\n Workshop: Developing Data Collection Protocols\n\n\n\n Presentation: Research Plans and Protocols"
+    "section": "Schedule Day 1 (13 Sept.)",
+    "text": "Schedule Day 1 (13 Sept.)\n\n\n\n\n\n\n\n\n9:30\n Lecture: Introduction to Qualitative Research\n\n\n\n Workshop: Designing a Qualitative Study Using Case-Based Methods\n\n\n13:00\n Lunch\n\n\n13:45\n Lecture: Practical Guidelines for Analyzing Textual Data\n\n\n\n Workshop: Developing Data Collection Protocols\n\n\n\n Presentation: Research Plans and Protocols"
   },
   {
-    "objectID": "courses/course3.html#preliminary-schedule-day-2-14-sept.",
-    "href": "courses/course3.html#preliminary-schedule-day-2-14-sept.",
+    "objectID": "courses/course3.html#schedule-day-2-14-sept.",
+    "href": "courses/course3.html#schedule-day-2-14-sept.",
     "title": "13-14th Sept. | Qualitative Methods in Urban Mobility Research",
-    "section": "Preliminary Schedule Day 2 (14 Sept.)",
-    "text": "Preliminary Schedule Day 2 (14 Sept.)\n\n\n\n\n\n\n\n\n9:30\n Lecture: Integrating AI into Qualitative Research\n\n\n\n Workshop: Manual coding of textual data\n\n\n12:45\n Lunch\n\n\n13:30\n Workshop: Coding with ChatGPT:\n\n\n\n Presentation: Demonstrating insights from qualitative research"
+    "section": "Schedule Day 2 (14 Sept.)",
+    "text": "Schedule Day 2 (14 Sept.)\n\n\n\n\n\n\n\n\n9:30\n Lecture: Integrating AI into Qualitative Research\n\n\n\n Workshop: Manual coding of textual data\n\n\n12:45\n Lunch\n\n\n13:30\n Workshop: Coding with ChatGPT:\n\n\n\n Presentation: Demonstrating insights from qualitative research"
   },
   {
     "objectID": "speakers/jcosteira.html",
@@ -222,6 +222,13 @@
     "title": "João Paulo Costeira",
     "section": "",
     "text": "João Paulo Costeira is an Associate Professor at the Instituto Superior Técnico (IST), University of Lisbon. He holds a Ph.D. in Electrical and Computer Engineering from IST. He is a senior researcher with the Signal and Image Processing Group (SIPg) and has served as its group coordinator, where he conducts research in computer vision and robotics. He is a former co-director of the Dual Ph.D. Program in Electrical and Computer Engineering and Robotics within the Carnegie Mellon | Portugal program. He also served as the Scientific Director of the Carnegie Mellon | Portugal initiative from 2014 to 2018.\n\n This speaker will host a keynote on the 10th September"
+  },
+  {
+    "objectID": "speakers/jzamora.html",
+    "href": "speakers/jzamora.html",
+    "title": "Juan P. Fonseca-Zamora",
+    "section": "",
+    "text": "Juan P. Fonseca-Zamora is a PhD student enrolled in the 4-year integrated PhD and MSc programme in Data Analytics and Society at the Leeds Institute for Data Analytics (LIDA).\nHe previously completed an MSc in Transport Planning and the Environment at the Institute for Transport Studies, University of Leeds, and worked in industry as a transport planner for three years. During this time in consultancy, he developed a strong interest in the use of open resources to better understand and address transport challenges.\nHis doctoral research focuses on developing transferable and scalable methods for traffic estimation on residential roads using open data. His research interests include open data, open source tools, spatial analysis, sustainable transport, and transport planning and modelling.\n\n This instructor will host a course about Tools and Skills for Reproducible Transport Research"
   },
   {
     "objectID": "speakers/kclifton.html",
@@ -245,6 +252,13 @@
     "text": "Hannah Hook is DTN Alumni and will soon start an Assistant Professor position of Sustainable Land Use and Transport Planning in the Department of the Built Environment at Aalto University, Finland. She completed her PhD and is currently a postdoctoral researcher at Ghent University, and previously completed two Master’s degrees in GIS Technology (University of Arizona) and Sustainable Cities (King’s College London) and two Bachelor’s degrees in Sustainability and Business Communications (Arizona State University). Her research focuses on the role of discretionary and undirected travel in promoting well-being, travel satisfaction, and transport equity. Hannah’s work bridges mobility behaviour, the built environment, and social sustainability.\n\n This speaker will host a keynote on the 11th September\n\n\n This instructor will host a course about Qualitative Methods in Urban Mobility Research"
   },
   {
+    "objectID": "speakers/rmacario.html",
+    "href": "speakers/rmacario.html",
+    "title": "Rosário Macário",
+    "section": "",
+    "text": "Maria Rosário Macário, Full Professor of Planning, Urbanism and Environment, Researcher in Transport Systems with experience in all modes for more than 25 years, passionate about policy and planning, with a strong focus on urban mobility (including freight) and air transport policy and planning and benefiting from a practice of 20 years in the air transport business as flight operations officer (ICAO license). She developed pioneering management models for urban mobility and logistics, applied in countries like Brazil, Portugal, Indonesia, and Ukraine. She is founder and Editor-in-Chief of Case Studies on Transport Policy (Elsevier), active in international research networks, and a frequent lecturer worldwide. Rosário has led EU-funded projects, authored key books, and contributed to policy frameworks like the EU Guidelines for Urban Logistics. She helped integrate the University of Lisbon into EIT Urban Mobility and founded IASA to foster societal change through knowledge and awareness. She also serves on editorial boards and advisory committees in Portugal and internationally."
+  },
+  {
     "objectID": "speakers/amonzon.html",
     "href": "speakers/amonzon.html",
     "title": "Andres Monzon",
@@ -256,7 +270,7 @@
     "href": "speakers/index.html",
     "title": "Speakers",
     "section": "",
-    "text": "João Paulo Costeira\n\n\n\n\n\n\n\n\n\n\n\npath\n\n\n/speakers/jcosteira.html\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nZabe Bent\n\n\n\n\n\n\n\n\n\n\n\npath\n\n\n/speakers/zbent.html\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nHannah Hook\n\n\n\n\n\n\n\n\n\n\n\npath\n\n\n/speakers/hhook.html\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nDavid Vale\n\n\n\n\n\n\n\n\n\n\n\npath\n\n\n/speakers/dvale.html\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMichelle Poyourow\n\n\n\n\n\n\n\n\n\n\n\npath\n\n\n/speakers/mpoyourow.html\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMiguel Costa\n\n\n\n\n\n\n\n\n\n\n\npath\n\n\n/speakers/mcosta.html\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nKelly Clifton\n\n\n\n\n\n\n\n\n\n\n\npath\n\n\n/speakers/kclifton.html\n\n\n\n\n\n\n\n\n\n\nNo matching items"
+    "text": "João Paulo Costeira\n\n\n\n\n\n\n\n\n\n\n\npath\n\n\n/speakers/jcosteira.html\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nZabe Bent\n\n\n\n\n\n\n\n\n\n\n\npath\n\n\n/speakers/zbent.html\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nHannah Hook\n\n\n\n\n\n\n\n\n\n\n\npath\n\n\n/speakers/hhook.html\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nDavid Vale\n\n\n\n\n\n\n\n\n\n\n\npath\n\n\n/speakers/dvale.html\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMichelle Poyourow\n\n\n\n\n\n\n\n\n\n\n\npath\n\n\n/speakers/mpoyourow.html\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMiguel Costa\n\n\n\n\n\n\n\n\n\n\n\npath\n\n\n/speakers/mcosta.html\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nKelly Clifton\n\n\n\n\n\n\n\n\n\n\n\npath\n\n\n/speakers/kclifton.html\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nRosário Macário\n\n\n\n\n\n\n\n\n\n\n\npath\n\n\n/speakers/rmacario.html\n\n\n\n\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "speakers/rlovelace.html",
@@ -284,7 +298,7 @@
     "href": "speakers/courses.html",
     "title": "Instructors",
     "section": "",
-    "text": "Andres Monzon\n\n\n\n\n\n\n\n\n\n\n\npath\n\n\n/speakers/amonzon.html\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nRobin Lovelace\n\n\n\n\n\n\n\n\n\n\n\npath\n\n\n/speakers/rlovelace.html\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nHannah Hook\n\n\n\n\n\n\n\n\n\n\n\npath\n\n\n/speakers/hhook.html\n\n\n\n\n\n\n\n\n\n\nNo matching items"
+    "text": "Andres Monzon\n\n\n\n\n\n\n\n\n\n\n\npath\n\n\n/speakers/amonzon.html\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nRobin Lovelace\n\n\n\n\n\n\n\n\n\n\n\npath\n\n\n/speakers/rlovelace.html\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nJuan P. Fonseca-Zamora\n\n\n\n\n\n\n\n\n\n\n\npath\n\n\n/speakers/jzamora.html\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nHannah Hook\n\n\n\n\n\n\n\n\n\n\n\npath\n\n\n/speakers/hhook.html\n\n\n\n\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "speakers/zbent.html",
