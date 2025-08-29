@@ -7,7 +7,7 @@ format:
 ---
 
 ## Instructor
-[Robin Lovelace](/speakers/rlovelace.html) (University of Leeds) & Juan Fonseca-Zamora (University of Leeds)
+[Robin Lovelace](/speakers/rlovelace.html) (University of Leeds) & [Juan Fonseca-Zamora](/speakers/jzamora.html) (University of Leeds)
 
 ## Learning objectives
 1. Be able to share reproducible code for more scientific and transparent transport research

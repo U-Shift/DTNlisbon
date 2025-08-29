@@ -81,6 +81,7 @@ website:
         - speakers/courses.qmd
         - speakers/amonzon.qmd
         - speakers/rlovelace.qmd
+        - speakers/jzamora.qmd
         - speakers/hhook.qmd
 
   page-footer:

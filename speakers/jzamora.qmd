@@ -1,0 +1,23 @@
+---
+title: Juan P. Fonseca-Zamora
+image: https://environment.leeds.ac.uk/images/resized/500x500-0-0-1-80-Untitled_design__13__1.png
+about:
+    template: trestles
+
+# Based on https://environment.leeds.ac.uk/geography/pgr/11291/juan-p-fonseca-zamora, adapted with ChatGPT
+---
+
+Juan P. Fonseca-Zamora is a PhD student enrolled in the 4-year integrated PhD and MSc programme in 
+Data Analytics and Society at the **Leeds Institute for Data Analytics (LIDA)**.
+
+He previously completed an MSc in Transport Planning and the Environment at the **Institute for Transport 
+Studies, University of Leeds**, and worked in industry as a transport planner for three years. 
+During this time in consultancy, he developed a strong interest in the use of open resources to 
+better understand and address transport challenges.
+
+His doctoral research focuses on developing transferable and scalable methods for traffic 
+estimation on residential roads using open data. His research interests include open data, 
+open source tools, spatial analysis, sustainable transport, and transport planning and modelling.
+
+
+<div class="alert alert-light">{{< fa calendar >}} This instructor will host a course about [Tools and Skills for Reproducible Transport Research](/courses/course2.html)</div>

@@ -21,6 +21,12 @@ listing:
       description: ""
       categories: []
 
+    - path: /speakers/jzamora.html
+      image: https://environment.leeds.ac.uk/images/resized/500x500-0-0-1-80-Untitled_design__13__1.png
+      title: Juan P. Fonseca-Zamora
+      description: ""
+      categories: []
+
     - path: /speakers/hhook.html
       image: /images/speakers/hhook.jpg
       title: Hannah Hook
