@@ -74,6 +74,7 @@ website:
         - speakers/mpoyourow.qmd
         - speakers/mcosta.qmd
         - speakers/kclifton.qmd
+        - speakers/rmacario.qmd
     - id: instructors
       title: "Course instructors"
       collapse-level: 2

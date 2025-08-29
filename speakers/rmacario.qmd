@@ -1,0 +1,22 @@
+---
+title: Rosário Macário
+image: https://www.clsbe.lisboa.ucp.pt/sites/default/files/styles/square_portrait/public/assets/images/rosario_macario.jpg?itok=NdH84Wdt
+about:
+    template: trestles
+
+# Based on https://www.cienciavitae.pt/portal/DD18-E97B-DC14
+---
+
+Maria Rosário Macário, Full Professor of Planning, Urbanism and Environment, Researcher in Transport 
+Systems with experience in all modes for more than 25 years, passionate about policy and planning, 
+with a strong focus on urban mobility (including freight) and air transport policy and planning 
+and benefiting from a practice of 20 years in the air transport business as flight operations 
+officer (**ICAO license**). She developed pioneering management models for urban mobility and 
+logistics, applied in countries like **Brazil, Portugal, Indonesia, and Ukraine**. 
+She is founder and Editor-in-Chief of **Case Studies on Transport Policy (Elsevier)**, 
+active in international research networks, and a frequent lecturer worldwide. 
+Rosário has led EU-funded projects, authored key books, and contributed to policy 
+frameworks like the EU Guidelines for Urban Logistics. She helped integrate the 
+**University of Lisbon** into **EIT Urban Mobility** and founded **IASA** to foster societal 
+change through knowledge and awareness. She also serves on editorial boards and advisory 
+committees in Portugal and internationally. 

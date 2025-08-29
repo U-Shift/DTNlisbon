@@ -28,7 +28,7 @@ The forum features keynote speeches, panel discussions, and workshops focused on
 
 # Forum speakers
 
-::: {layout="[[1,1,1,1,1,1,1]]" class="speakers-gallery"}
+::: {layout="[[1,1,1,1,1,1,1, 1]]" class="speakers-gallery"}
 
 [![João Paulo Costeira](https://isr.tecnico.ulisboa.pt/wp-content/uploads/2019/10/JPCosteira-e1580906950532.jpg)](/speakers/jcosteira.html)
 
@@ -43,6 +43,8 @@ The forum features keynote speeches, panel discussions, and workshops focused on
 [![Miguel Costa](https://ushift.tecnico.ulisboa.pt/home/wp-content/uploads/2019/07/MG_1677-768x768.jpg)](/speakers/mcosta.html)
 
 [![Kelly Clifton](https://cerc.ubc.ca/files/2023/05/Kelly-Clifton.jpg)](/speakers/kclifton.html)
+
+[![Rosário Macário](https://www.clsbe.lisboa.ucp.pt/sites/default/files/styles/square_portrait/public/assets/images/rosario_macario.jpg?itok=NdH84Wdt)](/speakers/rmacario.html)
 :::
 
 # Course instructors

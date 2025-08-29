@@ -50,4 +50,10 @@ listing:
       title: Kelly Clifton
       description: ""
       categories: []
+
+    - path: /speakers/rmacario.html
+      image: https://www.clsbe.lisboa.ucp.pt/sites/default/files/styles/square_portrait/public/assets/images/rosario_macario.jpg?itok=NdH84Wdt
+      title: Rosário Macário
+      description: ""
+      categories: []
 ---
