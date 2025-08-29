@@ -19,7 +19,7 @@ format:
 7. Understanding of best practices around code sharing and collaboration for reproducible research in transport planning
 
 
-## Preliminary Schedule Day 1 (8 Sept.)
+## Schedule Day 1 (8 Sept.)
 ::: {.schedule-forum}
 | |  |
 | --- | ---- |
@@ -31,7 +31,7 @@ format:
 | | <span class="event-filled-green"></span> Cross-references and citations with Quarto |
 :::
 
-## Preliminary Schedule Day 2 (9 Sept.)
+## Schedule Day 2 (9 Sept.)
 ::: {.schedule-forum}
 | |  |
 | --- | ---- |

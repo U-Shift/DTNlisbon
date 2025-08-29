@@ -16,7 +16,7 @@ format:
 4. Future trends and research opportunities
 
 
-## Preliminary Schedule Day 1 (8 Sept.)
+## Schedule Day 1 (8 Sept.)
 ::: {.schedule-forum}
 | |  |
 | --- | ---- |
@@ -29,7 +29,7 @@ format:
 | | <span class="event-filled-orange"></span> Workshop 2: Different solutions in different cities |
 :::
 
-## Preliminary Schedule Day 2 (9 Sept.)
+## Schedule Day 2 (9 Sept.)
 ::: {.schedule-forum}
 | |  |
 | --- | ---- |

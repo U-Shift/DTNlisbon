@@ -15,7 +15,7 @@ format:
 3. Explain how technological transitions, such as the invention of GenAI, can affect qualitative research, and the implications for biases and ethics.
 
 
-## Preliminary Schedule Day 1 (13 Sept.)
+## Schedule Day 1 (13 Sept.)
 ::: {.schedule-forum}
 | |  |
 | --- | ---- |
@@ -27,7 +27,7 @@ format:
 | | <span class="event-filled-orange"></span> Presentation: Research Plans and Protocols |
 :::
 
-## Preliminary Schedule Day 2 (14 Sept.)
+## Schedule Day 2 (14 Sept.)
 ::: {.schedule-forum}
 | |  |
 | --- | ---- |
