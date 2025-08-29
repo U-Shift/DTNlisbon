@@ -50,10 +50,4 @@ listing:
       title: Kelly Clifton
       description: ""
       categories: []
-
-    - path: /speakers/rmacario.html
-      image: /images/speakers/rmacario.jpg
-      title: Rosário Macário
-      description: ""
-      categories: []
 ---

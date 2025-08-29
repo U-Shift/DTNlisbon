@@ -17,3 +17,5 @@ Economics and financing. She stands for a systemic and integrated view of urban 
 prioritising accessibility as a value and a strategic goal in any city or urban area. 
 She acts as advisor of several governments and international investment agencies in **Europe, 
 South America and Africa**. 
+
+<div class="alert alert-light">{{< fa calendar >}} This instructor will host a course about [Shared Mobility - Policy challenges and multimodal solutions](/courses/course1.html)</div>

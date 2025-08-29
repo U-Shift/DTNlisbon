@@ -134,8 +134,8 @@
 }
 .speakers-gallery .quarto-layout-cell, .speakers-gallery .quarto-figure {
     margin: 0!important;
-    flex-basis: calc(100%/8)!important;
-    width: calc(100%/8)!important;
+    flex-basis: calc(100%/7)!important;
+    width: calc(100%/7)!important;
 }
 
 @media (max-width: 1200px) { 
@@ -146,8 +146,8 @@
 }
 @media (max-width: 768px) { 
     .speakers-gallery .quarto-layout-cell, .speakers-gallery .quarto-figure {
-        flex-basis: 33%!important;
-        width: 33%!important;
+        flex-basis: 50%!important;
+        width: 50%!important;
     }
 }
 @media (max-width: 576px) { 
