@@ -31,7 +31,7 @@ format:
     <div class="modal__container" role="dialog" aria-modal="true" aria-labelledby="plant-modal-title">
       <header>
         <h2 id="plant-modal-title">Teste</h2>
-        <button aria-label="Close modal" data-micromodal-close class="btn btn-ouline-secondary">🗙</button>
+        <button aria-label="Close modal" data-micromodal-close class="btn btn-ouline-secondary"><i class="fa-solid fa-xmark"></i></button>
       </header>
       <main>
         <img id="plant-modal-img" src="" alt="Loading..." style="max-width:100%; border-radius:8px;" />
