@@ -29,6 +29,8 @@ div.schedule-forum table, div.schedule-courses table {
 table tr > td:last-of-type {
     border-radius: 32px;
     padding: 1rem;
+    display: flex!important;
+    flex-direction: column;
 }
 table td:has(.event-outline-blue) {
     border: 1px solid #0798C6 !important;
@@ -44,6 +46,9 @@ table td:has(.event-filled-orange) {
 table td:has(.event-filled-blue) {
     color: #fff!important;
     background-color: #0798C6 !important;
+}
+table td a{
+    color: #0798C6!important;
 }
 table td:has(.event-filled-blue) a, table td:has(.event-filled-green) a, table td:has(.event-filled-orange) a, table td:has(.event-filled-red) a {
     color: #fff!important;
@@ -63,3 +68,5 @@ table td:has(.size-3) {
 p {
     margin-bottom: 0;
 }
+
+.plant-trigger, .text-right {margin-left: auto;}

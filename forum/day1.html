@@ -294,15 +294,15 @@ ul.task-list li input[type="checkbox"] {
 <tbody>
 <tr class="odd">
 <td>8:00 - 9:00</td>
-<td><span class="event-outline-blue"></span> Registration / coffee</td>
+<td><span class="event-outline-blue"></span> Registration / coffee <br><a class="plant-trigger small" data-plant-title="Ground floor: Check-in desk" data-plant-url="/images/plant/ground.png" href="#">Check-in desk <i class="fa-solid fa-location-pin" aria-label="location-pin"></i></a></td>
 </tr>
 <tr class="even">
 <td>9:00</td>
-<td><span class="event-outline-blue"></span> Welcome</td>
+<td><span class="event-outline-blue"></span> Welcome <br><a class="plant-trigger small" data-plant-title="Upper floor: Auditorium" data-plant-url="/images/plant/upper.png" href="#">Auditorium <i class="fa-solid fa-location-pin" aria-label="location-pin"></i></a></td>
 </tr>
 <tr class="odd">
 <td>09:30</td>
-<td><span class="event-filled-green"></span> Think! Data won’t tell the full story! <br> <small>Keynote by <small><a href="../speakers/jcosteira.html"><i class="fa-solid fa-user" aria-label="user"></i> João Paulo Costeira</a></small></small></td>
+<td><span class="event-filled-green"></span> Think! Data won’t tell the full story! <br> <small>Keynote by <a href="../speakers/jcosteira.html"><i class="fa-solid fa-user" aria-label="user"></i> João Paulo Costeira</a></small> <br><a class="plant-trigger small" data-plant-title="Upper floor: Auditorium" data-plant-url="/images/plant/upper.png" href="#"> Auditorium <i class="fa-solid fa-location-pin" aria-label="location-pin"></i></a></td>
 </tr>
 <tr class="even">
 <td>10:15</td>
@@ -322,15 +322,64 @@ ul.task-list li input[type="checkbox"] {
 </tr>
 <tr class="even">
 <td>15:30</td>
-<td><span class="event-filled-blue size-2"></span> Outdoor activity<br><small><i class="fa-solid fa-location-pin" aria-label="location-pin"></i> <a href="https://what3words.com/" target="_blank">Metting point</a>: ///playful.straw.boxing</small></td>
+<td><span class="event-filled-blue size-2"></span> Outdoor activity<br><small class="text-right"><a href="https://what3words.com/" target="_blank">Metting point</a>: ///playful.straw.boxing <i class="fa-solid fa-location-pin" aria-label="location-pin"></i></small></td>
 </tr>
 <tr class="odd">
 <td>19:30</td>
-<td><span class="event-filled-red size-3"></span> Dinner<br><small><a href="https://maps.app.goo.gl/GSfd9HhDmz6WWY1H7" target="_blank"><i class="fa-solid fa-location-pin" aria-label="location-pin"></i> Meeting point</a></small></td>
+<td><span class="event-filled-red size-3"></span> Dinner<br><small class="text-right"><a href="https://maps.app.goo.gl/GSfd9HhDmz6WWY1H7" target="_blank">Meeting point <i class="fa-solid fa-location-pin" aria-label="location-pin"></i></a></small></td>
 </tr>
 </tbody>
 </table>
 </div>
+<script src="https://unpkg.com/micromodal/dist/micromodal.min.js"></script>
+
+<div class="modal micromodal-slide" id="plant-modal" aria-hidden="true">
+  <div class="modal__overlay" tabindex="-1" data-micromodal-close="">
+    <div class="modal__container" role="dialog" aria-modal="true" aria-labelledby="plant-modal-title">
+      <header>
+        <h2 id="plant-modal-title" class="anchored">Teste</h2>
+        <button aria-label="Close modal" data-micromodal-close="" class="btn btn-ouline-secondary">🗙</button>
+      </header>
+      <main>
+        <img id="plant-modal-img" src="" alt="" style="max-width:100%; border-radius:8px;">
+      </main>
+
+      <p>For the full building plan, check the <a href="../info/venue.html">venue</a> page.</p>
+    </div>
+  </div>
+</div>
+
+<script>
+document.addEventListener("DOMContentLoaded", function() {
+  // Initialize Micromodal with explicit modal id
+  MicroModal.init({
+    openTrigger: 'data-micromodal-trigger',
+    closeTrigger: 'data-micromodal-close',
+    disableScroll: true,
+    awaitOpenAnimation: false,
+    awaitCloseAnimation: false
+  });
+
+  // Attach dynamic trigger handler
+  document.querySelectorAll(".plant-trigger").forEach(function(trigger) {
+    trigger.addEventListener("click", function(e) {
+      e.preventDefault();
+
+      // Read data attributes
+      const title = trigger.getAttribute("data-plant-title");
+      const url   = trigger.getAttribute("data-plant-url");
+
+      // Update modal content
+      document.getElementById("plant-modal-title").textContent = title;
+      document.getElementById("plant-modal-img").setAttribute("src", url);
+
+      // Open the modal safely
+      MicroModal.show("plant-modal");
+    });
+  });
+});
+</script>
+
 
 
 
