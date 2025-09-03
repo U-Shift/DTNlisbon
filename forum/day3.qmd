@@ -9,13 +9,72 @@ format:
 ::: {.schedule-forum}
 | |  |
 | --- | ---- |
-| 8:15 - 8:45 | <span class="event-outline-blue"></span> Coffee                                 |
-| 8:45        | <span class="event-filled-orange size-2"></span> Workshop               |
-| 10:45       | <span class="event-outline-blue"></span> Coffee break                           |
-| 11:10       | <span class="event-filled-green"></span> Interdisciplinarity: Why Transportation Needs a Diversity of Viewpoints  <br/> <small>Keynote by [{{< fa user >}} Kelly Clifton](/speakers/kclifton.html)</small>          |
-| 12:00       | <span class="event-outline-blue"></span> Lunch                                  |
-| 13:00       | <span class="event-filled-green"></span> AI for Climate-Resilient Transport: Towards Better Quality of Life Under Climate Change <br/> <small>Keynote by [{{< fa user >}} Miguel Costa](/speakers/mcosta.html)</small> |
-| 14:00       | <span class="event-filled-blue"></span> Graduation Ceremony  |
+| 8:15 - 8:45 | <span class="event-outline-blue"></span> Coffee     <br/><a class="plant-trigger small" data-plant-title="Uper floor: Coffee station" data-plant-url="/images/plant/upper_coffee.png" href="#">Coffee station  {{< fa location-pin >}}</a>                           |
+| 8:45        | <span class="event-filled-orange size-2"></span> Workshop   <br/><a class="plant-trigger small" data-plant-title="Exterior: Workshop area" data-plant-url="/images/plant/ground_exterior.png" href="#">Exterior  {{< fa location-pin >}}</a>            |
+| 10:45       | <span class="event-outline-blue"></span> Coffee break      <br/><a class="plant-trigger small" data-plant-title="Exterior: Coffee break area" data-plant-url="/images/plant/ground_cb.png" href="#">Exterior {{< fa location-pin >}}</a>                     |
+| 11:10       | <span class="event-filled-green"></span> Interdisciplinarity: Why Transportation Needs a Diversity of Viewpoints  <br/> <small>Keynote by [{{< fa user >}} Kelly Clifton](/speakers/kclifton.html)</small>       <br/><a class="plant-trigger small" data-plant-title="Upper floor: Auditorium" data-plant-url="/images/plant/upper_auditorium.png" href="#">Auditorium  {{< fa location-pin >}}</a>   |
+| 12:00       | <span class="event-outline-blue"></span> Lunch          <br/><a class="plant-trigger small" data-plant-title="Exterior: Coffee break area" data-plant-url="/images/plant/ground_cb.png" href="#">Exterior  {{< fa location-pin >}}</a>                        |
+| 13:00       | <span class="event-filled-green"></span> AI for Climate-Resilient Transport: Towards Better Quality of Life Under Climate Change <br/> <small>Keynote by [{{< fa user >}} Miguel Costa](/speakers/mcosta.html)</small> <br/><a class="plant-trigger small" data-plant-title="Upper floor: Auditorium" data-plant-url="/images/plant/upper_auditorium.png" href="#">Auditorium  {{< fa location-pin >}}</a> |
+| 14:00       | <span class="event-filled-blue"></span> Graduation Ceremony  <br/><a class="plant-trigger small" data-plant-title="Upper floor: Auditorium" data-plant-url="/images/plant/upper_auditorium.png" href="#">Auditorium  {{< fa location-pin >}}</a> |
 | 15:30       | <span class="event-outline-blue"></span> Allumni meeting            |
 | 16:30       | <span class="event-filled-red size-3"></span> Free time<br/><small>Lisbon tour and dinner</small><br/><small>[{{< fa circle-info >}}  Some tips](/forum/lisbon.html)</small>                     | 
 :::
+
+
+
+
+
+```{=html}
+<script src="https://unpkg.com/micromodal/dist/micromodal.min.js"></script>
+
+<div class="modal micromodal-slide" id="plant-modal" aria-hidden="true">
+  <div class="modal__overlay" tabindex="-1" data-micromodal-close>
+    <div class="modal__container" role="dialog" aria-modal="true" aria-labelledby="plant-modal-title">
+      <header>
+        <h2 id="plant-modal-title">Teste</h2>
+        <button aria-label="Close modal" data-micromodal-close class="btn btn-ouline-secondary">🗙</button>
+      </header>
+      <main>
+        <img id="plant-modal-img" src="" alt="" style="max-width:100%; border-radius:8px;" />
+      </main>
+
+      <img id="plant-legend" src="/images/plant/legend.png" alt="" style="max-width:100%; border-radius:8px;" />
+
+      <p style="margin-top: 32px;">For the full building plan, check the <a href="/info/venue.html">venue</a> page.</p>
+    </div>
+  </div>
+</div>
+
+<script>
+document.addEventListener("DOMContentLoaded", function() {
+  // Initialize Micromodal with explicit modal id
+  MicroModal.init({
+    openTrigger: 'data-micromodal-trigger',
+    closeTrigger: 'data-micromodal-close',
+    disableScroll: true,
+    awaitOpenAnimation: false,
+    awaitCloseAnimation: false
+  });
+
+  // Attach dynamic trigger handler
+  document.querySelectorAll(".plant-trigger").forEach(function(trigger) {
+    trigger.addEventListener("click", function(e) {
+      e.preventDefault();
+      document.getElementById("plant-modal-img").setAttribute("src", "#");
+
+      // Read data attributes
+      const title = trigger.getAttribute("data-plant-title");
+      const url   = trigger.getAttribute("data-plant-url");
+
+      // Update modal content
+      document.getElementById("plant-modal-title").textContent = title;
+      document.getElementById("plant-modal-img").setAttribute("src", url);
+
+      // Open the modal safely
+      MicroModal.show("plant-modal");
+    });
+  });
+});
+</script>
+
+```
