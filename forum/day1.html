@@ -294,7 +294,7 @@ ul.task-list li input[type="checkbox"] {
 <tbody>
 <tr class="odd">
 <td>8:00 - 9:00</td>
-<td><span class="event-outline-blue"></span> Registration / coffee <br><a class="plant-trigger small" data-plant-title="Ground floor: Check-in desk" data-plant-url="/images/plant/ground_checkin.png" href="#">Check-in desk <i class="fa-solid fa-location-pin" aria-label="location-pin"></i></a></td>
+<td><span class="event-outline-blue"></span> Registration / coffee <br><a class="plant-trigger small" data-plant-title="Ground floor: Check-in area" data-plant-url="/images/plant/ground_checkin.png" href="#">Check-in area <i class="fa-solid fa-location-pin" aria-label="location-pin"></i></a> <br><a class="plant-trigger small" data-plant-title="Upper floor: Coffee station" data-plant-url="/images/plant/upper_coffee.png" href="#">Coffee station <i class="fa-solid fa-location-pin" aria-label="location-pin"></i></a></td>
 </tr>
 <tr class="even">
 <td>9:00</td>
@@ -302,19 +302,19 @@ ul.task-list li input[type="checkbox"] {
 </tr>
 <tr class="odd">
 <td>09:30</td>
-<td><span class="event-filled-green"></span> Think! Data won’t tell the full story! <br> <small>Keynote by <a href="../speakers/jcosteira.html"><i class="fa-solid fa-user" aria-label="user"></i> João Paulo Costeira</a></small> <br><a class="plant-trigger small" data-plant-title="Upper floor: Auditorium" data-plant-url="/images/plant/upper.png" href="#"> Auditorium <i class="fa-solid fa-location-pin" aria-label="location-pin"></i></a></td>
+<td><span class="event-filled-green"></span> Think! Data won’t tell the full story! <br> <small>Keynote by <a href="../speakers/jcosteira.html"><i class="fa-solid fa-user" aria-label="user"></i> João Paulo Costeira</a></small> <br><a class="plant-trigger small" data-plant-title="Upper floor: Auditorium" data-plant-url="/images/plant/upper_auditorium.png" href="#"> Auditorium <i class="fa-solid fa-location-pin" aria-label="location-pin"></i></a></td>
 </tr>
 <tr class="even">
 <td>10:15</td>
-<td><span class="event-outline-blue"></span> Coffee break <br><a class="plant-trigger small" data-plant-title="Ground floor: Coffee break area" data-plant-url="/images/plant/ground_cb.png" href="#">Exterior <i class="fa-solid fa-location-pin" aria-label="location-pin"></i></a></td>
+<td><span class="event-outline-blue"></span> Coffee break <br><a class="plant-trigger small" data-plant-title="Exterior: Coffee break area" data-plant-url="/images/plant/ground_cb.png" href="#">Exterior <i class="fa-solid fa-location-pin" aria-label="location-pin"></i></a></td>
 </tr>
 <tr class="odd">
 <td>10:45</td>
-<td><span class="event-filled-orange size-2"></span> PhD poster pitching <br><small><a href="../forum/pitches.html"><i class="fa-solid fa-circle-info" aria-label="circle-info"></i> Instructions</a></small> <br><a class="plant-trigger small" data-plant-title="Upper floor: Auditorium" data-plant-url="/images/plant/upper.png" href="#"> Auditorium <i class="fa-solid fa-location-pin" aria-label="location-pin"></i></a></td>
+<td><span class="event-filled-orange size-2"></span> PhD poster pitching <br><small><a href="../forum/pitches.html"><i class="fa-solid fa-circle-info" aria-label="circle-info"></i> Instructions</a></small> <br><a class="plant-trigger small" data-plant-title="Upper floor: Auditorium" data-plant-url="/images/plant/upper_auditorium.png" href="#"> Auditorium <i class="fa-solid fa-location-pin" aria-label="location-pin"></i></a></td>
 </tr>
 <tr class="even">
 <td>12:15</td>
-<td><span class="event-outline-blue"></span> Lunch <br><a class="plant-trigger small" data-plant-title="Ground floor: Coffee break area" data-plant-url="/images/plant/ground_cb.png" href="#">Exterior <i class="fa-solid fa-location-pin" aria-label="location-pin"></i></a></td>
+<td><span class="event-outline-blue"></span> Lunch <br><a class="plant-trigger small" data-plant-title="Exterior: Coffee break area" data-plant-url="/images/plant/ground_cb.png" href="#">Exterior <i class="fa-solid fa-location-pin" aria-label="location-pin"></i></a></td>
 </tr>
 <tr class="odd">
 <td>14:00</td>
@@ -366,6 +366,7 @@ document.addEventListener("DOMContentLoaded", function() {
   document.querySelectorAll(".plant-trigger").forEach(function(trigger) {
     trigger.addEventListener("click", function(e) {
       e.preventDefault();
+      document.getElementById("plant-modal-img").setAttribute("src", "#");
 
       // Read data attributes
       const title = trigger.getAttribute("data-plant-title");

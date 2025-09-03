@@ -40,6 +40,8 @@ ul.task-list li input[type="checkbox"] {
 <script src="../site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
 <link href="../site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="light">
+<link href="../site_libs/quarto-contrib/fontawesome6-1.2.0/all.min.css" rel="stylesheet">
+<link href="../site_libs/quarto-contrib/fontawesome6-1.2.0/latex-fontsize.css" rel="stylesheet">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -274,6 +276,10 @@ ul.task-list li input[type="checkbox"] {
 <h2 class="anchored" data-anchor-id="instructor">Instructor</h2>
 <p><a href="../speakers/hhook.html">Hannah Hook</a> (Ghent University, Department of Geography)</p>
 </section>
+<section id="location" class="level2">
+<h2 class="anchored" data-anchor-id="location">Location</h2>
+<p><a class="plant-trigger small mt-1" data-plant-title="Upper floor: Room 2.2" data-plant-url="/images/plant/upper_22.png" href="#"><i class="fa-solid fa-location-pin" aria-label="location-pin"></i> Room 2.2</a></p>
+</section>
 <section id="learning-objectives" class="level2">
 <h2 class="anchored" data-anchor-id="learning-objectives">Learning objectives</h2>
 <ol type="1">
@@ -351,6 +357,58 @@ ul.task-list li input[type="checkbox"] {
 </tbody>
 </table>
 </div>
+<script src="https://unpkg.com/micromodal/dist/micromodal.min.js"></script>
+
+<div class="modal micromodal-slide" id="plant-modal" aria-hidden="true">
+  <div class="modal__overlay" tabindex="-1" data-micromodal-close="">
+    <div class="modal__container" role="dialog" aria-modal="true" aria-labelledby="plant-modal-title">
+      <header>
+        <h2 id="plant-modal-title" class="anchored">Teste</h2>
+        <button aria-label="Close modal" data-micromodal-close="" class="btn btn-ouline-secondary">🗙</button>
+      </header>
+      <main>
+        <img id="plant-modal-img" src="" alt="" style="max-width:100%; border-radius:8px;">
+      </main>
+
+      <img id="plant-legend" src="../images/plant/legend.png" alt="" style="max-width:100%; border-radius:8px;">
+
+      <p style="margin-top: 32px;">For the full building plan, check the <a href="../info/venue.html">venue</a> page.</p>
+    </div>
+  </div>
+</div>
+
+<script>
+document.addEventListener("DOMContentLoaded", function() {
+  // Initialize Micromodal with explicit modal id
+  MicroModal.init({
+    openTrigger: 'data-micromodal-trigger',
+    closeTrigger: 'data-micromodal-close',
+    disableScroll: true,
+    awaitOpenAnimation: false,
+    awaitCloseAnimation: false
+  });
+
+  // Attach dynamic trigger handler
+  document.querySelectorAll(".plant-trigger").forEach(function(trigger) {
+    trigger.addEventListener("click", function(e) {
+      e.preventDefault();
+      document.getElementById("plant-modal-img").setAttribute("src", "#");
+
+      // Read data attributes
+      const title = trigger.getAttribute("data-plant-title");
+      const url   = trigger.getAttribute("data-plant-url");
+
+      // Update modal content
+      document.getElementById("plant-modal-title").textContent = title;
+      document.getElementById("plant-modal-img").setAttribute("src", url);
+
+      // Open the modal safely
+      MicroModal.show("plant-modal");
+    });
+  });
+});
+</script>
+
 
 
 </section>
