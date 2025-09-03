@@ -15,7 +15,7 @@ The DTN Annual Forum 2025 will be hosted at Institute of Geography and Spatial P
 Check-in is performed in the ground floor, right at the entrance of the building. Talks, discusions and courses will take place on the 1st floor. The garden outside will also host some activities, coffee breaks and lunches. Refer to the schedule for more details.
 
 # Ground floor
-![](/images/plant/Floor0.jpg)
+![](/images/plant/Floor0.png)
 
-# 1st floor
-![](/images/plant/Floor1.jpg)
+# Upper floor
+![](/images/plant/Floor1.png)

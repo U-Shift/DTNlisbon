@@ -56,3 +56,4 @@
 /* micromodal override */
 .modal h2 {margin: 0; flex-grow: 1;}
 .modal header {display: flex; flex-direction: row; flex-wrap: nowrap; justify-content: space-between;}
+.modal .modal__container {min-width: 0!important; max-width: 99vw!important;}

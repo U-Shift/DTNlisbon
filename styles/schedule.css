@@ -69,4 +69,4 @@ p {
     margin-bottom: 0;
 }
 
-.plant-trigger {margin-left: auto;}
+.plant-trigger, .text-right {margin-left: auto;}
