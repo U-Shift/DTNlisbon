@@ -1,0 +1,12 @@
+---
+title: "Organization quick links"
+format:
+  html:
+    css: ../styles/tasks.css
+---
+
+<a href="/org/tasks.html"><button class="btn btn-secondary" style="width: 100%;">Tasks</button></a>
+
+<a href="https://drive.google.com/drive/folders/14wCFyMhfo0cuvGkSN2ThJ3blQdvxkJ4U?usp=drive_link" target="_blank">
+    <button class="btn btn-secondary" style="width: 100%;">Shared folder (Google Drive)</button>
+</a>
