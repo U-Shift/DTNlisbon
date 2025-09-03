@@ -338,10 +338,10 @@ ul.task-list li input[type="checkbox"] {
     <div class="modal__container" role="dialog" aria-modal="true" aria-labelledby="plant-modal-title">
       <header>
         <h2 id="plant-modal-title" class="anchored">Teste</h2>
-        <button aria-label="Close modal" data-micromodal-close="" class="btn btn-ouline-secondary">🗙</button>
+        <button aria-label="Close modal" data-micromodal-close="" class="btn btn-ouline-secondary"><i class="fa-solid fa-xmark"></i></button>
       </header>
       <main>
-        <img id="plant-modal-img" src="" alt="" style="max-width:100%; border-radius:8px;">
+        <img id="plant-modal-img" src="" alt="Loading..." style="max-width:100%; border-radius:8px;">
       </main>
 
       <img id="plant-legend" src="../images/plant/legend.png" alt="" style="max-width:100%; border-radius:8px;">
@@ -359,14 +359,16 @@ document.addEventListener("DOMContentLoaded", function() {
     closeTrigger: 'data-micromodal-close',
     disableScroll: true,
     awaitOpenAnimation: false,
-    awaitCloseAnimation: false
+    awaitCloseAnimation: false,
+    onClose: () => {
+      document.getElementById("plant-modal-img").setAttribute("src", "");
+    }
   });
 
   // Attach dynamic trigger handler
   document.querySelectorAll(".plant-trigger").forEach(function(trigger) {
     trigger.addEventListener("click", function(e) {
       e.preventDefault();
-      document.getElementById("plant-modal-img").setAttribute("src", "#");
 
       // Read data attributes
       const title = trigger.getAttribute("data-plant-title");
