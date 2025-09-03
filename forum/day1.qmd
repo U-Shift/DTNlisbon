@@ -9,9 +9,9 @@ format:
 ::: {.schedule-forum}
 | |  |
 | --- | ---- |
-| 8:00 - 9:00 | <span class="event-outline-blue"></span> Registration / coffee    |
-| 9:00        | <span class="event-outline-blue"></span> Welcome                   |
-| 09:30       | <span class="event-filled-green"></span> Think! Data won’t tell the full story! <br/> <small>Keynote by <small>[{{< fa user >}} João Paulo Costeira](/speakers/jcosteira.html)</small>     |
+| 8:00 - 9:00 | <span class="event-outline-blue"></span> Registration / coffee <br/><a class="plant-trigger small" data-plant-title="Check-in desk" data-plant-url="/images/plant/Floor0.jpg" href="#">{{< fa location-pin >}}  Check-in desk</a>   |
+| 9:00        | <span class="event-outline-blue"></span> Welcome  <br/><a class="plant-trigger small" data-plant-title="Auditorium" data-plant-url="/images/plant/Floor0.jpg" href="#">{{< fa location-pin >}}  Auditorium</a>                 |
+| 09:30       | <span class="event-filled-green"></span> Think! Data won’t tell the full story! <br/> <small>Keynote by [{{< fa user >}} João Paulo Costeira](/speakers/jcosteira.html)</small> <br/><a class="plant-trigger small" data-plant-title="Auditorium" data-plant-url="/images/plant/Floor0.jpg" href="#">{{< fa location-pin >}}  Auditorium</a>     |
 | 10:15       | <span class="event-outline-blue"></span> Coffee break              |
 | 10:45       | <span class="event-filled-orange size-2"></span> PhD poster pitching  <br/><small>[{{< fa circle-info >}}  Instructions](/forum/pitches.html)</small> |
 | 12:15       | <span class="event-outline-blue"></span> Lunch                     |
@@ -19,3 +19,56 @@ format:
 | 15:30       | <span class="event-filled-blue size-2"></span> Outdoor activity<br/><small>{{< fa location-pin >}} [Metting point](https://what3words.com/){target="_blank"}: ///playful.straw.boxing</small> | 
 | 19:30       | <span class="event-filled-red size-3"></span> Dinner<br/><small>[{{< fa location-pin >}}  Meeting point](https://maps.app.goo.gl/GSfd9HhDmz6WWY1H7){target="_blank"} |   
 :::
+
+
+
+
+```{=html}
+<script src="https://unpkg.com/micromodal/dist/micromodal.min.js"></script>
+
+<div class="modal micromodal-slide" id="plant-modal" aria-hidden="true">
+  <div class="modal__overlay" tabindex="-1" data-micromodal-close>
+    <div class="modal__container" role="dialog" aria-modal="true" aria-labelledby="plant-modal-title">
+      <header>
+        <h2 id="plant-modal-title">Teste</h2>
+        <button aria-label="Close modal" data-micromodal-close class="btn btn-ouline-secondary">🗙</button>
+      </header>
+      <main>
+        <img id="plant-modal-img" src="" alt="Plant image" style="max-width:100%; border-radius:8px;" />
+      </main>
+    </div>
+  </div>
+</div>
+
+<script>
+document.addEventListener("DOMContentLoaded", function() {
+  // Initialize Micromodal with explicit modal id
+  MicroModal.init({
+    openTrigger: 'data-micromodal-trigger',
+    closeTrigger: 'data-micromodal-close',
+    disableScroll: true,
+    awaitOpenAnimation: false,
+    awaitCloseAnimation: false
+  });
+
+  // Attach dynamic trigger handler
+  document.querySelectorAll(".plant-trigger").forEach(function(trigger) {
+    trigger.addEventListener("click", function(e) {
+      e.preventDefault();
+
+      // Read data attributes
+      const title = trigger.getAttribute("data-plant-title");
+      const url   = trigger.getAttribute("data-plant-url");
+
+      // Update modal content
+      document.getElementById("plant-modal-title").textContent = title;
+      document.getElementById("plant-modal-img").setAttribute("src", url);
+
+      // Open the modal safely
+      MicroModal.show("plant-modal");
+    });
+  });
+});
+</script>
+
+```

@@ -52,3 +52,7 @@
 #quarto-sidebar-glass {
     display: none!important;
 }
+
+/* micromodal override */
+.modal h2 {margin: 0; flex-grow: 1;}
+.modal header {display: flex; flex-direction: row; flex-wrap: nowrap; justify-content: space-between;}
