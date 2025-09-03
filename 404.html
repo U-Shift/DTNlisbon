@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>DTN Lisbon 2025  - Page Not Found</title>
+<title>DTN Lisbon 2025  -</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -63,7 +63,7 @@ ul.task-list li input[type="checkbox"] {
 
 
 <link rel="stylesheet" href="/styles.css">
-<meta name="twitter:title" content="DTN Lisbon 2025  - Page Not Found">
+<meta name="twitter:title" content="DTN Lisbon 2025  -">
 <meta name="twitter:description" content="">
 <meta name="twitter:image" content="https://www.dtnlisbon.pt/images/logos/dtn_lisbon.png">
 <meta name="twitter:image-height" content="426">
@@ -211,24 +211,54 @@ ul.task-list li input[type="checkbox"] {
 <!-- main -->
 <main class="content" id="quarto-document-content">
 
-<header id="title-block-header" class="quarto-title-block default">
-<div class="quarto-title">
-<h1 class="title">Page Not Found</h1>
-</div>
 
 
+<p><span id="not-found"> Loading… </span></p>
+<script>
+(async function() {
+  const path = window.location.pathname.replace(/^\/+/, "");
 
-<div class="quarto-title-meta">
+  try {
+    // Fetch a CSV file (must be served with CORS enabled if from another domain)
+    const res = await fetch("https://docs.google.com/spreadsheets/d/e/2PACX-1vSDe56NIcdV0XKcBMVieAkVl_Yfg0PmIHK9Ftcs99iXQbIK7kJPDAMH8wiZ7nSLKm2yo5E8OqQ8rg94/pub?gid=0&single=true&output=csv");
+    if (!res.ok) throw new Error("CSV not found");
 
-    
-  
-    
-  </div>
-  
+    const csvText = await res.text();
 
-</header>
+    // Parse CSV → array of objects
+    const rows = csvText.trim().split("\n");
+    const headers = rows.shift().split(",");
 
-<p>The page you requested cannot be found (perhaps it was moved or renamed).</p>
+    const records = rows.map(row => {
+      const values = row.split(",");
+      return headers.reduce((acc, h, i) => {
+        acc[h.trim()] = values[i].trim();
+        return acc;
+      }, {});
+    });
+
+    // Example CSV:
+    // path,redirectUrl
+    // old-page,new-page.html
+    console.log("records", records);
+
+    const match = records.find(r => r.path === path);
+    if (match) {
+      window.location.href = match.redirectUrl;
+      return;
+    }
+  } catch (err) {
+    console.error("Error reading CSV:", err);
+  }
+
+  // Fallback if no redirect
+  document.getElementById("not-found").innerHTML = `
+    <h1>404 - Page Not Found</h1>
+    <p>Sorry, we couldn’t find <code>${path}</code>. Perhaps it was moved or renamed.</p>
+    <a href="/"><button class="btn btn-outline-secondary">Go to the homepage</button></a>
+  `;
+})();
+</script>
 
 
 
