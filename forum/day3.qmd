@@ -9,7 +9,7 @@ format:
 ::: {.schedule-forum}
 | |  |
 | --- | ---- |
-| 8:15 - 8:45 | <span class="event-outline-blue"></span> Coffee     <br/><a class="plant-trigger small" data-plant-title="Uper floor: Coffee station" data-plant-url="/images/plant/upper_coffee.png" href="#">Coffee station  {{< fa location-pin >}}</a>                           |
+| 8:15 - 8:45 | <span class="event-outline-blue"></span> Coffee     <br/><a class="plant-trigger small" data-plant-title="Upper floor: Coffee station" data-plant-url="/images/plant/upper_coffee.png" href="#">Coffee station  {{< fa location-pin >}}</a>                           |
 | 8:45        | <span class="event-filled-orange size-2"></span> Workshop   <br/><a class="plant-trigger small" data-plant-title="Exterior: Workshop area" data-plant-url="/images/plant/ground_exterior.png" href="#">Exterior  {{< fa location-pin >}}</a>            |
 | 10:45       | <span class="event-outline-blue"></span> Coffee break      <br/><a class="plant-trigger small" data-plant-title="Exterior: Coffee break area" data-plant-url="/images/plant/ground_cb.png" href="#">Exterior {{< fa location-pin >}}</a>                     |
 | 11:10       | <span class="event-filled-green"></span> Interdisciplinarity: Why Transportation Needs a Diversity of Viewpoints  <br/> <small>Keynote by [{{< fa user >}} Kelly Clifton](/speakers/kclifton.html)</small>       <br/><a class="plant-trigger small" data-plant-title="Upper floor: Auditorium" data-plant-url="/images/plant/upper_auditorium.png" href="#">Auditorium  {{< fa location-pin >}}</a>   |
