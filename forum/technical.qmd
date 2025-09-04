@@ -25,6 +25,10 @@ This visit will take the participants to the operational control center and the 
 
 ## <img style="height: calc(1.29rem + 0.48vw)" src="https://www.infraestruturasdeportugal.pt/themes/ip_corporativo_theme/images/logo-cor.png"/>
 
+::: {.alert .alert-info}
+{{< fa address-card >}} All participants enrolled in the visit to Infraestruturas de Portugal must take an ID card or passport with them.
+:::
+
 Infraestruturas de Portugal is the public company responsible for managing the Portuguese road and rail infrastructure.
 <br/><br/>
 In this visit, the participants will have the opportunity to get to know the Lisbon rail operational control center, managing most of the national infrastructure.

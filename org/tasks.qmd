@@ -1,0 +1,8 @@
+---
+title: "Tasks"
+format:
+  html:
+    css: ../styles/tasks.css
+---
+
+<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRguJ466lZzblORcK4t8m3-Ssygg4mm7RDkSJ6XHg20nFAXslGjz_88Ubhgay2lW9LeYuT3HeuJl8Ph/pubhtml?widget=true&amp;headers=false"></iframe>

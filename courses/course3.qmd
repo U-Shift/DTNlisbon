@@ -6,8 +6,15 @@ format:
     css: ../styles/schedule.css
 ---
 
+
 ## Instructor
+
 [Hannah Hook](/speakers/hhook.html) (Ghent University, Department of Geography)
+
+
+## Location
+
+<a class="plant-trigger small mt-1" data-plant-title="Upper floor: Room 2.2" data-plant-url="/images/plant/upper_22.png" href="#">{{< fa location-pin >}}  Room 2.2</a>
 
 ## Learning objectives
 1. Introduce doctoral researchers to the basic techniques of qualitative methods and provide knowledge on how to perform reproducible research.
@@ -37,3 +44,64 @@ format:
 | 13:30 | <span class="event-filled-orange"></span> Workshop: Coding with ChatGPT: |
 | | <span class="event-filled-orange"></span> Presentation: Demonstrating insights from qualitative research |
 :::
+
+
+
+
+```{=html}
+<script src="https://unpkg.com/micromodal/dist/micromodal.min.js"></script>
+
+<div class="modal micromodal-slide" id="plant-modal" aria-hidden="true">
+  <div class="modal__overlay" tabindex="-1" data-micromodal-close>
+    <div class="modal__container" role="dialog" aria-modal="true" aria-labelledby="plant-modal-title">
+      <header>
+        <h2 id="plant-modal-title">Teste</h2>
+        <button aria-label="Close modal" data-micromodal-close class="btn btn-ouline-secondary"><i class="fa-solid fa-xmark"></i></button>
+      </header>
+      <main>
+        <img id="plant-modal-img" src="" alt="Loading..." style="max-width:100%; border-radius:8px;" />
+      </main>
+
+      <img id="plant-legend" src="/images/plant/legend.png" alt="" style="max-width:100%; border-radius:8px;" />
+
+      <p style="margin-top: 32px;">For the full building plan, check the <a href="/info/venue.html">venue</a> page.</p>
+    </div>
+  </div>
+</div>
+
+<script>
+document.addEventListener("DOMContentLoaded", function() {
+  // Initialize Micromodal with explicit modal id
+  MicroModal.init({
+    openTrigger: 'data-micromodal-trigger',
+    closeTrigger: 'data-micromodal-close',
+    disableScroll: true,
+    awaitOpenAnimation: false,
+    awaitCloseAnimation: false,
+    onClose: () => {
+      document.getElementById("plant-modal-img").setAttribute("src", "");
+    }
+  });
+
+  // Attach dynamic trigger handler
+  document.querySelectorAll(".plant-trigger").forEach(function(trigger) {
+    trigger.addEventListener("click", function(e) {
+      e.preventDefault();
+      document.getElementById("plant-modal-img").setAttribute("src", "#");
+
+      // Read data attributes
+      const title = trigger.getAttribute("data-plant-title");
+      const url   = trigger.getAttribute("data-plant-url");
+
+      // Update modal content
+      document.getElementById("plant-modal-title").textContent = title;
+      document.getElementById("plant-modal-img").setAttribute("src", url);
+
+      // Open the modal safely
+      MicroModal.show("plant-modal");
+    });
+  });
+});
+</script>
+
+```

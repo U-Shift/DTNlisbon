@@ -1,6 +1,54 @@
 ---
-title: Page Not Found
+title: ""
 sidebar: false
 ---
 
-The page you requested cannot be found (perhaps it was moved or renamed).
+<span id="not-found">
+    Loading...
+</span>
+
+<script>
+(async function() {
+  const path = window.location.pathname.replace(/^\/+/, "");
+
+  try {
+    // Fetch a CSV file (must be served with CORS enabled if from another domain)
+    const res = await fetch("https://docs.google.com/spreadsheets/d/e/2PACX-1vSDe56NIcdV0XKcBMVieAkVl_Yfg0PmIHK9Ftcs99iXQbIK7kJPDAMH8wiZ7nSLKm2yo5E8OqQ8rg94/pub?gid=0&single=true&output=csv");
+    if (!res.ok) throw new Error("CSV not found");
+
+    const csvText = await res.text();
+
+    // Parse CSV → array of objects
+    const rows = csvText.trim().split("\n");
+    const headers = rows.shift().split(",");
+
+    const records = rows.map(row => {
+      const values = row.split(",");
+      return headers.reduce((acc, h, i) => {
+        acc[h.trim()] = values[i].trim();
+        return acc;
+      }, {});
+    });
+
+    // Example CSV:
+    // path,redirectUrl
+    // old-page,new-page.html
+    console.log("records", records);
+
+    const match = records.find(r => r.path === path);
+    if (match) {
+      window.location.href = match.redirectUrl;
+      return;
+    }
+  } catch (err) {
+    console.error("Error reading CSV:", err);
+  }
+
+  // Fallback if no redirect
+  document.getElementById("not-found").innerHTML = `
+    <h1>404 - Page Not Found</h1>
+    <p>Sorry, we couldn’t find <code>${path}</code>. Perhaps it was moved or renamed.</p>
+    <a href="/"><button class="btn btn-outline-secondary">Go to the homepage</button></a>
+  `;
+})();
+</script>

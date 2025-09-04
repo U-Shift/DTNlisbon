@@ -17,6 +17,9 @@ format:
 | ![](/images/team/fnogueira.png) | Freddy Nogueira | Catering |
 | ![](/images/team/jlucena.png) | Jéssica Lucena | Catering |
 | ![](/images/team/gmatos.png) | Gonçalo Matos | Website |
+| ![](/images/team/mpires.png) | Miguel Pires | Support |
+| ![](/images/team/maria.png) | Maria Santos | Logistics |
+|  |  |  |
 
 
 ## We also rely on DTN’s team experience and support!

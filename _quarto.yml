@@ -74,13 +74,13 @@ website:
         - speakers/mpoyourow.qmd
         - speakers/mcosta.qmd
         - speakers/kclifton.qmd
-        - speakers/rmacario.qmd
     - id: instructors
       title: "Course instructors"
       collapse-level: 2
       contents:
         - speakers/courses.qmd
         - speakers/amonzon.qmd
+        - speakers/rmacario.qmd
         - speakers/rlovelace.qmd
         - speakers/jzamora.qmd
         - speakers/hhook.qmd

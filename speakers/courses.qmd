@@ -15,6 +15,12 @@ listing:
       description: ""
       categories: []
 
+    - path: /speakers/rmacario.html
+      image: /images/speakers/rmacario.jpg
+      title: Rosário Macário
+      description: ""
+      categories: []
+      
     - path: /speakers/rlovelace.html
       image: https://www.robinlovelace.net/authors/admin/avatar_hu3d4a1b50dc18344f3cdc14860b8b07f2_85545_270x270_fill_q75_lanczos_center.jpg
       title: Robin Lovelace
