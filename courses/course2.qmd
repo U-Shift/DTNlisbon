@@ -15,6 +15,9 @@ format:
 
 <a class="plant-trigger small mt-1" data-plant-title="Upper floor: Room 2.1" data-plant-url="/images/plant/upper_21.png" href="#">{{< fa location-pin >}}  Room 2.1</a>
 
+## Course materials
+
+See [tdscience.github.io/course](https://tdscience.github.io/course/) for all the course materials.
 
 ## Learning objectives
 1. Be able to share reproducible code for more scientific and transparent transport research
