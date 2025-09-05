@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.dtnlisbon.pt/index.html</loc>
-    <lastmod>2025-09-05T10:14:24.773Z</lastmod>
+    <lastmod>2025-09-05T10:53:23.210Z</lastmod>
   </url>
   <url>
     <loc>https://www.dtnlisbon.pt/speakers/jcosteira.html</loc>
@@ -61,7 +61,11 @@
     <lastmod>2025-05-27T14:13:21.811Z</lastmod>
   </url>
   <url>
-    <loc>https://www.dtnlisbon.pt/courses/course1.html</loc>
+    <loc>https://www.dtnlisbon.pt/courses/course2.html</loc>
+    <lastmod>2025-09-05T10:14:24.769Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.dtnlisbon.pt/courses/course3.html</loc>
     <lastmod>2025-09-05T10:14:24.769Z</lastmod>
   </url>
   <url>
@@ -69,12 +73,12 @@
     <lastmod>2025-05-27T14:13:21.811Z</lastmod>
   </url>
   <url>
-    <loc>https://www.dtnlisbon.pt/courses/course3.html</loc>
+    <loc>https://www.dtnlisbon.pt/courses/course1.html</loc>
     <lastmod>2025-09-05T10:14:24.769Z</lastmod>
   </url>
   <url>
-    <loc>https://www.dtnlisbon.pt/courses/course2.html</loc>
-    <lastmod>2025-09-05T10:14:24.769Z</lastmod>
+    <loc>https://www.dtnlisbon.pt/team/mrozendal.html</loc>
+    <lastmod>2025-09-05T10:49:10.255Z</lastmod>
   </url>
   <url>
     <loc>https://www.dtnlisbon.pt/info/contacts.html</loc>
@@ -122,7 +126,7 @@
   </url>
   <url>
     <loc>https://www.dtnlisbon.pt/speakers/kclifton.html</loc>
-    <lastmod>2025-07-24T13:49:26.416Z</lastmod>
+    <lastmod>2025-09-05T10:53:31.600Z</lastmod>
   </url>
   <url>
     <loc>https://www.dtnlisbon.pt/speakers/jzamora.html</loc>
@@ -134,6 +138,6 @@
   </url>
   <url>
     <loc>https://www.dtnlisbon.pt/speakers/index.html</loc>
-    <lastmod>2025-07-24T13:49:26.416Z</lastmod>
+    <lastmod>2025-09-05T10:53:27.273Z</lastmod>
   </url>
 </urlset>

@@ -267,71 +267,64 @@
     ]
   },
   {
-    "objectID": "courses/course1.html",
-    "href": "courses/course1.html",
-    "title": "8-9th Sept. | Shared Mobility - Policy challenges and multimodal solutions",
+    "objectID": "courses/course2.html",
+    "href": "courses/course2.html",
+    "title": "8-9th Sept. | Tools and Skills for Reproducible Transport Research",
     "section": "",
-    "text": "Andres Monzon (Prof. Transportation Eng., Urban and Regional Planning, Universidad Politecnica de Madrid) and Rosário Macário (Instituto Superior Técnico, Universidade de Lisboa)",
+    "text": "Robin Lovelace (University of Leeds) & Juan Fonseca-Zamora (University of Leeds)",
     "crumbs": [
-      "8-9th Sept. | Shared Mobility - Policy challenges and multimodal solutions"
+      "8-9th Sept. | Tools and Skills for Reproducible Transport Research"
     ]
   },
   {
-    "objectID": "courses/course1.html#instructor",
-    "href": "courses/course1.html#instructor",
-    "title": "8-9th Sept. | Shared Mobility - Policy challenges and multimodal solutions",
+    "objectID": "courses/course2.html#instructor",
+    "href": "courses/course2.html#instructor",
+    "title": "8-9th Sept. | Tools and Skills for Reproducible Transport Research",
     "section": "",
-    "text": "Andres Monzon (Prof. Transportation Eng., Urban and Regional Planning, Universidad Politecnica de Madrid) and Rosário Macário (Instituto Superior Técnico, Universidade de Lisboa)",
+    "text": "Robin Lovelace (University of Leeds) & Juan Fonseca-Zamora (University of Leeds)",
     "crumbs": [
-      "8-9th Sept. | Shared Mobility - Policy challenges and multimodal solutions"
+      "8-9th Sept. | Tools and Skills for Reproducible Transport Research"
     ]
   },
   {
-    "objectID": "courses/course1.html#location",
-    "href": "courses/course1.html#location",
-    "title": "8-9th Sept. | Shared Mobility - Policy challenges and multimodal solutions",
+    "objectID": "courses/course2.html#location",
+    "href": "courses/course2.html#location",
+    "title": "8-9th Sept. | Tools and Skills for Reproducible Transport Research",
     "section": "Location",
-    "text": "Location\n Room 2.3",
+    "text": "Location\n Room 2.1",
     "crumbs": [
-      "8-9th Sept. | Shared Mobility - Policy challenges and multimodal solutions"
+      "8-9th Sept. | Tools and Skills for Reproducible Transport Research"
     ]
   },
   {
-    "objectID": "courses/course1.html#content",
-    "href": "courses/course1.html#content",
-    "title": "8-9th Sept. | Shared Mobility - Policy challenges and multimodal solutions",
-    "section": "Content",
-    "text": "Content\n\nState of the practice\nResearch activities & results\nGovernance models and experience\nFuture trends and research opportunities",
+    "objectID": "courses/course2.html#learning-objectives",
+    "href": "courses/course2.html#learning-objectives",
+    "title": "8-9th Sept. | Tools and Skills for Reproducible Transport Research",
+    "section": "Learning objectives",
+    "text": "Learning objectives\n\nBe able to share reproducible code for more scientific and transparent transport research\nTo be confident reproducing your own work and that of others\nTo become skilled at using Git and GitHub to manage versions of your code and collaborate with others\nTo be able to write reproducible content that can be exported to a variety of formats with the Quarto system for scientific publishing\nTo understand how Quarto extensions can be used as a basis for creating publication-ready papers\nTo be aware of ‘continuous integration’ and ‘GitHub Actions’ and how they can be used to ensure reproducibility, share your work, and save time\nUnderstanding of best practices around code sharing and collaboration for reproducible research in transport planning",
     "crumbs": [
-      "8-9th Sept. | Shared Mobility - Policy challenges and multimodal solutions"
+      "8-9th Sept. | Tools and Skills for Reproducible Transport Research"
     ]
   },
   {
-    "objectID": "courses/course1.html#schedule-day-1-8-sept.",
-    "href": "courses/course1.html#schedule-day-1-8-sept.",
-    "title": "8-9th Sept. | Shared Mobility - Policy challenges and multimodal solutions",
+    "objectID": "courses/course2.html#schedule-day-1-8-sept.",
+    "href": "courses/course2.html#schedule-day-1-8-sept.",
+    "title": "8-9th Sept. | Tools and Skills for Reproducible Transport Research",
     "section": "Schedule Day 1 (8 Sept.)",
-    "text": "Schedule Day 1 (8 Sept.)\n\n\n\n\n\n\n\n\n9:00\n Welcome & Presentation\n\n\n\n Lecture 1 (Introduction): Sharing economy and shared mobility\n\n\n\n Lecture 2: Shared mobility solutions - Review international experiences\n\n\n\n Workshop: Analysis of barriers, challenges, negative and positive impacts of shared mobility\n\n\n12:30\n Lunch\n\n\n13:30\n Lecture 3: Sharing in Practice: car sharing\n\n\n\n Workshop 2: Different solutions in different cities",
+    "text": "Schedule Day 1 (8 Sept.)\n\n\n\n\n\n\n\n\n9:30\n Introduction\n\n\n\n Development environments, system commands, and version control\n\n\n\n Sharing code and data\n\n\n12:30\n Lunch\n\n\n13:30\n Reproducible papers and documentation with Quarto\n\n\n\n Cross-references and citations with Quarto",
     "crumbs": [
-      "8-9th Sept. | Shared Mobility - Policy challenges and multimodal solutions"
+      "8-9th Sept. | Tools and Skills for Reproducible Transport Research"
     ]
   },
   {
-    "objectID": "courses/course1.html#schedule-day-2-9-sept.",
-    "href": "courses/course1.html#schedule-day-2-9-sept.",
-    "title": "8-9th Sept. | Shared Mobility - Policy challenges and multimodal solutions",
+    "objectID": "courses/course2.html#schedule-day-2-9-sept.",
+    "href": "courses/course2.html#schedule-day-2-9-sept.",
+    "title": "8-9th Sept. | Tools and Skills for Reproducible Transport Research",
     "section": "Schedule Day 2 (9 Sept.)",
-    "text": "Schedule Day 2 (9 Sept.)\n\n\n\n\n\n\n\n\n09:00\n Lecture 4: Sharing in Practice - scooters and mopeds\n\n\n\n Lecture 5: Sharing in Practice - bike-sharing\n\n\n\n Discussed Survey: Different solutions for different contexts\n\n\n12:30\n Lunch\n\n\n13:30\n Lecture 6: Research gaps and policy trends\n\n\n\n Workshop 3: Public Transport and sharing - SWOT Analysis\n\n\n\n Closing: Shared-Mobility Roadmap - research and policy challenges\n\n\n\n\n\n\n\n  \n    \n      \n        Teste\n        \n      \n      \n        \n      \n\n      \n\n      For the full building plan, check the venue page.",
+    "text": "Schedule Day 2 (9 Sept.)\n\n\n\n\n\n\n\n\n09:30\n Drafting a reproducible paper\n\n\n\n Generating reproducible publication-quality visualisations\n\n\n12:30\n Lunch\n\n\n13:30\n Editing other people’s work\n\n\n\n Working on papers\n\n\n\n Presentations and wrap-up\n\n\n\n\n\n\n\n  \n    \n      \n        Teste\n        \n      \n      \n        \n      \n\n      \n\n      For the full building plan, check the venue page.",
     "crumbs": [
-      "8-9th Sept. | Shared Mobility - Policy challenges and multimodal solutions"
+      "8-9th Sept. | Tools and Skills for Reproducible Transport Research"
     ]
-  },
-  {
-    "objectID": "styles.html",
-    "href": "styles.html",
-    "title": "Colors",
-    "section": "",
-    "text": "Colors\nDark background: #340a2dff Dark text: #4f1c52ff Medium text:#530051 Light text: #783b68ff Light background: #cd7eabff"
   },
   {
     "objectID": "courses/course3.html",
@@ -394,64 +387,78 @@
     ]
   },
   {
-    "objectID": "courses/course2.html",
-    "href": "courses/course2.html",
-    "title": "8-9th Sept. | Tools and Skills for Reproducible Transport Research",
+    "objectID": "styles.html",
+    "href": "styles.html",
+    "title": "Colors",
     "section": "",
-    "text": "Robin Lovelace (University of Leeds) & Juan Fonseca-Zamora (University of Leeds)",
+    "text": "Colors\nDark background: #340a2dff Dark text: #4f1c52ff Medium text:#530051 Light text: #783b68ff Light background: #cd7eabff"
+  },
+  {
+    "objectID": "courses/course1.html",
+    "href": "courses/course1.html",
+    "title": "8-9th Sept. | Shared Mobility - Policy challenges and multimodal solutions",
+    "section": "",
+    "text": "Andres Monzon (Prof. Transportation Eng., Urban and Regional Planning, Universidad Politecnica de Madrid) and Rosário Macário (Instituto Superior Técnico, Universidade de Lisboa)",
     "crumbs": [
-      "8-9th Sept. | Tools and Skills for Reproducible Transport Research"
+      "8-9th Sept. | Shared Mobility - Policy challenges and multimodal solutions"
     ]
   },
   {
-    "objectID": "courses/course2.html#instructor",
-    "href": "courses/course2.html#instructor",
-    "title": "8-9th Sept. | Tools and Skills for Reproducible Transport Research",
+    "objectID": "courses/course1.html#instructor",
+    "href": "courses/course1.html#instructor",
+    "title": "8-9th Sept. | Shared Mobility - Policy challenges and multimodal solutions",
     "section": "",
-    "text": "Robin Lovelace (University of Leeds) & Juan Fonseca-Zamora (University of Leeds)",
+    "text": "Andres Monzon (Prof. Transportation Eng., Urban and Regional Planning, Universidad Politecnica de Madrid) and Rosário Macário (Instituto Superior Técnico, Universidade de Lisboa)",
     "crumbs": [
-      "8-9th Sept. | Tools and Skills for Reproducible Transport Research"
+      "8-9th Sept. | Shared Mobility - Policy challenges and multimodal solutions"
     ]
   },
   {
-    "objectID": "courses/course2.html#location",
-    "href": "courses/course2.html#location",
-    "title": "8-9th Sept. | Tools and Skills for Reproducible Transport Research",
+    "objectID": "courses/course1.html#location",
+    "href": "courses/course1.html#location",
+    "title": "8-9th Sept. | Shared Mobility - Policy challenges and multimodal solutions",
     "section": "Location",
-    "text": "Location\n Room 2.1",
+    "text": "Location\n Room 2.3",
     "crumbs": [
-      "8-9th Sept. | Tools and Skills for Reproducible Transport Research"
+      "8-9th Sept. | Shared Mobility - Policy challenges and multimodal solutions"
     ]
   },
   {
-    "objectID": "courses/course2.html#learning-objectives",
-    "href": "courses/course2.html#learning-objectives",
-    "title": "8-9th Sept. | Tools and Skills for Reproducible Transport Research",
-    "section": "Learning objectives",
-    "text": "Learning objectives\n\nBe able to share reproducible code for more scientific and transparent transport research\nTo be confident reproducing your own work and that of others\nTo become skilled at using Git and GitHub to manage versions of your code and collaborate with others\nTo be able to write reproducible content that can be exported to a variety of formats with the Quarto system for scientific publishing\nTo understand how Quarto extensions can be used as a basis for creating publication-ready papers\nTo be aware of ‘continuous integration’ and ‘GitHub Actions’ and how they can be used to ensure reproducibility, share your work, and save time\nUnderstanding of best practices around code sharing and collaboration for reproducible research in transport planning",
+    "objectID": "courses/course1.html#content",
+    "href": "courses/course1.html#content",
+    "title": "8-9th Sept. | Shared Mobility - Policy challenges and multimodal solutions",
+    "section": "Content",
+    "text": "Content\n\nState of the practice\nResearch activities & results\nGovernance models and experience\nFuture trends and research opportunities",
     "crumbs": [
-      "8-9th Sept. | Tools and Skills for Reproducible Transport Research"
+      "8-9th Sept. | Shared Mobility - Policy challenges and multimodal solutions"
     ]
   },
   {
-    "objectID": "courses/course2.html#schedule-day-1-8-sept.",
-    "href": "courses/course2.html#schedule-day-1-8-sept.",
-    "title": "8-9th Sept. | Tools and Skills for Reproducible Transport Research",
+    "objectID": "courses/course1.html#schedule-day-1-8-sept.",
+    "href": "courses/course1.html#schedule-day-1-8-sept.",
+    "title": "8-9th Sept. | Shared Mobility - Policy challenges and multimodal solutions",
     "section": "Schedule Day 1 (8 Sept.)",
-    "text": "Schedule Day 1 (8 Sept.)\n\n\n\n\n\n\n\n\n9:30\n Introduction\n\n\n\n Development environments, system commands, and version control\n\n\n\n Sharing code and data\n\n\n12:30\n Lunch\n\n\n13:30\n Reproducible papers and documentation with Quarto\n\n\n\n Cross-references and citations with Quarto",
+    "text": "Schedule Day 1 (8 Sept.)\n\n\n\n\n\n\n\n\n9:00\n Welcome & Presentation\n\n\n\n Lecture 1 (Introduction): Sharing economy and shared mobility\n\n\n\n Lecture 2: Shared mobility solutions - Review international experiences\n\n\n\n Workshop: Analysis of barriers, challenges, negative and positive impacts of shared mobility\n\n\n12:30\n Lunch\n\n\n13:30\n Lecture 3: Sharing in Practice: car sharing\n\n\n\n Workshop 2: Different solutions in different cities",
     "crumbs": [
-      "8-9th Sept. | Tools and Skills for Reproducible Transport Research"
+      "8-9th Sept. | Shared Mobility - Policy challenges and multimodal solutions"
     ]
   },
   {
-    "objectID": "courses/course2.html#schedule-day-2-9-sept.",
-    "href": "courses/course2.html#schedule-day-2-9-sept.",
-    "title": "8-9th Sept. | Tools and Skills for Reproducible Transport Research",
+    "objectID": "courses/course1.html#schedule-day-2-9-sept.",
+    "href": "courses/course1.html#schedule-day-2-9-sept.",
+    "title": "8-9th Sept. | Shared Mobility - Policy challenges and multimodal solutions",
     "section": "Schedule Day 2 (9 Sept.)",
-    "text": "Schedule Day 2 (9 Sept.)\n\n\n\n\n\n\n\n\n09:30\n Drafting a reproducible paper\n\n\n\n Generating reproducible publication-quality visualisations\n\n\n12:30\n Lunch\n\n\n13:30\n Editing other people’s work\n\n\n\n Working on papers\n\n\n\n Presentations and wrap-up\n\n\n\n\n\n\n\n  \n    \n      \n        Teste\n        \n      \n      \n        \n      \n\n      \n\n      For the full building plan, check the venue page.",
+    "text": "Schedule Day 2 (9 Sept.)\n\n\n\n\n\n\n\n\n09:00\n Lecture 4: Sharing in Practice - scooters and mopeds\n\n\n\n Lecture 5: Sharing in Practice - bike-sharing\n\n\n\n Discussed Survey: Different solutions for different contexts\n\n\n12:30\n Lunch\n\n\n13:30\n Lecture 6: Research gaps and policy trends\n\n\n\n Workshop 3: Public Transport and sharing - SWOT Analysis\n\n\n\n Closing: Shared-Mobility Roadmap - research and policy challenges\n\n\n\n\n\n\n\n  \n    \n      \n        Teste\n        \n      \n      \n        \n      \n\n      \n\n      For the full building plan, check the venue page.",
     "crumbs": [
-      "8-9th Sept. | Tools and Skills for Reproducible Transport Research"
+      "8-9th Sept. | Shared Mobility - Policy challenges and multimodal solutions"
     ]
+  },
+  {
+    "objectID": "team/mrozendal.html",
+    "href": "team/mrozendal.html",
+    "title": "Marc Rozendal",
+    "section": "",
+    "text": "Full Professor in Transportation Engineering since 2002, Civil Engineering Department of the Polytechnic University of Madrid, Spain, Andres Monzon founded the TRANSyT-Transport Research Center at the UPM in 2004, being its Director until 2017. He has been the Rector´s Delegate for Sustainable Urban Mobility and Coordinator of the Research and Academic Cluster MoviTUR-Mobility of the Future since 2020. Prof. Monzon promoted the Spanish Metropolitan Mobility Observatory and has been its Director since 2004. He founded the Spanish Forum of Transport Engineering and was its president from 2014 to 2023. Member of the Advisory Council of the Spanish Ministry of Transport and Sustainable Mobility since 2015.\n\n This instructor will host a course about Shared Mobility - Policy challenges and multimodal solutions"
   },
   {
     "objectID": "info/contacts.html",
