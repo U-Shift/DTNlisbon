@@ -25,8 +25,11 @@ format:
 ## We also rely on DTN’s team experience and support!
 | <span class="table-team table-team-secondary"></span> | |
 | -- | -- |
-| ![](/images/team/benjamin.png) | Benjamin | 
-| ![](/images/team/corinna.png) | Corinna | 
-| ![](/images/team/lidya.png) | Lidya | 
-| ![](/images/team/aaron.png) | Aaron | 
+| ![](/images/team/mrozendal.png) | Marc Rozendal | 
+| ![](/images/team/mvendel.png) | Martin Vendel | 
+| ![](/images/team/benjamin.png) | Benjamin Büttner | 
+| ![](/images/team/drodrigues.png) | Daniela Rodrigues | 
+| ![](/images/team/lidya.png) | Lidya G. | 
+| ![](/images/team/corinna.png) | Corinna Niederreiter | 
+| ![](/images/team/aaron.png) | Aaron Nichols | 
 
