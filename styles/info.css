@@ -60,5 +60,5 @@ table:has(.table-team-secondary) tbody tr {
 .metadata {display: none!important;}
 
 
-.table-team a {text-decoration:none; color: inherit;}
-.table-team a:hover {font-weight: bold;}
+table:has(.table-team) a {text-decoration:none; color: inherit;}
+table:has(.table-team) a:hover {font-weight: bold;}
