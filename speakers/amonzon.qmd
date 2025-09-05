@@ -1,6 +1,6 @@
 ---
 title: Andres Monzon
-image: https://www.ertrac.org/wp-content/uploads/2022/09/Andres-Monzon.jpg
+image: https://fundacion.sener/wp-content/uploads/2021/07/Andres-Monzon.jpg
 about:
     template: trestles
 
