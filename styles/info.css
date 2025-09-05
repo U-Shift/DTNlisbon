@@ -24,7 +24,7 @@ table:has(.table-team) tbody {
 table:has(.table-team) tbody tr {
     width: 33%;
     display: flex!important;
-    
+
     flex-direction: column;
     flex-wrap: nowrap;
 
@@ -58,3 +58,7 @@ table:has(.table-team-secondary) tbody tr {
 }
 
 .metadata {display: none!important;}
+
+
+.table-team a {text-decoration:none; color: inherit;}
+.table-team a:hover {font-weight: bold;}
