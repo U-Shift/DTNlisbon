@@ -49,7 +49,7 @@ The forum features keynote speeches, panel discussions, and workshops focused on
 
 ::: {layout="[[1,1,1,1,1,1,1]]" class="speakers-gallery"}
 
-[![Andres Monzon](https://fundacion.sener/wp-content/uploads/2021/07/Andres-Monzon.jpg)](/speakers/amonzon.html)
+[![Andres Monzon](images/speakers/amonzon.jpg)](/speakers/amonzon.html)
 
 [![Rosário Macário](images/speakers/rmacario.jpg)](/speakers/rmacario.html)
 

@@ -1,6 +1,6 @@
 ---
 title: Andres Monzon
-image: https://fundacion.sener/wp-content/uploads/2021/07/Andres-Monzon.jpg
+image: /images/speakers/amonzon.jpg
 about:
     template: trestles
 

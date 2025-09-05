@@ -10,7 +10,7 @@ listing:
     type: grid
     contents:
     - path: /speakers/amonzon.html
-      image: https://fundacion.sener/wp-content/uploads/2021/07/Andres-Monzon.jpg
+      image: /images/speakers/amonzon.jpg
       title: Andres Monzon
       description: ""
       categories: []
