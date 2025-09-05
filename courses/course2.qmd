@@ -34,6 +34,7 @@ format:
 | | <span class="event-filled-green"></span> Development environments, system commands, and version control |
 | | <span class="event-filled-green"></span> Sharing code and data |
 | 12:30 | <span class="event-outline-blue"></span> Lunch |
+| 13:00 | <span class="event-outline-blue"></span> Free time |
 | 13:30 | <span class="event-filled-green"></span> Reproducible papers and documentation with Quarto |
 | | <span class="event-filled-green"></span> Cross-references and citations with Quarto |
 :::
@@ -45,6 +46,7 @@ format:
 | 09:30 | <span class="event-filled-green"></span> Drafting a reproducible paper |
 | | <span class="event-filled-green"></span> Generating reproducible publication-quality visualisations |
 | 12:30 | <span class="event-outline-blue"></span> Lunch |
+| 13:00 | <span class="event-outline-blue"></span> Free time |
 | 13:30 | <span class="event-filled-green"></span> Editing other people’s work |
 | | <span class="event-filled-green"></span> Working on papers |
 | | <span class="event-filled-green"></span> Presentations and wrap-up |
