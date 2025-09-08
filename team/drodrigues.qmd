@@ -1,0 +1,18 @@
+---
+title: Daniela Rodrigues
+image: /images/team/drodrigues.png
+about:
+    template: trestles
+
+# Based on https://www.linkedin.com/in/daniela-rodrigues-58b42a60 PDF CV, created with ChatGPT
+---
+
+Daniela Rodrigues is a Programme Manager at EIT Urban Mobility in Barcelona, where she leads initiatives 
+fostering innovation and sustainable urban transport solutions. 
+With over a decade of international experience across the public and private sectors, she has worked at the 
+**World Customs Organization**, the **European Parliament**, and the **UK Department for International Trade**, 
+specializing in trade policy, capacity building, and project management. 
+Daniela holds a Master’s degree in International Politics from City, **University of London**, and a degree in 
+International Relations from the **University of Lisbon**. 
+Multilingual and culturally versatile, she is passionate about advancing collaboration and innovation 
+in urban mobility and international cooperation.

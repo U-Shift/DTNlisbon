@@ -23,11 +23,12 @@ format:
 
 
 ## We also rely on DTN’s team experience and support!
-| <span class="table-team table-team-secondary"></span> | |
-| -- | -- |
-| ![](/images/team/benjamin.png) | Benjamin Büttner | 
-| ![](/images/team/drodrigues.png) | Daniela Rodrigues | 
-| ![](/images/team/lidya.png) | Lidya G. | 
-| ![](/images/team/corinna.png) | Corinna Niederreiter | 
-| ![](/images/team/aaron.png) | Aaron Nichols | 
+
+| <span class="table-team table-team-secondary"></span> | | |
+| -- | -- | --------- |
+| [![](/images/team/benjamin.png)](/team/bbuttner.html) | [Benjamin Büttner](/team/bbuttner.html) | Head of the DTN (TUM) |
+| [![](/images/team/drodrigues.png)](/team/drodrigues.html) | [Daniela Rodrigues](/team/drodrigues.html) | Academy Programme Manager (EIT Urban Mobility) |
+| [![](/images/team/lidya.png)](/team/lgonzalez.html) | [Lidya G.](/team/lgonzalez.html) | Education Officer (EIT Urban Mobility Academy) |
+| [![](/images/team/corinna.png)](/team/cniederreiter.html) | [Corinna Niederreiter](/team/cniederreiter.html) | DTN Office (TUM) |
+| [![](/images/team/aaron.png)](/team/anichols.html) | [Aaron Nichols](/team/anichols.html) | DTN Support (TUM) |
 
