@@ -33,6 +33,8 @@ Regarding metro, the stippness of the terrain in this area makes Entrecampos a b
 
 ## {{< fa bus-simple >}} By bus
 
+> Urban buses accept contacless card payment :)
+
 IGOT is served by several lines of the urban bus operator, [Carris](https://carris.pt/en/travel/carreiras/){target="_blank"}, connecting to almost anywhere in the city: 701, 731, 732, 735, 738, 754, 755, 764 and 768.
 
 There is also a suburban bus that serves it, [3702 from  operator Carris Metropolitana](https://www.carrismetropolitana.pt/lines/3702){target="_blank"}, connecting to Almada, in the south bank of Lisbon metro area.
