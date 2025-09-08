@@ -42,14 +42,14 @@ The forum features keynote speeches, panel discussions, and workshops focused on
 
 [![Miguel Costa](https://ushift.tecnico.ulisboa.pt/home/wp-content/uploads/2019/07/MG_1677-768x768.jpg)](/speakers/mcosta.html)
 
-[![Kelly Clifton](https://cerc.ubc.ca/files/2023/05/Kelly-Clifton.jpg)](/speakers/kclifton.html)
+[![Kelly Clifton](images/speakers/kclifton.jpg)](/speakers/kclifton.html)
 :::
 
 # Course instructors
 
 ::: {layout="[[1,1,1,1,1,1,1]]" class="speakers-gallery"}
 
-[![Andres Monzon](https://www.ertrac.org/wp-content/uploads/2022/09/Andres-Monzon.jpg)](/speakers/amonzon.html)
+[![Andres Monzon](images/speakers/amonzon.jpg)](/speakers/amonzon.html)
 
 [![Rosário Macário](images/speakers/rmacario.jpg)](/speakers/rmacario.html)
 

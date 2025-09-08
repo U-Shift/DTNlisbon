@@ -1,0 +1,18 @@
+---
+title: Corinna Niederreiter
+image: /images/team/corinna.png
+about:
+    template: trestles
+
+# Based on https://www.linkedin.com/in/corinna-niederreiter-63209b182/ PDF CV, created with ChatGPT
+---
+
+Corinna Niederreiter is a Program Manager at the **EIT Urban Mobility Doctoral Training Network** and 
+Deputy Managing Director of the International Graduate School of Science and Engineering (IGSSE) at 
+the **Technical University of Munich**. 
+With extensive experience in academic programme coordination and international collaboration, 
+she has managed interdisciplinary doctoral training and research initiatives at **TUM** and previously worked 
+at **Ludwig-Maximilians-Universität München** in teaching and research roles. 
+Corinna holds a Master’s degree in German as a Foreign Language and a Bachelor’s in Finno-Ugric Studies from **LMU Munich**. 
+She is passionate about fostering interdisciplinary education, qualitative research, and innovative training 
+for future urban mobility leaders.

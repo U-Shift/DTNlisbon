@@ -1,6 +1,6 @@
 ---
 title: Kelly Clifton
-image: https://cerc.ubc.ca/files/2023/05/Kelly-Clifton.jpg
+image: https://lh5.googleusercontent.com/proxy/eQNqQwgDO1a1rLkSMsvKt6jaIofFwxWDtDqQhZDGw2VMM_6chpT51vz8Vb0Hr8lngmUVG99_Ebk3O7Yz4n_t0nFrnW1Kzhlv-zSS9VmDuLHm0SMh
 about:
     template: trestles
 

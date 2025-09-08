@@ -1,0 +1,16 @@
+---
+title: Aaron Nichols
+image: /images/team/aaron.png
+about:
+    template: trestles
+
+# Based on https://www.linkedin.com/in/aaron-nichols-635a6b108/ PDF CV, created with ChatGPT
+---
+
+Aaron Nichols is a researcher at the **Technical University of Munich (TUM)**, specializing in urban and transportation planning. 
+His work focuses on the relationship between land use, mobility, and accessibility, with prior research on transit deserts 
+in **Texas** and sustainable mobility strategies in **Europe**. 
+Before joining TUM, he gained professional experience as a transportation planner in the **United States** and contributed 
+to projects on bike sharing, public transit planning, and environmental restoration. 
+He holds a Master’s degree in Transportation Systems from **TUM**, a Master’s in Community and Regional Planning 
+from the **University of Texas** at Austin, and a Bachelor’s in Urban Studies from **The Evergreen State College**.

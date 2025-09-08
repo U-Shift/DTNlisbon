@@ -1,0 +1,17 @@
+---
+title: Lidya G.
+image: /images/team/lidya.png
+about:
+    template: trestles
+
+# Based on https://www.linkedin.com/in/lidya-gonzalez PDF CV, created with ChatGPT
+---
+
+Lidya Gonzalez is an Education Officer at **EIT Urban Mobility** in Barcelona, where she supports the Master School, 
+Doctoral Training Network, and Fellowship programmes. 
+With a background in chemistry and nanotechnology, she has coordinated educational initiatives at **Stockholm University**
+on climate, environment, and energy, and advised international MBA and Master’s candidates at **QS Quacquarelli Symonds**. 
+She holds a Master’s degree in Molecular Nanoscience and Nanotechnology and a Bachelor’s in Chemistry from the 
+**Universidad Autónoma de Madrid**. 
+Passionate about climate change education and sustainable innovation, Lidya brings scientific expertise and 
+cross-sector experience to advancing learning and collaboration.

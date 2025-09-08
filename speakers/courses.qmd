@@ -10,7 +10,7 @@ listing:
     type: grid
     contents:
     - path: /speakers/amonzon.html
-      image: https://www.ertrac.org/wp-content/uploads/2022/09/Andres-Monzon.jpg
+      image: /images/speakers/amonzon.jpg
       title: Andres Monzon
       description: ""
       categories: []

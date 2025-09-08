@@ -1,0 +1,20 @@
+---
+title: Benjamin Büttner
+image: /images/team/benjamin.png
+about:
+    template: trestles
+
+# Based on https://www.mos.ed.tum.de/en/sv/about-us/team/dr-ing-benjamin-buettner/
+---
+
+Benjamin Büttner has worked at the Chair of Urban Structure and Transport Planning since July 2010. 
+He received his PhD in engineering after having completed a German Diploma in geography. 
+He currently works in the fields of accessibility planning and decision and policy making. 
+Urban and transport planning, as well as governance, are the foci of his professional skills. 
+He led multiple research projects ranging from **regional to European level**. 
+He is an active reviewer for multiple high profile research journals, a regular participant in governance discussions 
+(**INZELL initiative, EMM**) within the region of Munich, and he contributed to the **COST Action TU 1002** on 
+Accessibility Instruments for Planning Practice. 
+Currently Benjamin Büttner is heading a research group on accessibility planning and has been designated co-chair of 
+the **NECTAR Accessibility cluster** since 2018. 
+Additionally, since 2019 he is coordinator of the **EIT Urban Mobility “Doctoral Training Network”**.

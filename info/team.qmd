@@ -8,25 +8,27 @@ format:
 
 | <span class="table-team"></span> | | |
 | -- | -- | --------- |
-| ![](/images/team/fmoura.png) | Filipe Moura | Coordinator |
-| ![](/images/team/achrist.png) | Ana Christ | Communication |
-| ![](/images/team/mfontalvo.png) | Mauricio Fontalvo | Visits |
-| ![](/images/team/tafonso.png) | Teresa Afonso | Staff |
-| ![](/images/team/rfelix.png) | Rosa Félix | Social events |
-| ![](/images/team/gvalenca.png) | Gabriel Valença | Program |
-| ![](/images/team/fnogueira.png) | Freddy Nogueira | Catering |
-| ![](/images/team/jlucena.png) | Jéssica Lucena | Catering |
-| ![](/images/team/gmatos.png) | Gonçalo Matos | Website |
-| ![](/images/team/mpires.png) | Miguel Pires | Support |
+| [![](/images/team/fmoura.png)](https://ushift.tecnico.ulisboa.pt/team-filipe-moura/){target="_blank"} | [Filipe Moura](https://ushift.tecnico.ulisboa.pt/team-filipe-moura/){target="_blank"} | Coordinator |
+| [![](/images/team/rfelix.png)](https://ushift.tecnico.ulisboa.pt/team-rosa-felix/){target="_blank"} | [Rosa Félix](https://ushift.tecnico.ulisboa.pt/team-rosa-felix/){target="_blank"} | Social events |
+| [![](/images/team/gvalenca.png)](https://ushift.tecnico.ulisboa.pt/team-gabriel-valenca/){target="_blank"} | [Gabriel Valença](https://ushift.tecnico.ulisboa.pt/team-gabriel-valenca/){target="_blank"} | Program |
+| [![](/images/team/achrist.png)](https://ushift.tecnico.ulisboa.pt/team-ana-karina-christ/){target="_blank"} | [Ana Christ](https://ushift.tecnico.ulisboa.pt/team-ana-karina-christ/){target="_blank"} | Communication |
+| [![](/images/team/mfontalvo.png)](https://ushift.tecnico.ulisboa.pt/team-mauricio-fontalvo/){target="_blank"} | [Mauricio Fontalvo](https://ushift.tecnico.ulisboa.pt/team-mauricio-fontalvo/){target="_blank"} | Visits |
+| [![](/images/team/fnogueira.png)](https://ushift.tecnico.ulisboa.pt/team-freddy-nogueira/){target="_blank"} | [Freddy Nogueira](https://ushift.tecnico.ulisboa.pt/team-freddy-nogueira/){target="_blank"} | Catering |
+| [![](/images/team/jlucena.png)](https://ushift.tecnico.ulisboa.pt/team-jessica-lucena){target="_blank"} | [Jéssica Lucena](https://ushift.tecnico.ulisboa.pt/team-jessica-lucena){target="_blank"} | Catering |
 | ![](/images/team/maria.png) | Maria Santos | Logistics |
+| [![](/images/team/gmatos.png)](https://ushift.tecnico.ulisboa.pt/team-goncalo-matos){target="_blank"} | [Gonçalo Matos](https://ushift.tecnico.ulisboa.pt/team-goncalo-matos){target="_blank"} | Website |
+| [![](/images/team/mpires.png)](https://ushift.tecnico.ulisboa.pt/team-miguel-pires){target="_blank"} | [Miguel Pires](https://ushift.tecnico.ulisboa.pt/team-miguel-pires){target="_blank"} | Support |
+| ![](/images/team/tafonso.png) | Teresa Afonso | Staff |
 |  |  |  |
 
 
 ## We also rely on DTN’s team experience and support!
-| <span class="table-team table-team-secondary"></span> | |
-| -- | -- |
-| ![](/images/team/benjamin.png) | Benjamin | 
-| ![](/images/team/corinna.png) | Corinna | 
-| ![](/images/team/lidya.png) | Lidya | 
-| ![](/images/team/aaron.png) | Aaron | 
+
+| <span class="table-team table-team-secondary"></span> | | |
+| -- | -- | --------- |
+| [![](/images/team/benjamin.png)](/team/bbuttner.html) | [Benjamin Büttner](/team/bbuttner.html) | Head of the DTN (TUM) |
+| [![](/images/team/drodrigues.png)](/team/drodrigues.html) | [Daniela Rodrigues](/team/drodrigues.html) | Academy Programme Manager (EIT Urban Mobility) |
+| [![](/images/team/lidya.png)](/team/lgonzalez.html) | [Lidya G.](/team/lgonzalez.html) | Education Officer (EIT Urban Mobility Academy) |
+| [![](/images/team/corinna.png)](/team/cniederreiter.html) | [Corinna Niederreiter](/team/cniederreiter.html) | DTN Office (TUM) |
+| [![](/images/team/aaron.png)](/team/anichols.html) | [Aaron Nichols](/team/anichols.html) | DTN Support (TUM) |
 
