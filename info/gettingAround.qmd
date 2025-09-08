@@ -6,6 +6,8 @@ format:
 
 ---
 
+<div class="alert alert-warning">{{< fa circle-exclamation >}} Due to a [**strike**](https://www.metrolisboa.pt/en/2025/09/08/partial-strike-september-9th-and-11th/){target="_blank"}, Metro services will be **suspended** from <u>6.30am to 10am</u> on the <u>9th and 11th of September</u>. Refer to [Getting to the venue](/info/gettingHere.html) for information on alternatives.</div>
+
 Lisbon is serviced by a robust transportation system, build up on metro, bus, trams and urban trains. Here we list the main means of transportation and how you can use them.
 
 ![](https://www.metrolisboa.pt/wp-content/uploads/2024/07/DiagramadaRede_julho2024.png){.preview-image}

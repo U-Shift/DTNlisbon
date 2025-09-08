@@ -9,6 +9,9 @@ format:
     include-before-body: html/home/header.html
 ---
 
+<div class="alert alert-warning">{{< fa circle-exclamation >}} Due to a [**strike**](https://www.metrolisboa.pt/en/2025/09/08/partial-strike-september-9th-and-11th/){target="_blank"}, Metro services will be **suspended** from <u>6.30am to 10am</u> on the <u>9th and 11th of September</u>. Refer to [Getting to the venue](/info/gettingHere.html) for information on alternatives.</div>
+
+
 The DTN Annual Forum is the DTN’s annual flagship event that gathers experts, scholars, and industry leaders from around the world to discuss the latest advancements in urban mobility. This vibrant forum offers participants an opportunity to present their research, engage in insightful discussions, and foster collaborations.
 
 The forum features keynote speeches, panel discussions, and workshops focused on innovative solutions for urban transportation challenges. Attendees can expect to gain valuable insights, share best practices, and network with peers who are equally passionate about transforming urban mobility. The Annual Forum is not only an academic conference but also a celebration of the progress and potential of urban mobility research. In 2025, it takes place at Lisbon, Portugal.
