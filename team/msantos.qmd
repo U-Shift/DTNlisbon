@@ -1,0 +1,14 @@
+---
+title: Maria Santos
+image: /images/team/maria.png
+about:
+    template: trestles
+
+# Provided by Gabriel Valença
+---
+
+
+
+María is a Ph.D. candidate in Transport Systems (2022–2026) at the Department of Civil Engineering, **Instituto Superior Técnico**. Her research introduces the novel concept of airport metabolism – a holistic framework grounded in industrial ecology and urban metabolism theory, designed to root airport decarbonisation plans in the circular economy. Since 2025, she assists in the Transport Policy course for master’s and doctoral cohorts to lecture on transport decarbonisation. 
+
+Before Lisbon, María worked on governance and transport policy at the **Organisation for Economic Co-operation and Development** and the **International Transport Forum** in Paris (2020-2022) and served in the Spanish public sector in **Rio de Janeiro** and **Madrid** (2014–2017).
