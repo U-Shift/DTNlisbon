@@ -8,16 +8,16 @@ format:
 
 | <span class="table-team"></span> | | |
 | -- | -- | --------- |
-| ![](/images/team/fmoura.png) | [Filipe Moura](https://ushift.tecnico.ulisboa.pt/team-filipe-moura/){target="_blank"} | Coordinator |
-| ![](/images/team/rfelix.png) | [Rosa Félix](https://ushift.tecnico.ulisboa.pt/team-rosa-felix/){target="_blank"} | Social events |
-| ![](/images/team/gvalenca.png) | [Gabriel Valença](https://ushift.tecnico.ulisboa.pt/team-gabriel-valenca/){target="_blank"} | Program |
-| ![](/images/team/achrist.png) | [Ana Christ](https://ushift.tecnico.ulisboa.pt/team-ana-karina-christ/){target="_blank"} | Communication |
-| ![](/images/team/mfontalvo.png) | [Mauricio Fontalvo](https://ushift.tecnico.ulisboa.pt/team-mauricio-fontalvo/){target="_blank"} | Visits |
-| ![](/images/team/fnogueira.png) | [Freddy Nogueira](https://ushift.tecnico.ulisboa.pt/team-freddy-nogueira/){target="_blank"} | Catering |
-| ![](/images/team/jlucena.png) | [Jéssica Lucena](https://ushift.tecnico.ulisboa.pt/team-jessica-lucena){target="_blank"} | Catering |
+| [![](/images/team/fmoura.png)](https://ushift.tecnico.ulisboa.pt/team-filipe-moura/){target="_blank"} | [Filipe Moura](https://ushift.tecnico.ulisboa.pt/team-filipe-moura/){target="_blank"} | Coordinator |
+| [![](/images/team/rfelix.png)](https://ushift.tecnico.ulisboa.pt/team-rosa-felix/){target="_blank"} | [Rosa Félix](https://ushift.tecnico.ulisboa.pt/team-rosa-felix/){target="_blank"} | Social events |
+| [![](/images/team/gvalenca.png)](https://ushift.tecnico.ulisboa.pt/team-gabriel-valenca/){target="_blank"} | [Gabriel Valença](https://ushift.tecnico.ulisboa.pt/team-gabriel-valenca/){target="_blank"} | Program |
+| [![](/images/team/achrist.png)](https://ushift.tecnico.ulisboa.pt/team-ana-karina-christ/){target="_blank"} | [Ana Christ](https://ushift.tecnico.ulisboa.pt/team-ana-karina-christ/){target="_blank"} | Communication |
+| [![](/images/team/mfontalvo.png)](https://ushift.tecnico.ulisboa.pt/team-mauricio-fontalvo/){target="_blank"} | [Mauricio Fontalvo](https://ushift.tecnico.ulisboa.pt/team-mauricio-fontalvo/){target="_blank"} | Visits |
+| [![](/images/team/fnogueira.png)](https://ushift.tecnico.ulisboa.pt/team-freddy-nogueira/){target="_blank"} | [Freddy Nogueira](https://ushift.tecnico.ulisboa.pt/team-freddy-nogueira/){target="_blank"} | Catering |
+| [![](/images/team/jlucena.png)](https://ushift.tecnico.ulisboa.pt/team-jessica-lucena){target="_blank"} | [Jéssica Lucena](https://ushift.tecnico.ulisboa.pt/team-jessica-lucena){target="_blank"} | Catering |
 | ![](/images/team/maria.png) | Maria Santos | Logistics |
-| ![](/images/team/gmatos.png) | [Gonçalo Matos](https://ushift.tecnico.ulisboa.pt/team-goncalo-matos){target="_blank"} | Website |
-| ![](/images/team/mpires.png) | [Miguel Pires](https://ushift.tecnico.ulisboa.pt/team-miguel-pires){target="_blank"} | Support |
+| [![](/images/team/gmatos.png)](https://ushift.tecnico.ulisboa.pt/team-goncalo-matos){target="_blank"} | [Gonçalo Matos](https://ushift.tecnico.ulisboa.pt/team-goncalo-matos){target="_blank"} | Website |
+| [![](/images/team/mpires.png)](https://ushift.tecnico.ulisboa.pt/team-miguel-pires){target="_blank"} | [Miguel Pires](https://ushift.tecnico.ulisboa.pt/team-miguel-pires){target="_blank"} | Support |
 | ![](/images/team/tafonso.png) | Teresa Afonso | Staff |
 |  |  |  |
 
