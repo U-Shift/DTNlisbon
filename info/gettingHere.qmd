@@ -33,7 +33,7 @@ Regarding metro, the stippness of the terrain in this area makes Entrecampos a b
 
 ## {{< fa bus-simple >}} By bus
 
-> Urban buses accept contacless card payment :)
+> Urban buses accept contactless card payment :)
 
 IGOT is served by several lines of the urban bus operator, [Carris](https://carris.pt/en/travel/carreiras/){target="_blank"}, connecting to almost anywhere in the city: 701, 731, 732, 735, 738, 754, 755, 764 and 768.
 
