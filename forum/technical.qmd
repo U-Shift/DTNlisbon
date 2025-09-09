@@ -9,6 +9,10 @@ format:
   {{< fa calendar >}} This page refers to an event that will take place on the [11th September](/forum/day2.html)
 </div>
 
+<div class="alert alert-warning">
+  {{< fa circle-info >}} Due to scheduling reasons, the technical visit to Carris will not take place. Participants will be assigned to one of the other visits. More information will be provided during the forum. 
+</div>
+
 On the [2nd day afternoon](/forum/day2.html), there will be technical visits to some mobility companies that operate in Potugal.
 
 <br/>
