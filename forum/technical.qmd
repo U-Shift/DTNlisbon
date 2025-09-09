@@ -13,16 +13,6 @@ On the [2nd day afternoon](/forum/day2.html), there will be technical visits to 
 
 <br/>
 
-## <img style="height: calc(1.29rem + 0.48vw)" src="https://carris.pt/media/q04iikx3/logosvg.svg"/>
-
-Carris is the public operator of Lisbon urban bus, tram and funicular services. Founded in 1872, it transports more than 130 million passengers every year.
-<br/><br/>
-This visit will take the participants to the operational control center and the buses workshop.
-<br/><br/>
-**Schedule**: 15:00 to 17:00 | 
-**Openings**: 25 participants | 
-**Location**:  [Miraflores garage](https://maps.app.goo.gl/JywHejjzY3r8RaaSA){target="_blank"}
-
 ## <img style="height: calc(1.29rem + 0.48vw)" src="https://www.infraestruturasdeportugal.pt/themes/ip_corporativo_theme/images/logo-cor.png"/>
 
 ::: {.alert .alert-info}
@@ -63,9 +53,7 @@ In this visit, the participants will have the opportunity to get to know TML hea
 
 <br/><br/><br/>
 
-::: {layout="[[35,30,35,23]]" layout-valign="center"}
-
-![Carris bus and tram](https://carris.pt/media/hctfu2l1/t_paco_carris.jpg?crop=0,0.28361204013377928,0,0.10916623003961472&cropmode=percentage&width=1366&height=525&rnd=133536028435800000)
+::: {layout="[[30,35,23]]" layout-valign="center"}
 
 ![Rail control center](https://www.infraestruturasdeportugal.pt/sites/default/files/2023-11/1150x550%20%284%29.jpg)
 
