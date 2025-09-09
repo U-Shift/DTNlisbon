@@ -18,13 +18,13 @@ The forum features keynote speeches, panel discussions, and workshops focused on
 
 ::: {layout="[[1,1,1,1]]" class="quick-links"}
 
-[{{< fa plane-arrival >}}<br/>Getting to Lisbon](/info/gettingToLisbon.html)
+[{{< fa route >}}<br/>Getting to the venue](/info/gettingHere.html)
 
-[{{< fa bed >}}<br/>Accommodation](/info/accommodation.html)
+[{{< fa map >}}<br/>Building plan](/info/venue.html)
 
-[{{< fa comment-dots >}}<br/>Forum](/forum/day1.html)
+[{{< fa calendar-day >}}<br/>Schedule](/forum/day1.html)
 
-[{{< fa book >}}<br/>Courses](/courses/course1.html)
+[{{< fa train >}}<br/>Getting around](/info/gettingAround.html)
 
 :::
 
