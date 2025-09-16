@@ -196,11 +196,11 @@
     "text": "Lidya Gonzalez is an Education Officer at EIT Urban Mobility in Barcelona, where she supports the Master School, Doctoral Training Network, and Fellowship programmes. With a background in chemistry and nanotechnology, she has coordinated educational initiatives at Stockholm University on climate, environment, and energy, and advised international MBA and Master’s candidates at QS Quacquarelli Symonds. She holds a Master’s degree in Molecular Nanoscience and Nanotechnology and a Bachelor’s in Chemistry from the Universidad Autónoma de Madrid. Passionate about climate change education and sustainable innovation, Lidya brings scientific expertise and cross-sector experience to advancing learning and collaboration."
   },
   {
-    "objectID": "team/cniederreiter.html",
-    "href": "team/cniederreiter.html",
-    "title": "Corinna Niederreiter",
+    "objectID": "team/msantos.html",
+    "href": "team/msantos.html",
+    "title": "Maria Santos",
     "section": "",
-    "text": "Corinna Niederreiter is a Program Manager at the EIT Urban Mobility Doctoral Training Network and Deputy Managing Director of the International Graduate School of Science and Engineering (IGSSE) at the Technical University of Munich. With extensive experience in academic programme coordination and international collaboration, she has managed interdisciplinary doctoral training and research initiatives at TUM and previously worked at Ludwig-Maximilians-Universität München in teaching and research roles. Corinna holds a Master’s degree in German as a Foreign Language and a Bachelor’s in Finno-Ugric Studies from LMU Munich. She is passionate about fostering interdisciplinary education, qualitative research, and innovative training for future urban mobility leaders."
+    "text": "María is a Ph.D. candidate in Transport Systems (2022–2026) at the Department of Civil Engineering, Instituto Superior Técnico. Her research introduces the novel concept of airport metabolism – a holistic framework grounded in industrial ecology and urban metabolism theory, designed to root airport decarbonisation plans in the circular economy. Since 2025, she assists in the Transport Policy course for master’s and doctoral cohorts to lecture on transport decarbonisation.\nBefore Lisbon, María worked on governance and transport policy at the Organisation for Economic Co-operation and Development and the International Transport Forum in Paris (2020-2022) and served in the Spanish public sector in Rio de Janeiro and Madrid (2014–2017)."
   },
   {
     "objectID": "courses/course2.html",
@@ -343,18 +343,67 @@
     "text": "Schedule Day 2 (9 Sept.)\n\n\n\n\n\n\n\n\n09:00\n Lecture 4: Sharing in Practice - scooters and mopeds\n\n\n\n Lecture 5: Sharing in Practice - bike-sharing\n\n\n\n Discussed Survey: Different solutions for different contexts\n\n\n12:30\n Free time\n\n\n13:00\n Lunch\n\n\n13:30\n Lecture 6: Research gaps and policy trends\n\n\n\n Workshop 3: Public Transport and sharing - SWOT Analysis\n\n\n\n Closing: Shared-Mobility Roadmap - research and policy challenges\n\n\n\n\n\n\n\n  \n    \n      \n        Teste\n        \n      \n      \n        \n      \n\n      \n\n      For the full building plan, check the venue page."
   },
   {
-    "objectID": "team/msantos.html",
-    "href": "team/msantos.html",
-    "title": "Maria Santos",
-    "section": "",
-    "text": "María is a Ph.D. candidate in Transport Systems (2022–2026) at the Department of Civil Engineering, Instituto Superior Técnico. Her research introduces the novel concept of airport metabolism – a holistic framework grounded in industrial ecology and urban metabolism theory, designed to root airport decarbonisation plans in the circular economy. Since 2025, she assists in the Transport Policy course for master’s and doctoral cohorts to lecture on transport decarbonisation.\nBefore Lisbon, María worked on governance and transport policy at the Organisation for Economic Co-operation and Development and the International Transport Forum in Paris (2020-2022) and served in the Spanish public sector in Rio de Janeiro and Madrid (2014–2017)."
+    "objectID": "slides.html#why-quarto-1",
+    "href": "slides.html#why-quarto-1",
+    "title": " <span class='hidden'>DTN Lisbon 2025</span> <img class='header-logo' src='/images/logos/dtn_lisbon.png' alt='EIT Urban Mobility DTN Annual Forum 2025' /> ",
+    "section": "Why Quarto?",
+    "text": "Why Quarto?\n\n\n\n\nOpen-source\nDocument oriented\n\n\n\n\n📄 index.qmd\n📁 info\n📄 info/accommodation.qmd\n📄 info/contacts.qmd\n📄 info/gettingAround.qmd\n📁 forum\n📄 forum/day1.qmd\n📄 forum/day2.qmd\n📄 forum/day3.qmd"
   },
   {
-    "objectID": "team/mrozendal.html",
-    "href": "team/mrozendal.html",
-    "title": "Marc Rozendal",
+    "objectID": "slides.html#why-quarto-2",
+    "href": "slides.html#why-quarto-2",
+    "title": " <span class='hidden'>DTN Lisbon 2025</span> <img class='header-logo' src='/images/logos/dtn_lisbon.png' alt='EIT Urban Mobility DTN Annual Forum 2025' /> ",
+    "section": "Why Quarto?",
+    "text": "Why Quarto?\n\n\n\nOpen-source\nDocument oriented\nNo coding required\n\n\n\nEasy to write, easy to read\n\n\n\nMarkdown Syntax\nOutput\n\n\n\n\n*italics*, **bold**, ***bold italics***\nitalics, bold, bold italics\n\n\n### Heading 3\nHeading 3\n\n\n- Bullet point\n\nBullet point\n\n\n\n[Link text](https://example.com)\nLink text"
+  },
+  {
+    "objectID": "slides.html#why-quarto-3",
+    "href": "slides.html#why-quarto-3",
+    "title": " <span class='hidden'>DTN Lisbon 2025</span> <img class='header-logo' src='/images/logos/dtn_lisbon.png' alt='EIT Urban Mobility DTN Annual Forum 2025' /> ",
+    "section": "Why Quarto?",
+    "text": "Why Quarto?\n\n\n\nOpen-source\nDocument oriented\nNo coding required\nFunctional elements built-in\n\n\n\n\n\n\n\nTop navigation\n\n\nwebsite:\n  navbar:\n    background: primary\n    search: true\n    left:\n      - text: \"Home\"\n        href: index.qmd\n      - talks.qmd\n      - about.qmd \n\n\n\n\n\nSidebar\n\n\nwebsite:\n  sidebar:\n    style: \"docked\"\n    search: true\n    contents:\n      - text: \"Introduction\"\n        href: introduction.qmd\n\n\n\n\n\nBuilt-in search\n\n\nwebsite:\n  navbar:\n    search: true"
+  },
+  {
+    "objectID": "slides.html#why-quarto-4",
+    "href": "slides.html#why-quarto-4",
+    "title": " <span class='hidden'>DTN Lisbon 2025</span> <img class='header-logo' src='/images/logos/dtn_lisbon.png' alt='EIT Urban Mobility DTN Annual Forum 2025' /> ",
+    "section": "Why Quarto?",
+    "text": "Why Quarto?\n\n\n\nOpen-source\nDocument oriented\nNo coding required\nFunctional elements built-in\nGitHub pages ready\n\n\n\n$ quarto publish gh-pages\nu-shift.github.io/DTNLisbon"
+  },
+  {
+    "objectID": "slides.html#section-1",
+    "href": "slides.html#section-1",
+    "title": " <span class='hidden'>DTN Lisbon 2025</span> <img class='header-logo' src='/images/logos/dtn_lisbon.png' alt='EIT Urban Mobility DTN Annual Forum 2025' /> ",
     "section": "",
-    "text": "Full Professor in Transportation Engineering since 2002, Civil Engineering Department of the Polytechnic University of Madrid, Spain, Andres Monzon founded the TRANSyT-Transport Research Center at the UPM in 2004, being its Director until 2017. He has been the Rector´s Delegate for Sustainable Urban Mobility and Coordinator of the Research and Academic Cluster MoviTUR-Mobility of the Future since 2020. Prof. Monzon promoted the Spanish Metropolitan Mobility Observatory and has been its Director since 2004. He founded the Spanish Forum of Transport Engineering and was its president from 2014 to 2023. Member of the Advisory Council of the Spanish Ministry of Transport and Sustainable Mobility since 2015.\n\n This instructor will host a course about Shared Mobility - Policy challenges and multimodal solutions"
+    "text": "Plain text markdown info/venue.qmd\n---\ntitle: \"Venue\"\nformat:\n  html:\n    css: ../styles/info.css\n\n---\n\nThe DTN Annual Forum 2025 will be hosted at Institute of Geography and Spatial Planning (IGOT). \nIt is located in the heart of Lisbon city and inside University of Lisbon campus, accessible by \nseveral transport modes. For more details on how to [get to Lisbon](/info/gettingToLisbon.html), \n[to the venue](/info/gettingHere.html) and [around the city](/info/gettingAround.html), check the\nrespective pages.\n\n![](https://www.igot.ulisboa.pt/sites/default/files/styles/imagem_banner_grande/public/images/\nimage_focal_point/2022-09/258-9487dbb71c4495cae503c1c2fc4f2c68.png?h=7097b478&itok=jzGbW0-5)\n{.preview-image}\n\n\nSidebar for simpler navigation _quarto.yml\nwebsite:\n  sidebar:\n    - id: info\n      title: \"Practical info\"\n      collapse-level: 2\n      contents:\n        - info/venue.qmd\n        - info/gettingHere.qmd\n        - info/gettingAround.qmd\n        - info/gettingToLisbon.qmd\n        - info/accommodation.qmd\n        - info/guides.qmd\n\n\nStyle improvements styles/theme.scss\n.sidebar-item {\n    border: 1px solid #cd7eabff;\n    border-radius: 32px;\n    padding: 6px;\n    padding-left: 12px;\n    text-wrap: wrap;\n\n    &:has(a.active) {background-color: #cd7eabff;}\n    &:has(a.active) .sidebar-item-text span {color: #ffffff!important;}\n    &:hover{text-decoration: underline;}\n\n    .active {font-weight: bold;}\n\n    .sidebar-item-text {\n        span {color: black!important;}\n    }\n}"
+  },
+  {
+    "objectID": "slides.html#section-2",
+    "href": "slides.html#section-2",
+    "title": " <span class='hidden'>DTN Lisbon 2025</span> <img class='header-logo' src='/images/logos/dtn_lisbon.png' alt='EIT Urban Mobility DTN Annual Forum 2025' /> ",
+    "section": "",
+    "text": "Plain text markdown forum/day1\n---\ntitle: 10th Sept. (Wednesday)\nimage: \"/images/backgrounds/dtn.png\"\nformat:\n  html:\n    css: ../styles/schedule.css\n---\n\n| |  |\n| --- | ---- |\n| 8:00 - 9:00 | &lt;span class=\"event-outline-blue\"&gt;&lt;/span&gt; Registration / coffee\n| 9:00        | &lt;span class=\"event-outline-blue\"&gt;&lt;/span&gt; Welcome \n| 09:30       | &lt;span class=\"event-filled-green\"&gt;&lt;/span&gt; Think! Data won’t tell the full\n| 10:15       | &lt;span class=\"event-outline-blue\"&gt;&lt;/span&gt; Coffee break \n| 10:45       | &lt;span class=\"event-filled-orange size-2\"&gt;&lt;/span&gt; PhD poster pitching \n| 12:15       | &lt;span class=\"event-outline-blue\"&gt;&lt;/span&gt; Lunch           |\n| 14:00       | &lt;span class=\"event-filled-blue size-2\"&gt;&lt;/span&gt; Lisbon Public Transit Experience\n\n\nStyle improvements styles/schedule.css\ntable td:has(.event-outline-blue) {\n    border: 1px solid #0798C6 !important;\n}\ntable td:has(.event-filled-green) {\n    background-color: #9Cb380 !important;\n    color: #fff!important;\n}\ntable td:has(.event-filled-orange) {\n    background-color: #FF7F51 !important;\n    color: #fff;\n}\ntable td:has(.event-filled-blue) {\n    color: #fff!important;\n    background-color: #0798C6 !important;\n}"
+  },
+  {
+    "objectID": "slides.html#section-3",
+    "href": "slides.html#section-3",
+    "title": " <span class='hidden'>DTN Lisbon 2025</span> <img class='header-logo' src='/images/logos/dtn_lisbon.png' alt='EIT Urban Mobility DTN Annual Forum 2025' /> ",
+    "section": "",
+    "text": "Plain text markdown based on built-in listing feature speakers/index.qmd\n---\ntitle: \"Speakers\"\nimage: \"/images/backgrounds/dtn.png\"\n\nformat:\n  html:\n    css: ../styles/speakers.css\n\nlisting:\n    type: grid\n    contents:\n    - path: /speakers/jcosteira.html\n      image: https://isr.tecnico.ulisboa.pt/jcosteira.jpg\n      title: João Paulo Costeira\n      description: \"\"\n      categories: []\n\n    - path: /speakers/zbent.html\n      image: https://nacto.org/wp-content/uploads/Bent-sq.jpg\n      title: Zabe Bent\n      description: \"\"\n      categories: []\n---"
+  },
+  {
+    "objectID": "slides.html#section-4",
+    "href": "slides.html#section-4",
+    "title": " <span class='hidden'>DTN Lisbon 2025</span> <img class='header-logo' src='/images/logos/dtn_lisbon.png' alt='EIT Urban Mobility DTN Annual Forum 2025' /> ",
+    "section": "",
+    "text": "Plain text markdown, with a tweak 🤫 index.qmd\n---\ntitle: \"&lt;span class='text-hidden'&gt;EIT Urban Mobility DTN Annual Forum 2025&lt;/span&gt;&lt;img\"\nsidebar: false\nimage: \"/images/backgrounds/dtn.png\"\nformat:\n  html:\n    page-layout: custom\n    css: styles/home.css\n    include-before-body: html/home/header.html\n---\n\nThe DTN Annual Forum is the DTN’s annual flagship event that gathers experts, scholars, and industry\nleaders from around the world to discuss the latest advancements in urban mobility. This vibrant forum\noffers participants an opportunity to present their research, engage in insightful discussions, and\nfoster collaborations.\n\n\nAdding custom HTML before page content assets/timer.html\n\n\n\nCreated with ChatGPT"
+  },
+  {
+    "objectID": "team/cniederreiter.html",
+    "href": "team/cniederreiter.html",
+    "title": "Corinna Niederreiter",
+    "section": "",
+    "text": "Corinna Niederreiter is a Program Manager at the EIT Urban Mobility Doctoral Training Network and Deputy Managing Director of the International Graduate School of Science and Engineering (IGSSE) at the Technical University of Munich. With extensive experience in academic programme coordination and international collaboration, she has managed interdisciplinary doctoral training and research initiatives at TUM and previously worked at Ludwig-Maximilians-Universität München in teaching and research roles. Corinna holds a Master’s degree in German as a Foreign Language and a Bachelor’s in Finno-Ugric Studies from LMU Munich. She is passionate about fostering interdisciplinary education, qualitative research, and innovative training for future urban mobility leaders."
   },
   {
     "objectID": "team/bbuttner.html",
