@@ -54,3 +54,5 @@ rsconnect/
 
 /.quarto/
 dtn25.Rproj
+
+**/*.quarto_ipynb
