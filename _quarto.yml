@@ -95,6 +95,8 @@ website:
     right:
       - icon: github
         href: https://github.com/U-Shift/dtn25
+      - icon: collection-play-fill
+        href: /slides.html
 
 
 
