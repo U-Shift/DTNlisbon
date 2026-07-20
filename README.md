@@ -2,4 +2,4 @@
 
 EIT Urban Mobility Doctoral Training Network Annual Forum
 
-Please visit [dtnlisbon.pt](https://dtnlisbon.pt/)
+Please visit [u-shift.github.io/DTNlisbon](https://u-shift.github.io/DTNlisbon/)
