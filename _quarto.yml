@@ -3,7 +3,6 @@ project:
   resources:
     - images/
     - assets/
-    - robots.txt
 
 website:
   favicon: /images/favicon.png
@@ -110,7 +109,6 @@ format:
     css: styles.css
     toc: false
     include-after-body: scripts/global.html
-    include-in-header: scripts/robots.html
 
 
 editor: visual
